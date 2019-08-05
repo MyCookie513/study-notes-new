@@ -1,0 +1,40 @@
+eureka:
+  client:
+    service-url:
+      defaultZone: http://127.0.0.1:10086/eureka
+    registry-fetch-interval-seconds: 5
+  instance:
+    lease-renewal-interval-in-seconds: 5
+    lease-expiration-duration-in-seconds: 10
+server:
+    port: 8080
+
+spring:
+  application:
+    name: Consumer-service
+
+user-service:
+  ribbon:
+    ConnectTimeout: 50
+    ReadTimeout: 50
+    OkToRetryOnAllOperations: true #是否对所有的操作都重试
+    MaxAutoRetriesnextServer: 1    #切换实例的重试次序：如果操作失败，可以尝试几次
+    MaxAutoRetries: 1              #对当前实例的重试次数
+hystrix: #熔断超时机制超时设定
+  command:
+    default:
+      execution:
+        isolation:
+          thread:
+            timeoutInMilliseconds: 10000
+  circuitBreaker:
+    sleepWindowInMilliseconds: 5
+    requestVolumeThreshold: 5
+    errorThresholdPercentage: 10
+
+feign:
+  hystrix:
+    enabled: true # 开启Feign的熔断功能
+logging:
+  level:
+    com.jason: debug

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.dao.BookMapper">
+
+
+
+
+    <select id="selectbook" resultType="com.pojo.BookFunEntity">
+
+SELECT t.typeName,sum(number) as sumber,MIN(price) AS miprice,
+       MAX(price) AS mxprice,AVG(price) AS avprice
+FROM  books b INNER JOIN booktype t
+ON b.typeId=t.typeId
+GROUP BY t.typeName;
+
+    </select>
+
+
+</mapper>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.jason.resultMap.UserMapper">
+
+
+
+    <!--在结果映射标签中有一个关联的javabean类，通过另一个select关联映射实现-->
+    <resultMap id="user_step" type="com.jason.Mapper.User">
+        <!--column:指定要进行判定的列名 ，javaType：列名对应的Java类型；
+      --> <result column="t_password" property="t_password" />
+        <discriminator javaType="integer" column="acount">
+            <!--如果是部门1 的人员则进行部门信息的查询-->
+            <case value="1" resultType="com.jason.Mapper.User">
+                <association property="acount" column="acount" select="com.jason.resultMap.AcountMapper.getAcountById"/>
+            </case>
+            <!-- 如果是部门2 OR　３则进行修改参数值的操作 -->
+            <case   value="2" >
+               <result column="t_username" property="t_usercol" />
+            </case>
+            <case   value="3" resultType="com.jason.Mapper.User">
+                <result column="t_password" property="t_username" />
+            </case>
+        </discriminator>
+    </resultMap>
+    <!--自定义的结果映射-->
+    <select id="getUserByStep" resultMap="user_step">
+         select  * from  t_user  where  idt_user=#{id}
+    </select>
+
+
+    <select id="SelectByMap" resultMap="usermapper">
+        select  * from t_user where t_username like  #{username}
+    </select>
+
+
+        <resultMap id="usermapper" type="com.jason.Mapper.User">
+            <id column="idt_user" property="idt_user"/>
+        </resultMap>
+
+
+    <resultMap id="newuser" type="com.jason.Mapper.User">
+        <id column="idt_user" property="idt_user"/>
+        <!--association可以指定要引用的javabean对象-->
+        <!--property ：指定那个属性是指定的对象；-->
+        <!--JavaType指定这个属性对象的类型类的全限定名【不能省略】-->
+        <association property="acount" javaType="com.jason.Mapper.Acount">
+            <id column="id" property="id"/>
+            <result column="user" property="user"/>
+            <result column="money" property="money"/>
+        </association>
+     </resultMap>
+
+
+    <select id="Select_user_acount" resultMap="newuser">
+        select * from t_user u,acount ac where u.acount=ac.id and u.idt_user=#{id}
+    </select>
+
+
+
+    <!--  分部查询一个部门的所有员工的step2   在user表中查出符合条件的员工；-->
+    <resultMap id="step2" type="com.jason.Mapper.User">
+        <id column="idt_user" property="idt_user"/>
+        <result column="t_username" property="t_username"/>
+        <result column="t_password" property="t_password"/>
+        <result column="date" property="date"/>
+    </resultMap>
+    <select id="getUsersByacoutstep2" resultMap="step2">
+        select * from t_user  where acount=#{id}
+    </select>
+
+
+</mapper>

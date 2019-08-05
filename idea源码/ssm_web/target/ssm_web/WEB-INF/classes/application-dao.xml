@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	   xmlns:context="http://www.springframework.org/schema/context"
+	   xmlns:tx="http://www.springframework.org/schema/tx"
+	   xmlns:aop="http://www.springframework.org/schema/aop"
+	   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	   xmlns:mvc="http://www.springframework.org/schema/mvc"
+	   xmlns:mybatis-spring="http://mybatis.org/schema/mybatis-spring"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+	http://www.springframework.org/schema/beans/spring-beans.xsd
+	http://www.springframework.org/schema/context
+	http://www.springframework.org/schema/context/spring-context.xsd
+	http://www.springframework.org/schema/tx
+    http://www.springframework.org/schema/tx/spring-tx.xsd
+    http://www.springframework.org/schema/aop
+    http://www.springframework.org/schema/aop/spring-aop.xsd
+	http://www.springframework.org/schema/mvc
+    http://www.springframework.org/schema/mvc/spring-mvc.xsd
+	http://mybatis.org/schema/mybatis-spring
+	http://mybatis.org/schema/mybatis-spring.xsd">
+
+
+
+
+
+
+
+
+
+	<!-- 解析db.properties 因为 db.properties里面有username=root 如果在下面的数据源中使用${username}它取到的是当前系统的登陆名
+            如果要使用db.properties里面的username必须加system-properties-mode="FALLBACK"这个属性 -->
+	<context:property-placeholder location="classpath:db.properties"  system-properties-mode="FALLBACK" />
+
+
+        <!-- 配置数据源  DriverManagerDataSource建立连接是只要有连接就新建一个connection,根本没有连接池的作用。   -->
+	<!--
+<bean id="dataSource"  class="org.springframework.jdbc.datasource.DriverManagerDataSource">
+    <property name="driverClassName" value="${jdbc.driver}" />
+    <property name="url" value="${jdbc.url}" />
+    <property name="username" value="${jdbc.username}" />
+    <property name="password" value="${jdbc.password}" />
+</bean>
+
+<bean id ="c3p0ID" class="com.mchange.v2.c3p0.ComboPooledDataSource">
+    <property name="driverClass" value="com.mysql.jdbc.Driver"></property>
+    <property name="jdbcUrl" value="jdbc:mysql://localhost:3306/spring_jdbctemplate"></property>
+    <property name="user" value="root"></property>
+    <property name="password" value="988513"></property>
+</bean>
+-->
+	<bean id ="dbcpID" class="org.apache.commons.dbcp.BasicDataSource"   destroy-method="close">
+		<property name="driverClassName" value="${jdbc.driver}"></property>
+		<property name="url" value="${jdbc.url}"></property>
+		<property name="username" value="${jdbc.username}"></property>
+		<property name="password" value="${jdbc.password}"></property>
+	</bean>
+
+
+
+
+
+	<!--配置数据源事务管理器管理器-->
+	<bean id="dataSourceTransactionManager" class="org.springframework.jdbc.datasource.DataSourceTransactionManager" >
+		<property name="dataSource" ref="dbcpID"/>
+	</bean>
+
+	<!--开启基于注解的事务-->
+	<tx:annotation-driven transaction-manager="dataSourceTransactionManager" />
+
+
+
+
+	<!-- 配置sqlSessinoFactory -->
+	<bean id="sqlSessionFactoryid" class="org.mybatis.spring.SqlSessionFactoryBean">
+		<property name="dataSource" ref="dbcpID"></property>
+		<!--mybatis的配置文件 -->
+		<property name="configLocation" value="classpath:mybatis.cfg.xml" />
+		<!--扫描 XXXmapper.xml映射文件,配置扫描的路径 这个不配置也可以，但是不配置的话，下面dao和xxxMapper.xml必须放在同一个包下面 -->
+		<property name="mapperLocations">
+			<array>
+				<value>classpath:mapper/*.xml</value>
+			</array>
+		</property>
+	</bean>
+
+
+
+
+
+
+	<!-- 扫描所有的mapper接口返回能够使用的mapper代理类，使他们能够自动注入 -->
+<!--	<bean class="org.mybatis.spring.mapper.MapperScannerConfigurer">
+		&lt;!&ndash; 以下的配置只能指向一个包 如果配置多个呢 就在包的中间加, &ndash;&gt;
+		<property name="basePackage" value="com.dao" />
+		<property name="sqlSessionFactoryBeanName" value="sqlSessionFactory"></property>
+	</bean>-->
+
+	<mybatis-spring:scan base-package="com.dao" />
+
+
+
+
+</beans>

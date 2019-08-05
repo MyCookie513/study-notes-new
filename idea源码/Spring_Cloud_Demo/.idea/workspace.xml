@@ -1,0 +1,1522 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5144d582-93d7-4c54-af19-c51ab686001a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/ClassLoader/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/ClassLoader/spring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java基础知识/ConnectionPool/ConPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java基础知识/ConnectionPool/ConnDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java基础知识/ConnectionPool/PoolService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java基础知识/ConnectionPool/connDB.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java基础知识/ConnectionPool/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java基础知识/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java基础知识/enum0/Color.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java基础知识/enum0/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/ActiveObject__接受异步消息的主动方法/ActiveObject/ActiveObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/ActiveObject__接受异步消息的主动方法/ActiveObject/ActiveObjectProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/ActiveObject__接受异步消息的主动方法/ActiveObject/Servant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/ActiveObject__接受异步消息的主动方法/ActiveObjectFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/ActiveObject__接受异步消息的主动方法/Client/DisplayClientThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/ActiveObject__接受异步消息的主动方法/Client/makeStringClientThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/ActiveObject__接受异步消息的主动方法/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/ActiveObject__接受异步消息的主动方法/MethodRequestQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/ActiveObject__接受异步消息的主动方法/Result/FutrueResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/ActiveObject__接受异步消息的主动方法/Result/RealResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/ActiveObject__接受异步消息的主动方法/Result/Result.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/ActiveObject__接受异步消息的主动方法/SchedulerThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/ActiveObject__接受异步消息的主动方法/异步Request/DisplayMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/ActiveObject__接受异步消息的主动方法/异步Request/MethodRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/ActiveObject__接受异步消息的主动方法/异步Request/makeStringRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/Balking_阻碍放弃设计模式/BalkingData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/Balking_阻碍放弃设计模式/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/Balking_阻碍放弃设计模式/changeClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/Balking_阻碍放弃设计模式/saveServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/CountDownLatch/CountDownDIY.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/CountDownLatch/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/GuardedSuspension/ClientThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/GuardedSuspension/Request.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/GuardedSuspension/RequestQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/GuardedSuspension/ServerThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/GuardedSuspension/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/TwoPhaseTermination第二阶段的终止设计模式/CounterIncrement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/TwoPhaseTermination第二阶段的终止设计模式/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/producerAndConsumer模式/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/producerAndConsumer模式/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/producerAndConsumer模式/MessageQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/producerAndConsumer模式/Message_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/producerAndConsumer模式/Producer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/多线程上下文设计模式__ThreadLocal/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/多线程上下文设计模式__ThreadLocal/ThreadLocal_impl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/多线程上下文设计模式__ThreadLocal/项目应用/ActionContest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/多线程上下文设计模式__ThreadLocal/项目应用/Context.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/多线程上下文设计模式__ThreadLocal/项目应用/ExecutionTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/多线程上下文设计模式__ThreadLocal/项目应用/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/多线程上下文设计模式__ThreadLocal/项目应用/QueryFromDBAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/多线程上下文设计模式__ThreadLocal/项目应用/QueryFromHttp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/流水线设计模式/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/流水线设计模式/Request.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/流水线设计模式/RequestQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/流水线设计模式/TransformThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/流水线设计模式/WorkerThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../http-demo/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../http-demo/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../http-demo/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../http-demo/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../http-demo/.idea/libraries/Maven__com_fasterxml_classmate_1_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../http-demo/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../http-demo/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../http-demo/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../http-demo/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../http-demo/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../http-demo/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../http-demo/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../http-demo/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../http-demo/.idea/libraries/Maven__commons_codec_commons_codec_1_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../http-demo/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../http-demo/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../http-demo/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../http-demo/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_7_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../http-demo/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_7_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../http-demo/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../http-demo/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../http-demo/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../http-demo/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../http-demo/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_10_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../http-demo/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_10_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../http-demo/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_29.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../http-demo/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_29.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../http-demo/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_29.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../http-demo/.idea/libraries/Maven__org_assertj_assertj_core_3_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../http-demo/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../http-demo/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../http-demo/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_9_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../http-demo/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../http-demo/.idea/libraries/Maven__org_mockito_mockito_core_2_15_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../http-demo/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../http-demo/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../http-demo/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../http-demo/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../http-demo/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../http-demo/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_0_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../http-demo/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_0_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../http-demo/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_0_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../http-demo/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_0_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../http-demo/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_0_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../http-demo/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_0_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../http-demo/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_0_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../http-demo/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_0_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../http-demo/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_0_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../http-demo/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_0_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../http-demo/.idea/libraries/Maven__org_springframework_spring_aop_5_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../http-demo/.idea/libraries/Maven__org_springframework_spring_beans_5_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../http-demo/.idea/libraries/Maven__org_springframework_spring_context_5_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../http-demo/.idea/libraries/Maven__org_springframework_spring_core_5_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../http-demo/.idea/libraries/Maven__org_springframework_spring_expression_5_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../http-demo/.idea/libraries/Maven__org_springframework_spring_jcl_5_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../http-demo/.idea/libraries/Maven__org_springframework_spring_test_5_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../http-demo/.idea/libraries/Maven__org_springframework_spring_web_5_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../http-demo/.idea/libraries/Maven__org_springframework_spring_webmvc_5_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../http-demo/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../http-demo/.idea/libraries/Maven__org_yaml_snakeyaml_1_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../http-demo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../http-demo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../http-demo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../http-demo/http-demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springBootdemo/.idea/artifacts/springBootdemo_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springBootdemo/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springBootdemo/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springBootdemo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springBootdemo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springBootdemo/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springBootdemo/springBootdemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springBootdemo/src/main/java/com/jason/BootdemoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../数据结构及算法强化/src/Leetcode/两数相加/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../数据结构及算法强化/src/Leetcode/两数相加/最大长度的不重复的字串.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../数据结构及算法强化/src/twosum__属于查找算法/Notes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../数据结构及算法强化/src/twosum__属于查找算法/Second.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../数据结构及算法强化/src/twosum__属于查找算法/twosum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../数据结构及算法强化/src/排序/冒泡排序.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../数据结构及算法强化/src/排序/冒泡排序优化版.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../数据结构及算法强化/src/链表类题/环形链表.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/Ajax_study/.markers" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/Ajax_study/.markers" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/Ajax_study/.markers.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/Ajax_study/.syncinfo.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/ArtFire/.markers" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/ArtFire/.markers" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/ArtFire/.markers.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/ArtFire/.syncinfo.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/ArtFire2.0/.markers" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/ArtFire2.0/.markers" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/ArtFire2.0/.markers.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/ArtFire2.0/.syncinfo.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/ICQClient/.markers.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/ICQClient/.syncinfo.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/ICQServer/.markers.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/ICQServer/.syncinfo.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/RemoteSystemsTempFiles/.markers.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/RemoteSystemsTempFiles/.syncinfo.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/Servers/.markers.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/Servers/.syncinfo.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/Spring_AOP/.markers" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/Spring_AOP/.markers" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/Spring_AOP/.markers.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/Spring_AOP/.syncinfo.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/Spring开发/.markers" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/Spring开发/.markers" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/Spring开发/.markers.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/Spring开发/.syncinfo.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/YaShiBaby/.markers" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/YaShiBaby/.markers" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/YaShiBaby/.markers.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/YaShiBaby/.syncinfo.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/apache_struts/.markers" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/apache_struts/.markers" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/apache_struts/.markers.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/apache_struts/.syncinfo.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/biluservlet/.markers" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/biluservlet/.markers" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/biluservlet/.markers.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/biluservlet/.syncinfo.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/java_homework/.markers.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/java_homework/.syncinfo.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/java中重要的基础点/.markers" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/java中重要的基础点/.markers" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/java中重要的基础点/.markers.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/java中重要的基础点/.syncinfo.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/squirrel/.markers" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/squirrel/.markers" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/squirrel/.markers.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/squirrel/.syncinfo.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/struts2_jack/.markers" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/struts2_jack/.markers" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/struts2_jack/.markers.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/struts2_jack/.syncinfo.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/swing/.markers" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/swing/.markers" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/swing/.markers.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/swing/.syncinfo.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/test_hibernate_mapping_sql/.markers" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/test_hibernate_mapping_sql/.markers" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/test_hibernate_mapping_sql/.markers.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/test_hibernate_mapping_sql/.syncinfo.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/web前端学习/.markers" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/web前端学习/.markers" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/web前端学习/.markers.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/web前端学习/.syncinfo.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/数据结构与算法/.markers" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/数据结构与算法/.markers" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/数据结构与算法/.markers.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/数据结构与算法/.syncinfo.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/线程并发/.markers" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/线程并发/.markers" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/线程并发/.markers.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/线程并发/.syncinfo.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.root/.markers.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.root/35.tree" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/35.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.debug.ui/launchConfigurationHistory.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.debug.ui/launchConfigurationHistory.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/server-config.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/server-config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jdt.core/1354114812.index" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jdt.core/1354114812.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jdt.core/3254915422.index" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jdt.core/3254915422.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jdt.core/3988400488.index" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jdt.core/3988400488.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jdt.core/531563734.index" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jdt.core/531563734.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jdt.core/923079190.index" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jdt.core/923079190.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jdt.core/participantsIndexNames.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jdt.core/participantsIndexNames.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2460977927.index" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2460977927.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jst.jsp.core/taglibindex/1186395366.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jst.jsp.core/taglibindex/1186395366.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jst.jsp.core/taglibindex/382194693.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jst.jsp.core/taglibindex/382194693.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jst.jsp.core/taglibindex/531563734.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jst.jsp.core/taglibindex/531563734.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.ui.ide/dialog_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.ui.ide/dialog_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.wst.internet.cache/cache.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.wst.internet.cache/cache.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes/531563734.index" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes/531563734.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes/savedIndexNames.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes/savedIndexNames.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.wst.validation/dep.index" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.wst.validation/dep.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/version.ini" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/version.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.recommenders/caches/identified-project-coordinates.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.recommenders/caches/identified-project-coordinates.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/_b.fdt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/_b.fdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/_b.fnm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/_b.frq" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/_b.nrm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/_b.prx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/_b.tii" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/_b.tis" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/segments.gen" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/segments.gen" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/segments_c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/Ajax_study/build/classes/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/Ajax_study/build/classes/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/ArtFire2.0/build/classes/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/ArtFire2.0/build/classes/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/Spring_AOP/build/classes/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/Spring_AOP/build/classes/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/biluservlet/build/classes/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/struts2_jack/build/classes/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/线程并发/build/classes/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Study Notes/JVM/JVM笔记.doc" beforeDir="false" afterPath="$PROJECT_DIR$/../../Study Notes/JVM/JVM笔记.doc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Study Notes/Linux/Linux Command.doc" beforeDir="false" afterPath="$PROJECT_DIR$/../../Study Notes/Linux/Linux Command.doc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Study Notes/Linux/~$nux Command.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Study Notes/Point/准备笔记.doc" beforeDir="false" afterPath="$PROJECT_DIR$/../../Study Notes/Point/准备笔记.doc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Study Notes/高并发/高并发笔记.doc" beforeDir="false" afterPath="$PROJECT_DIR$/../../Study Notes/高并发/高并发笔记.doc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Important_Point_java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Important_Point_java/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Important_Point_java/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Important_Point_java/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第一阶段/仿显式锁Lock实现/Lock.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第一阶段/仿显式锁Lock实现/Lock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/Future设计模式的实现/AsynFuture.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/Future设计模式的实现/AsynFuture.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/Singleton/SingletonObject6.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/Singleton/SingletonObject6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/Singleton/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/Singleton/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/VolatileTest/VolatileTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/VolatileTest/VolatileTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第一阶段/JUC_Lock_三个线程依次调用/Alternate_printf.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第一阶段/JUC_Lock_三个线程依次调用/Main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第一阶段/JUC_Lock_三个线程依次调用/Main$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第一阶段/JUC_Lock_三个线程依次调用/Main$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第一阶段/JUC_Lock_三个线程依次调用/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第一阶段/ThreadGroup/ThreadGroupCteater$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第一阶段/ThreadGroup/ThreadGroupCteater$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第三阶段/AtomicStampedReference/AtomicStampedReferenceTest$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第三阶段/AtomicStampedReference/AtomicStampedReferenceTest$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第二阶段/Future设计模式的实现/AsynFuture.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第二阶段/Future设计模式的实现/AsynFuture.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第二阶段/Singleton/SingletonObject6$InstanceHolder.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第二阶段/Singleton/SingletonObject6$InstanceHolder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第二阶段/Singleton/SingletonObject6.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第二阶段/Singleton/SingletonObject6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第二阶段/Singleton/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第二阶段/Singleton/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第二阶段/VolatileTest/VolatileTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第二阶段/VolatileTest/VolatileTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mybatis_study/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Mybatis_study/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../数据结构及算法强化/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../数据结构及算法强化/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../数据结构及算法强化/out/production/数据结构及算法强化/排序/堆排序.class" beforeDir="false" afterPath="$PROJECT_DIR$/../数据结构及算法强化/out/production/数据结构及算法强化/排序/堆排序.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../数据结构及算法强化/out/production/数据结构及算法强化/排序/归并排序.class" beforeDir="false" afterPath="$PROJECT_DIR$/../数据结构及算法强化/out/production/数据结构及算法强化/排序/归并排序.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../数据结构及算法强化/out/production/数据结构及算法强化/排序/插入排序.class" beforeDir="false" afterPath="$PROJECT_DIR$/../数据结构及算法强化/out/production/数据结构及算法强化/排序/插入排序.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../数据结构及算法强化/out/production/数据结构及算法强化/线段树/Query_Range_Update_Range.class" beforeDir="false" afterPath="$PROJECT_DIR$/../数据结构及算法强化/out/production/数据结构及算法强化/线段树/Query_Range_Update_Range.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../数据结构及算法强化/out/production/数据结构及算法强化/线段树/Seg_Tree$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/../数据结构及算法强化/out/production/数据结构及算法强化/线段树/Seg_Tree$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../数据结构及算法强化/out/production/数据结构及算法强化/线段树/Seg_Tree.class" beforeDir="false" afterPath="$PROJECT_DIR$/../数据结构及算法强化/out/production/数据结构及算法强化/线段树/Seg_Tree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../数据结构及算法强化/src/排序/归并排序.java" beforeDir="false" afterPath="$PROJECT_DIR$/../数据结构及算法强化/src/排序/归并排序.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../数据结构及算法强化/src/排序/插入排序.java" beforeDir="false" afterPath="$PROJECT_DIR$/../数据结构及算法强化/src/排序/插入排序.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../数据结构及算法强化/src/线段树/Info.java" beforeDir="false" afterPath="$PROJECT_DIR$/../数据结构及算法强化/src/线段树/Info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../数据结构及算法强化/src/线段树/Query_Range_Update_Range.java" beforeDir="false" afterPath="$PROJECT_DIR$/../数据结构及算法强化/src/线段树/Query_Range_Update_Range.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/User-Service/target/" />
+    <ignored path="$PROJECT_DIR$/Consumer-Service/target/" />
+    <ignored path="$PROJECT_DIR$/Eureka-Service/target/" />
+    <ignored path="$PROJECT_DIR$/Eureka/target/" />
+    <ignored path="$PROJECT_DIR$/zuul-gateway/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Spring_Cloud_Demo" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Consumer-Service/src/main/java/com/jason/ConsumerApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="320">
+              <caret line="20" selection-start-line="20" selection-end-line="24" selection-end-column="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Consumer-Service/src/main/resources/Application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="344">
+              <caret line="36" column="32" selection-start-line="36" selection-start-column="20" selection-end-line="36" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/User-Service/src/main/java/com/jason/web/controller.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="296">
+              <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/util/Collections.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2009">
+              <caret line="121" column="58" selection-start-line="121" selection-start-column="58" selection-end-line="121" selection-end-column="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Consumer-Service/src/main/java/com/jason/controller/UserCalled.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-774">
+              <caret line="27" column="30" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.11/httpcore-4.4.11-sources.jar!/org/apache/http/HttpStatus.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="78">
+              <caret line="130" column="7" lean-forward="true" selection-start-line="130" selection-start-column="7" selection-end-line="130" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zuul-gateway/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/User-Service/src/main/java/com/jason/UserApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="312">
+              <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/User-Service/src/main/resources/Application.yaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="24">
+              <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>register</find>
+      <find>default_executionTimeoutInMilliseconds</find>
+      <find>circuitBreakerSleepWindowInMilliseconds</find>
+      <find>circuitBreakerErrorThresholdPercentage</find>
+      <find>default_circuitBreakerRequestVolumeThreshold</find>
+      <find>default_circuitBreakerErrorThresholdPercentage</find>
+      <find>LOGGING_LEVEL</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/User-Service/src/main/java/com/jason/com/jason/mapper/UserMapper.java" />
+        <option value="$PROJECT_DIR$/User-Service/src/main/java/com/jason/mapper/UserMapper.java" />
+        <option value="$PROJECT_DIR$/User-Service/src/main/java/com/jason/service/UserService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/USer.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/Application.yml" />
+        <option value="$PROJECT_DIR$/User-Service/src/main/java/com/jason/pojo/User.java" />
+        <option value="$PROJECT_DIR$/Consumer-Service/src/main/java/com/jason/Consumer.java" />
+        <option value="$PROJECT_DIR$/Consumer-Service/src/main/java/com/jason/pojo/User.java" />
+        <option value="$PROJECT_DIR$/Consumer-Service/src/test/java/Test.java" />
+        <option value="$PROJECT_DIR$/Eureka-Service/src/main/resources/Applicaton.yaml" />
+        <option value="$PROJECT_DIR$/Eureka-Service/src/main/java/com/jason/EurekaServer.java" />
+        <option value="$PROJECT_DIR$/Eureka-Service/pom.xml" />
+        <option value="$PROJECT_DIR$/Eureka-service/pom.xml" />
+        <option value="$PROJECT_DIR$/Eureka-service/src/main/java/com/jason/EurekeService.java" />
+        <option value="$PROJECT_DIR$/Eureka/src/main/resources/Application.yaml" />
+        <option value="$PROJECT_DIR$/Eureka/src/main/java/com/jason/demo/DemoApplication.java" />
+        <option value="$PROJECT_DIR$/User-Service/src/main/java/com/jason/UserApplication.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/User-Service/pom.xml" />
+        <option value="$USER_HOME$/.m2/settings.xml" />
+        <option value="$PROJECT_DIR$/User-Service/src/main/resources/Application.yaml" />
+        <option value="$PROJECT_DIR$/Consumer-Service/src/main/java/com/jason/client/UserClientImpl.java" />
+        <option value="$PROJECT_DIR$/Consumer-Service/pom.xml" />
+        <option value="$PROJECT_DIR$/zuul-gateway/src/main/java/com/jason/demo/ZuulDemoApplication.java" />
+        <option value="$PROJECT_DIR$/Eureka/src/main/resources/Application.yml" />
+        <option value="$PROJECT_DIR$/zuul-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/zuul-gateway/src/main/java/com/jason/demo/filter/loginFilter.java" />
+        <option value="$PROJECT_DIR$/User-Service/src/main/java/com/jason/web/controller.java" />
+        <option value="$PROJECT_DIR$/zuul-gateway/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/Consumer-Service/src/main/java/com/jason/client/UserClient.java" />
+        <option value="$PROJECT_DIR$/Consumer-Service/src/main/java/com/jason/controller/UserCalled.java" />
+        <option value="$PROJECT_DIR$/Consumer-Service/src/main/resources/Application.yml" />
+        <option value="$PROJECT_DIR$/Consumer-Service/src/main/java/com/jason/ConsumerApplication.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="zuul-demo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="zuul-demo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="zuul-demo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+          <item name="org.springframework.cloud:spring-cloud-starter-netflix-zuul:2.1.2.RELEASE" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1340" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Spring_Cloud_Demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring_Cloud_Demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring_Cloud_Demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring_Cloud_Demo" type="462c0819:PsiDirectoryNode" />
+              <item name="Consumer-Service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring_Cloud_Demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring_Cloud_Demo" type="462c0819:PsiDirectoryNode" />
+              <item name="Consumer-Service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring_Cloud_Demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring_Cloud_Demo" type="462c0819:PsiDirectoryNode" />
+              <item name="Consumer-Service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring_Cloud_Demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring_Cloud_Demo" type="462c0819:PsiDirectoryNode" />
+              <item name="Consumer-Service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring_Cloud_Demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring_Cloud_Demo" type="462c0819:PsiDirectoryNode" />
+              <item name="Consumer-Service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="jason" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring_Cloud_Demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring_Cloud_Demo" type="462c0819:PsiDirectoryNode" />
+              <item name="Consumer-Service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="jason" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring_Cloud_Demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring_Cloud_Demo" type="462c0819:PsiDirectoryNode" />
+              <item name="Consumer-Service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="jason" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring_Cloud_Demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring_Cloud_Demo" type="462c0819:PsiDirectoryNode" />
+              <item name="Consumer-Service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring_Cloud_Demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring_Cloud_Demo" type="462c0819:PsiDirectoryNode" />
+              <item name="User-Service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring_Cloud_Demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring_Cloud_Demo" type="462c0819:PsiDirectoryNode" />
+              <item name="User-Service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring_Cloud_Demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring_Cloud_Demo" type="462c0819:PsiDirectoryNode" />
+              <item name="User-Service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring_Cloud_Demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring_Cloud_Demo" type="462c0819:PsiDirectoryNode" />
+              <item name="User-Service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring_Cloud_Demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring_Cloud_Demo" type="462c0819:PsiDirectoryNode" />
+              <item name="User-Service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="jason" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring_Cloud_Demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring_Cloud_Demo" type="462c0819:PsiDirectoryNode" />
+              <item name="User-Service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="jason" type="462c0819:PsiDirectoryNode" />
+              <item name="pojo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring_Cloud_Demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring_Cloud_Demo" type="462c0819:PsiDirectoryNode" />
+              <item name="User-Service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="jason" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring_Cloud_Demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring_Cloud_Demo" type="462c0819:PsiDirectoryNode" />
+              <item name="User-Service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="jason" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring_Cloud_Demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring_Cloud_Demo" type="462c0819:PsiDirectoryNode" />
+              <item name="User-Service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring_Cloud_Demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring_Cloud_Demo" type="462c0819:PsiDirectoryNode" />
+              <item name="zuul-gateway" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring_Cloud_Demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring_Cloud_Demo" type="462c0819:PsiDirectoryNode" />
+              <item name="zuul-gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring_Cloud_Demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring_Cloud_Demo" type="462c0819:PsiDirectoryNode" />
+              <item name="zuul-gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring_Cloud_Demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring_Cloud_Demo" type="462c0819:PsiDirectoryNode" />
+              <item name="zuul-gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring_Cloud_Demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring_Cloud_Demo" type="462c0819:PsiDirectoryNode" />
+              <item name="zuul-gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring_Cloud_Demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring_Cloud_Demo" type="462c0819:PsiDirectoryNode" />
+              <item name="zuul-gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="filter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring_Cloud_Demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring_Cloud_Demo" type="462c0819:PsiDirectoryNode" />
+              <item name="zuul-gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Consumer-Service/src/main/resources/Application.yml" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+    <option name="contentProportion" value="0.2189441" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.UserApplication 2">
+    <configuration name="Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ConsumerService" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test.Tse" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ConsumerService" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <option name="METHOD_NAME" value="Tse" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ConsumerService" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ConsumerService" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jason.ConsumerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Eureka" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jason.demo.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplication2" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Eureka" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jason.demo.DemoApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserApplication 2" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="UserService" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jason.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jason.UserApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="UserService" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jason.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jason.UserApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZuulDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="zuul-gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jason.demo.ZuulDemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.Test" />
+      <item itemvalue="JUnit.Test.test" />
+      <item itemvalue="JUnit.Test.Tse" />
+      <item itemvalue="Spring Boot.ConsumerApplication" />
+      <item itemvalue="Spring Boot.DemoApplication" />
+      <item itemvalue="Spring Boot.DemoApplication2" />
+      <item itemvalue="Spring Boot.UserApplication 2" />
+      <item itemvalue="Spring Boot.UserApplication" />
+      <item itemvalue="Spring Boot.ZuulDemoApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.UserApplication" />
+        <item itemvalue="JUnit.Test.Tse" />
+        <item itemvalue="JUnit.Test.test" />
+        <item itemvalue="JUnit.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5144d582-93d7-4c54-af19-c51ab686001a" name="Default Changelist" comment="" />
+      <created>1564393604917</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564393604917</updated>
+      <workItem from="1564393611964" duration="11015000" />
+      <workItem from="1564544449334" duration="1371000" />
+      <workItem from="1564555620906" duration="23745000" />
+      <workItem from="1564622699905" duration="18078000" />
+      <workItem from="1564719411313" duration="6393000" />
+      <workItem from="1564750223473" duration="8269000" />
+      <workItem from="1564761598174" duration="1738000" />
+      <workItem from="1564794042386" duration="23906000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Test - 2019.07.31 at 11h 48m 20s.xml">
+      <configuration name="Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test_test - 2019.07.31 at 11h 50m 13s.xml">
+      <configuration name="Test.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test_test - 2019.07.31 at 11h 50m 56s.xml">
+      <configuration name="Test.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test_test - 2019.07.31 at 11h 53m 59s.xml">
+      <configuration name="Test.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test_test - 2019.07.31 at 15h 51m 28s.xml">
+      <configuration name="Test.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test_Tse - 2019.07.31 at 15h 52m 31s.xml">
+      <configuration name="Test.Tse" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="94515000" />
+  </component>
+  <component name="TodoView" selected-index="3">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49508196" visible="true" weight="0.2530395" />
+      <window_info id="Structure" order="1" sideWeight="0.50491804" side_tool="true" weight="0.19452888" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.5032787" side_tool="true" weight="0.2575988" />
+      <window_info id="Web" order="7" sideWeight="0.50163937" side_tool="true" weight="0.25" />
+      <window_info active="true" anchor="bottom" id="Run Dashboard" order="0" visible="true" weight="0.53114754" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.88360655" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.3295082" />
+      <window_info anchor="bottom" id="Spring" order="8" weight="0.3295082" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3295082" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3295082" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" weight="0.3295082" />
+      <window_info anchor="bottom" id="Database Changes" order="14" />
+      <window_info anchor="bottom" id="Version Control" order="15" weight="0.3295082" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Maven" order="2" weight="0.49392098" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32978722" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Bean Validation" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="7" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="9" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4967213" visible="true" weight="0.10866261" />
+      <window_info id="Structure" order="1" sideWeight="0.5032787" side_tool="true" weight="0.2530395" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.5032787" side_tool="true" weight="0.2575988" />
+      <window_info id="Web" order="7" sideWeight="0.50163937" side_tool="true" weight="0.25" />
+      <window_info active="true" anchor="bottom" id="Run Dashboard" order="0" visible="true" weight="0.5327869" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.88360655" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.3295082" />
+      <window_info anchor="bottom" id="Spring" order="8" weight="0.3295082" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3295082" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.3295082" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3295082" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" weight="0.3295082" />
+      <window_info anchor="bottom" id="Database Changes" order="14" />
+      <window_info anchor="bottom" id="Version Control" order="15" weight="0.3295082" />
+      <window_info anchor="right" id="Maven" order="0" weight="0.49392098" />
+      <window_info anchor="right" id="Palette" order="1" />
+      <window_info anchor="right" id="Capture Analysis" order="2" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32978722" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Bean Validation" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="7" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="9" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-commons/2.1.2.RELEASE/spring-cloud-commons-2.1.2.RELEASE-sources.jar!/org/springframework/cloud/client/loadbalancer/LoadBalancerInterceptor.java</url>
+          <line>53</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-commons/2.1.2.RELEASE/spring-cloud-commons-2.1.2.RELEASE-sources.jar!/org/springframework/cloud/client/loadbalancer/LoadBalancerRequestFactory.java</url>
+          <line>52</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-eureka-client/2.1.2.RELEASE/spring-cloud-netflix-eureka-client-2.1.2.RELEASE-sources.jar!/org/springframework/cloud/netflix/eureka/EurekaInstanceConfigBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="123" column="7" selection-start-line="123" selection-start-column="7" selection-end-line="123" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-eureka-server/2.1.2.RELEASE/spring-cloud-netflix-eureka-server-2.1.2.RELEASE-sources.jar!/org/springframework/cloud/netflix/eureka/server/EurekaServerConfigBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="402">
+          <caret line="60" column="20" selection-start-line="60" selection-start-column="20" selection-end-line="60" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#40407#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-eureka-client/2.1.2.RELEASE/spring-cloud-netflix-eureka-client-2.1.2.RELEASE-sources.jar!/org/springframework/cloud/netflix/eureka/EurekaClientConfigBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="281" column="20" selection-start-line="281" selection-start-column="20" selection-end-line="281" selection-end-column="20" />
+          <folding>
+            <element signature="e#23123#23124#0" expanded="true" />
+            <element signature="e#23158#23159#0" expanded="true" />
+            <element signature="e#23698#23699#0" expanded="true" />
+            <element signature="e#23749#23750#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-commons/2.1.2.RELEASE/spring-cloud-commons-2.1.2.RELEASE-sources.jar!/org/springframework/cloud/client/loadbalancer/LoadBalancerClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="41" column="10" selection-start-line="41" selection-start-column="10" selection-end-line="41" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-commons/2.1.2.RELEASE/spring-cloud-commons-2.1.2.RELEASE-sources.jar!/org/springframework/cloud/client/loadbalancer/LoadBalanced.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="36" column="18" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-starter-netflix-ribbon/2.1.2.RELEASE/spring-cloud-starter-netflix-ribbon-2.1.2.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="23" column="12" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-ribbon/2.1.2.RELEASE/spring-cloud-netflix-ribbon-2.1.2.RELEASE.jar!/org/springframework/cloud/netflix/ribbon/RibbonLoadBalancerClient.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-ribbon/2.1.2.RELEASE/spring-cloud-netflix-ribbon-2.1.2.RELEASE-sources.jar!/org/springframework/cloud/netflix/ribbon/RibbonAutoConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="88" column="29" selection-start-line="88" selection-start-column="11" selection-end-line="88" selection-end-column="29" />
+          <folding>
+            <element signature="e#3640#3641#0" expanded="true" />
+            <element signature="e#3705#3706#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.8.RELEASE/spring-web-5.1.8.RELEASE.jar!/org/springframework/web/client/RestTemplate.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-17">
+          <caret line="456" selection-start-line="456" selection-end-line="456" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.8.RELEASE/spring-web-5.1.8.RELEASE.jar!/org/springframework/http/client/AbstractClientHttpRequest.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="55">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.8.RELEASE/spring-web-5.1.8.RELEASE.jar!/org/springframework/http/client/AbstractBufferingClientHttpRequest.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="55">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-ribbon/2.1.2.RELEASE/spring-cloud-netflix-ribbon-2.1.2.RELEASE-sources.jar!/org/springframework/cloud/netflix/ribbon/RibbonLoadBalancerClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="98" selection-start-line="98" selection-end-line="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-commons/2.1.2.RELEASE/spring-cloud-commons-2.1.2.RELEASE-sources.jar!/org/springframework/cloud/client/loadbalancer/LoadBalancerInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="864">
+          <caret line="57" selection-start-line="57" selection-end-line="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.8.RELEASE/spring-web-5.1.8.RELEASE.jar!/org/springframework/http/client/InterceptingClientHttpRequest.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-commons/2.1.2.RELEASE/spring-cloud-commons-2.1.2.RELEASE-sources.jar!/org/springframework/cloud/client/loadbalancer/LoadBalancerRequestFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/lang/Iterable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1128">
+          <caret line="74" column="19" selection-start-line="74" selection-start-column="19" selection-end-line="74" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/User-Service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1344">
+          <caret line="56" column="8" selection-start-line="56" selection-start-column="8" selection-end-line="59" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Consumer-Service/src/main/java/com/jason/pojo/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Eureka/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="428">
+          <caret line="42" column="25" selection-start-line="42" selection-start-column="25" selection-end-line="42" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/netflix/hystrix/hystrix-core/1.5.18/hystrix-core-1.5.18.jar!/com/netflix/hystrix/HystrixCommandProperties.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1776">
+          <caret line="81" column="128" selection-start-line="81" selection-start-column="80" selection-end-line="81" selection-end-column="128" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.m2/settings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/tk/mybatis/mapper-base/1.1.5/mapper-base-1.1.5.jar!/tk/mybatis/mapper/common/base/select/SelectByPrimaryKeyMapper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="17" column="6" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zuul-gateway/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Consumer-Service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="61" column="27" selection-start-line="50" selection-start-column="4" selection-end-line="61" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="46" column="20" selection-start-line="46" selection-start-column="20" selection-end-line="46" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Eureka/src/main/java/com/jason/demo/DemoApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#340#341#0" expanded="true" />
+            <element signature="e#406#407#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Eureka/src/main/resources/Application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zuul-gateway/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="40" column="19" selection-start-line="40" selection-start-column="19" selection-end-line="40" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.11/httpcore-4.4.11.jar!/org/apache/http/HttpStatus.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="388">
+          <caret line="57" selection-start-line="57" selection-end-line="57" />
+          <folding>
+            <element signature="e#0#1807#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/User-Service/src/main/java/com/jason/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zuul-gateway/src/main/java/com/jason/demo/filter/loginFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="37" column="55" selection-start-line="37" selection-start-column="43" selection-end-line="37" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#209#210#0" expanded="true" />
+            <element signature="e#236#237#0" expanded="true" />
+            <element signature="e#282#283#0" expanded="true" />
+            <element signature="e#306#307#0" expanded="true" />
+            <element signature="e#357#358#0" expanded="true" />
+            <element signature="e#385#386#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/netflix/hystrix/hystrix-javanica/1.5.18/hystrix-javanica-1.5.18.jar!/com/netflix/hystrix/contrib/javanica/annotation/HystrixCommand.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="27" column="16" lean-forward="true" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/netflix/hystrix/hystrix-javanica/1.5.18/hystrix-javanica-1.5.18.jar!/com/netflix/hystrix/contrib/javanica/annotation/HystrixProperty.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zuul-gateway/src/main/java/com/jason/demo/ZuulDemoApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/netflix/hystrix/hystrix-core/1.5.18/hystrix-core-1.5.18-sources.jar!/com/netflix/hystrix/config/HystrixCommandConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1824">
+          <caret line="103" column="26" selection-start-line="103" selection-start-column="26" selection-end-line="103" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/netflix/hystrix/hystrix-core/1.5.18/hystrix-core-1.5.18.jar!/com/netflix/hystrix/config/HystrixCommandConfiguration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2832">
+          <caret line="157" column="18" selection-start-line="157" selection-start-column="18" selection-end-line="157" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-hystrix/2.1.2.RELEASE/spring-cloud-netflix-hystrix-2.1.2.RELEASE.jar!/org/springframework/cloud/netflix/hystrix/HystrixProperties.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/netflix/hystrix/hystrix-core/1.5.18/hystrix-core-1.5.18-sources.jar!/com/netflix/hystrix/HystrixCommandProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="117" column="127" selection-start-line="117" selection-start-column="88" selection-end-line="117" selection-end-column="127" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-openfeign-core/2.1.2.RELEASE/spring-cloud-openfeign-core-2.1.2.RELEASE.jar!/org/springframework/cloud/openfeign/EnableFeignClients.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Consumer-Service/src/main/java/com/jason/client/UserClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Consumer-Service/src/main/java/com/jason/client/UserClientImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zuul-gateway/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/User-Service/src/main/java/com/jason/UserApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/User-Service/src/main/resources/Application.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.1.6.RELEASE/spring-boot-2.1.6.RELEASE.jar!/org/springframework/boot/context/logging/LoggingApplicationListener.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="222" column="110" lean-forward="true" selection-start-line="222" selection-start-column="110" selection-end-line="222" selection-end-column="110" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/util/Collections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2009">
+          <caret line="121" column="58" selection-start-line="121" selection-start-column="58" selection-end-line="121" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/User-Service/src/main/java/com/jason/web/controller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Consumer-Service/src/main/resources/Application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="36" column="32" selection-start-line="36" selection-start-column="20" selection-end-line="36" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Consumer-Service/src/main/java/com/jason/ConsumerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="20" selection-start-line="20" selection-end-line="24" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Consumer-Service/src/main/java/com/jason/controller/UserCalled.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-774">
+          <caret line="27" column="30" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.11/httpcore-4.4.11-sources.jar!/org/apache/http/HttpStatus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="130" column="7" lean-forward="true" selection-start-line="130" selection-start-column="7" selection-end-line="130" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring (UserService)|Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8.0_172</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>ConsumerService</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8.0_172</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

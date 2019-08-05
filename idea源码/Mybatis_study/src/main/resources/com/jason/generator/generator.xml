@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE generatorConfiguration
+        PUBLIC "-//mybatis.org//DTD MyBatis Generator Configuration 1.0//EN"
+        "http://mybatis.org/dtd/mybatis-generator-config_1_0.dtd">
+
+<generatorConfiguration>
+
+
+    <context id="DB2Tables" targetRuntime="MyBatis3Simple">
+        <jdbcConnection driverClass="com.mysql.jdbc.Driver"
+                        connectionURL="jdbc:mysql://localhost:3306/ssm_0?allowMultiQueries=true"
+                        userId="root"
+                        password="988513">
+        </jdbcConnection>
+
+        <javaTypeResolver >
+            <property name="forceBigDecimals" value="false" />
+        </javaTypeResolver>
+
+        <!--配置javaBean生成那个项目和在项目中的位置；-->
+        <javaModelGenerator targetPackage="com.jason.generator.javaBean" targetProject=".\src/main/java">
+            <property name="enableSubPackages" value="true" />
+            <property name="trimStrings" value="true" />
+        </javaModelGenerator>
+
+        <!--配置xml文件生成的位置  -->
+        <sqlMapGenerator targetPackage="com.jason.generator.mappers"  targetProject=".\src/main/resources">
+            <property name="enableSubPackages" value="true" />
+        </sqlMapGenerator>
+
+        <javaClientGenerator type="XMLMAPPER" targetPackage="com.jason.generator.mappers"  targetProject=".\src/main/java">
+            <property name="enableSubPackages" value="true" />
+        </javaClientGenerator>
+
+
+        <!--指定要逆向分析那些表-->
+        <table tableName="data" domainObjectName="data" >
+
+        </table>
+
+    </context>
+</generatorConfiguration>

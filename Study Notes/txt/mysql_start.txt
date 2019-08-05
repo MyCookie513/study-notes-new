@@ -1,0 +1,5 @@
+net start mysql
+e:
+cd MYSQL\mysql\bin
+mysql -u root -p
+ÃÜÂë£º

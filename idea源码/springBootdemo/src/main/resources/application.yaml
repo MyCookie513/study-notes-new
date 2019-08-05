@@ -1,0 +1,21 @@
+server:
+  port: 8086
+  servlet:
+    path: /
+logging:
+  level:
+    com.jason: debug
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/jackson
+    username: root
+    password: 988513
+
+
+thymeleaf:
+  mode=HTML:
+#mybatis
+mybatis:
+  type-aliases-package: com.jason.pojo
+

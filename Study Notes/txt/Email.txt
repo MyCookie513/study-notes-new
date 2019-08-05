@@ -1,0 +1,3 @@
+用户名： jackxuecookie@outlook.com
+密码：小写字母+.+数字
+SSH:     https://github.com/JackXueCookie/Study_and_create_my-project.git

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+        <!DOCTYPE configuration
+                PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+                "http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+    <properties resource="Config/SqlMapConfig.properties" ></properties>
+
+    <settings>
+        <setting name="jdbcTypeForNull" value="NULL"/>
+        <setting name="lazyLoadingEnabled" value="true"/>
+        <setting name="aggressiveLazyLoading" value="false"/>
+        <setting name="cacheEnabled" value="true"/>
+    </settings>
+
+
+  <!--  会使用 Bean 的首字母小写的非限定类名来作为它的别名。-->
+    <typeAliases>
+        <!--<typeAlias type="com.jason.Interface.UserMapper" ></typeAlias>-->
+        <package name="com.jason"/>
+    </typeAliases>
+    <typeHandlers>
+        <typeHandler handler="com.jason.typehandlers.EnumTypeHandler" javaType="com.jason.Mapper.Status"/>
+    </typeHandlers>
+    <plugins>
+        <!--<plugin interceptor="com.jason.interceptor.myfirstplugin">
+            <property name="name" value="JASON "/>
+        </plugin>
+        <plugin interceptor="com.jason.interceptor.Change_parameter_interceptor"></plugin>-->
+        <plugin interceptor="com.github.pagehelper.PageInterceptor">
+            <!-- config params as the following -->
+           <!-- <property name="param1" value="value1"/>-->
+        </plugin>
+    </plugins>
+
+    <environments default="development">
+      <environment id="development">
+          <transactionManager type="JDBC"/>
+          <dataSource type="POOLED">
+             <property name="driver" value="${jdbc.driver}"/>
+             <property name="url" value="${jdbc.url}"/>
+             <property name="username" value="${jdbc.username}"/>
+             <property name="password" value="${jdbc.password}"/>
+          </dataSource>
+       </environment>
+    </environments>
+
+    <!--DB_VENDOR:代表的类作用是根据alias得到数据库厂商的标识-->
+    <databaseIdProvider type="DB_VENDOR">
+        <property name="MySQL" value="mysql"/>
+    </databaseIdProvider>
+
+
+
+<mappers>
+   <!-- <mapper  resource="${UserMapper.xml}" />-->
+    <!-- resource="com/jason/Interface/UserMapper.xml"-->
+    <mapper resource="com/jason/generator/mappers/CustomerMapper.xml"/>
+
+     <package name="com.jason.Interface"/>
+     <package name="com.jason.resultMap"/>
+     <package name="com.jason.DynamicSQL"/>
+     <package name="com.jason.Cache"/>
+</mappers>
+</configuration>

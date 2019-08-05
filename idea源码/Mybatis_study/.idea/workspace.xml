@@ -1,0 +1,1233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="JavaCharts:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="BookmarkManager">
+    <bookmark url="file://G:/JavaEcharts-master/JavaEcharts-master/src/main/webapp/tu/putong.jsp" line="118" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9a359eeb-f891-4f54-b66b-b90483185e31" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java基础知识/ConnectionPool/ConPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java基础知识/ConnectionPool/ConnDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java基础知识/ConnectionPool/PoolService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java基础知识/ConnectionPool/connDB.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java基础知识/ConnectionPool/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java基础知识/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java基础知识/enum0/Color.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java基础知识/enum0/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/Balking_阻碍放弃设计模式/BalkingData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/Balking_阻碍放弃设计模式/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/Balking_阻碍放弃设计模式/changeClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/Balking_阻碍放弃设计模式/saveServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/CountDownLatch/CountDownDIY.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/CountDownLatch/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/GuardedSuspension/ClientThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/GuardedSuspension/Request.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/GuardedSuspension/RequestQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/GuardedSuspension/ServerThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/GuardedSuspension/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/TwoPhaseTermination第二阶段的终止设计模式/CounterIncrement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/TwoPhaseTermination第二阶段的终止设计模式/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/producerAndConsumer模式/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/producerAndConsumer模式/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/producerAndConsumer模式/MessageQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/producerAndConsumer模式/Message_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/producerAndConsumer模式/Producer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/多线程上下文设计模式__ThreadLocal/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/多线程上下文设计模式__ThreadLocal/ThreadLocal_impl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/多线程上下文设计模式__ThreadLocal/项目应用/ActionContest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/多线程上下文设计模式__ThreadLocal/项目应用/Context.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/多线程上下文设计模式__ThreadLocal/项目应用/ExecutionTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/多线程上下文设计模式__ThreadLocal/项目应用/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/多线程上下文设计模式__ThreadLocal/项目应用/QueryFromDBAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/多线程上下文设计模式__ThreadLocal/项目应用/QueryFromHttp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springBootdemo/.idea/artifacts/springBootdemo_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springBootdemo/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springBootdemo/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springBootdemo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springBootdemo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springBootdemo/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springBootdemo/springBootdemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springBootdemo/src/main/java/com/jason/BootdemoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../数据结构及算法强化/src/排序/冒泡排序.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../数据结构及算法强化/src/排序/冒泡排序优化版.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../数据结构及算法强化/src/链表类题/环形链表.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/Ajax_study/.markers" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/Ajax_study/.markers" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/Ajax_study/.markers.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/Ajax_study/.syncinfo.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/ArtFire/.markers" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/ArtFire/.markers" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/ArtFire/.markers.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/ArtFire/.syncinfo.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/ArtFire2.0/.markers" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/ArtFire2.0/.markers" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/ArtFire2.0/.markers.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/ArtFire2.0/.syncinfo.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/ICQClient/.markers.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/ICQClient/.syncinfo.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/ICQServer/.markers.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/ICQServer/.syncinfo.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/RemoteSystemsTempFiles/.markers.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/RemoteSystemsTempFiles/.syncinfo.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/Servers/.markers.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/Servers/.syncinfo.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/Spring_AOP/.markers" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/Spring_AOP/.markers" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/Spring_AOP/.markers.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/Spring_AOP/.syncinfo.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/Spring开发/.markers" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/Spring开发/.markers" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/Spring开发/.markers.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/Spring开发/.syncinfo.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/YaShiBaby/.markers" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/YaShiBaby/.markers" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/YaShiBaby/.markers.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/YaShiBaby/.syncinfo.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/apache_struts/.markers" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/apache_struts/.markers" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/apache_struts/.markers.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/apache_struts/.syncinfo.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/biluservlet/.markers" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/biluservlet/.markers" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/biluservlet/.markers.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/biluservlet/.syncinfo.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/java_homework/.markers.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/java_homework/.syncinfo.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/java中重要的基础点/.markers" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/java中重要的基础点/.markers" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/java中重要的基础点/.markers.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/java中重要的基础点/.syncinfo.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/squirrel/.markers" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/squirrel/.markers" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/squirrel/.markers.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/squirrel/.syncinfo.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/struts2_jack/.markers" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/struts2_jack/.markers" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/struts2_jack/.markers.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/struts2_jack/.syncinfo.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/swing/.markers" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/swing/.markers" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/swing/.markers.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/swing/.syncinfo.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/test_hibernate_mapping_sql/.markers" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/test_hibernate_mapping_sql/.markers" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/test_hibernate_mapping_sql/.markers.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/test_hibernate_mapping_sql/.syncinfo.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/web前端学习/.markers" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/web前端学习/.markers" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/web前端学习/.markers.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/web前端学习/.syncinfo.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/数据结构与算法/.markers" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/数据结构与算法/.markers" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/数据结构与算法/.markers.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/数据结构与算法/.syncinfo.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/线程并发/.markers" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/线程并发/.markers" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/线程并发/.markers.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/线程并发/.syncinfo.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.root/.markers.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.root/35.tree" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/35.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.debug.ui/launchConfigurationHistory.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.debug.ui/launchConfigurationHistory.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/server-config.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/server-config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jdt.core/1354114812.index" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jdt.core/1354114812.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jdt.core/3254915422.index" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jdt.core/3254915422.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jdt.core/3988400488.index" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jdt.core/3988400488.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jdt.core/531563734.index" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jdt.core/531563734.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jdt.core/923079190.index" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jdt.core/923079190.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jdt.core/participantsIndexNames.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jdt.core/participantsIndexNames.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2460977927.index" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2460977927.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jst.jsp.core/taglibindex/1186395366.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jst.jsp.core/taglibindex/1186395366.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jst.jsp.core/taglibindex/382194693.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jst.jsp.core/taglibindex/382194693.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jst.jsp.core/taglibindex/531563734.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jst.jsp.core/taglibindex/531563734.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.ui.ide/dialog_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.ui.ide/dialog_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.wst.internet.cache/cache.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.wst.internet.cache/cache.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes/531563734.index" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes/531563734.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes/savedIndexNames.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes/savedIndexNames.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.wst.validation/dep.index" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.wst.validation/dep.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/version.ini" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/version.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.recommenders/caches/identified-project-coordinates.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.recommenders/caches/identified-project-coordinates.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/_b.fdt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/_b.fdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/_b.fnm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/_b.frq" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/_b.nrm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/_b.prx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/_b.tii" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/_b.tis" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/segments.gen" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/segments.gen" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/segments_c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/Ajax_study/build/classes/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/Ajax_study/build/classes/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/ArtFire2.0/build/classes/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/ArtFire2.0/build/classes/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/Spring_AOP/build/classes/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/Spring_AOP/build/classes/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/biluservlet/build/classes/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/struts2_jack/build/classes/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/线程并发/build/classes/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Study Notes/Linux/Linux Command.doc" beforeDir="false" afterPath="$PROJECT_DIR$/../../Study Notes/Linux/Linux Command.doc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Study Notes/Point/准备笔记.doc" beforeDir="false" afterPath="$PROJECT_DIR$/../../Study Notes/Point/准备笔记.doc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Study Notes/高并发/高并发笔记.doc" beforeDir="false" afterPath="$PROJECT_DIR$/../../Study Notes/高并发/高并发笔记.doc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Important_Point_java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Important_Point_java/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Important_Point_java/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Important_Point_java/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第一阶段/仿显式锁Lock实现/Lock.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第一阶段/仿显式锁Lock实现/Lock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/Future设计模式的实现/AsynFuture.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/Future设计模式的实现/AsynFuture.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/Singleton/SingletonObject6.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/Singleton/SingletonObject6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/Singleton/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/Singleton/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第一阶段/JUC_Lock_三个线程依次调用/Alternate_printf.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第一阶段/JUC_Lock_三个线程依次调用/Main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第一阶段/JUC_Lock_三个线程依次调用/Main$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第一阶段/JUC_Lock_三个线程依次调用/Main$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第一阶段/JUC_Lock_三个线程依次调用/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第一阶段/ThreadGroup/ThreadGroupCteater$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第一阶段/ThreadGroup/ThreadGroupCteater$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第三阶段/AtomicStampedReference/AtomicStampedReferenceTest$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第三阶段/AtomicStampedReference/AtomicStampedReferenceTest$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第二阶段/Future设计模式的实现/AsynFuture.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第二阶段/Future设计模式的实现/AsynFuture.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第二阶段/Singleton/SingletonObject6$InstanceHolder.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第二阶段/Singleton/SingletonObject6$InstanceHolder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第二阶段/Singleton/SingletonObject6.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第二阶段/Singleton/SingletonObject6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第二阶段/Singleton/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第二阶段/Singleton/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../数据结构及算法强化/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../数据结构及算法强化/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../数据结构及算法强化/out/production/数据结构及算法强化/排序/堆排序.class" beforeDir="false" afterPath="$PROJECT_DIR$/../数据结构及算法强化/out/production/数据结构及算法强化/排序/堆排序.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../数据结构及算法强化/out/production/数据结构及算法强化/排序/插入排序.class" beforeDir="false" afterPath="$PROJECT_DIR$/../数据结构及算法强化/out/production/数据结构及算法强化/排序/插入排序.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../数据结构及算法强化/src/排序/插入排序.java" beforeDir="false" afterPath="$PROJECT_DIR$/../数据结构及算法强化/src/排序/插入排序.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="G:/JavaEcharts-master/JavaEcharts-master/target/" />
+    <ignored path="$USER_HOME$/Desktop/模式识别/textClassify-master/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://G:/JavaEcharts-master/JavaEcharts-master/src/main/webapp/zhexian.jsp">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://G:/JavaEcharts-master/JavaEcharts-master/src/main/webapp/tu/qiti.jsp">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://G:/JavaEcharts-master/JavaEcharts-master/src/main/webapp/Login.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1608">
+              <caret line="67" column="22" selection-start-line="67" selection-start-column="22" selection-end-line="67" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://G:/JavaEcharts-master/JavaEcharts-master/src/main/resources/mybatis-config.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://G:/JavaEcharts-master/JavaEcharts-master/src/main/resources/mapper/dataMapper.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://G:/JavaEcharts-master/JavaEcharts-master/src/main/webapp/tu/putong.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2544">
+              <caret line="106" selection-start-line="106" selection-end-line="106" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/jason/typehandlers/EnumTypeHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="720">
+              <caret line="37" column="5" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/jason/Mapper/Status.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="504">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="297">
+              <caret line="40" column="21" lean-forward="true" selection-start-line="36" selection-start-column="7" selection-end-line="40" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://G:/JavaEcharts-master/JavaEcharts-master/src/main/webapp/Hello.jsp">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+        <option value="HTML File" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="G:/JavaEcharts-master/JavaEcharts-master/src/main/webapp/main_show/welcome.jsp" />
+        <option value="G:/JavaEcharts-master/JavaEcharts-master/src/main/webapp/css/style.css" />
+        <option value="G:/JavaEcharts-master/JavaEcharts-master/src/main/webapp/main_content.jsp" />
+        <option value="G:/JavaEcharts-master/JavaEcharts-master/src/main/webapp/myecharts.jsp" />
+        <option value="G:/JavaEcharts-master/JavaEcharts-master/src/main/webapp/PieCharts.jsp" />
+        <option value="G:/JavaEcharts-master/JavaEcharts-master/src/main/webapp/Hello.jsp" />
+        <option value="G:/JavaEcharts-master/JavaEcharts-master/src/main/webapp/index.jsp" />
+        <option value="G:/JavaEcharts-master/JavaEcharts-master/src/main/java/com/koali/model/user_signExample.java" />
+        <option value="G:/JavaEcharts-master/JavaEcharts-master/src/main/java/com/koali/dao/user_signMapper.java" />
+        <option value="G:/JavaEcharts-master/JavaEcharts-master/src/main/java/com/koali/service/LoginService.java" />
+        <option value="G:/JavaEcharts-master/JavaEcharts-master/src/main/java/com/koali/service/Impl/LoginServiceImpl.java" />
+        <option value="G:/JavaEcharts-master/JavaEcharts-master/src/main/java/com/koali/service/User_signMapper.java" />
+        <option value="G:/JavaEcharts-master/JavaEcharts-master/src/main/java/com/koali/service/Impl/User_SignImpl.java" />
+        <option value="G:/JavaEcharts-master/JavaEcharts-master/src/main/resources/mapper/user_signMapper.xml" />
+        <option value="G:/JavaEcharts-master/JavaEcharts-master/src/main/webapp/main_show/DataTest.jsp" />
+        <option value="$PROJECT_DIR$/src/main/resources/com/jason/generator/generator.xml" />
+        <option value="G:/JavaEcharts-master/JavaEcharts-master/src/main/java/com/koali/service/data_service.java" />
+        <option value="G:/JavaEcharts-master/JavaEcharts-master/src/main/java/com/koali/dao/dataMapper.java" />
+        <option value="G:/JavaEcharts-master/JavaEcharts-master/src/main/webapp/tu/zhexian.jsp" />
+        <option value="G:/JavaEcharts-master/JavaEcharts-master/src/main/java/com/koali/model/data.java" />
+        <option value="G:/JavaEcharts-master/JavaEcharts-master/src/main/webapp/tu/qiti.jsp" />
+        <option value="G:/JavaEcharts-master/JavaEcharts-master/src/main/resources/mapper/dataMapper.xml" />
+        <option value="G:/JavaEcharts-master/JavaEcharts-master/src/main/webapp/main_show/data_list.jsp" />
+        <option value="G:/JavaEcharts-master/JavaEcharts-master/src/main/webapp/main_show/user_list.jsp" />
+        <option value="G:/JavaEcharts-master/JavaEcharts-master/src/main/webapp/main_show/google.jsp" />
+        <option value="G:/JavaEcharts-master/JavaEcharts-master/src/main/webapp/zhexian.jsp" />
+        <option value="G:/JavaEcharts-master/JavaEcharts-master/src/main/java/com/koali/web/EchartsController.java" />
+        <option value="G:/JavaEcharts-master/JavaEcharts-master/src/main/webapp/menu_show/top.jsp" />
+        <option value="G:/JavaEcharts-master/JavaEcharts-master/src/main/webapp/menu_show/menu.jsp" />
+        <option value="G:/JavaEcharts-master/JavaEcharts-master/src/main/java/com/koali/web/Mysql.properties" />
+        <option value="G:/JavaEcharts-master/JavaEcharts-master/src/main/resources/Mysql.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jason/Mapper/null.html" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jason/interceptor/myfirstplugin.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jason/interceptor/Change_parameter_interceptor.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/com/jason/DynamicSQL/UserDynamicSqlMapper.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jason/DynamicSQL/UserDynamicSqlMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jason/Mapper/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jason/Mapper/main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jason/Mapper/Status.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jason/typehandlers/EnumTypeHandler.java" />
+        <option value="G:/JavaEcharts-master/JavaEcharts-master/src/main/webapp/Login.jsp" />
+        <option value="$PROJECT_DIR$/src/main/resources/SqlMapConfig.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/com/jason/Interface/UserMapper.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/com/jason/resultMap/AcountMapper.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jason/DynamicSQL/main2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jason/Mapper/Acount.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/com/jason/resultMap/UserMapper.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jason/resultMap/main1.java" />
+        <option value="$USER_HOME$/Desktop/模式识别/textClassify-master/src/main/java/com/fmyblack/ClassifierFactory.java" />
+        <option value="G:/JavaEcharts-master/JavaEcharts-master/src/main/webapp/tu/putong.jsp" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="alwaysUpdateSnapshots" value="true" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Mabatis" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Mabatis" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1340" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Mybatis_study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Mybatis_study" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Mybatis_study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Mybatis_study" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Mybatis_study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Mybatis_study" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Mybatis_study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Mybatis_study" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Mybatis_study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Mybatis_study" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="jason" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Mybatis_study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Mybatis_study" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="jason" type="462c0819:PsiDirectoryNode" />
+              <item name="Mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Mybatis_study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Mybatis_study" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="jason" type="462c0819:PsiDirectoryNode" />
+              <item name="typehandlers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Mybatis_study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Mybatis_study" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/模式识别/textClassify-master/pom.xml" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.jason.generator" />
+      <recent name="com.jason.resultMap" />
+      <recent name="com.jason" />
+      <recent name="com.jason.Cache" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\JavaEcharts-master\JavaEcharts-master\src\main\java\com\koali\web" />
+      <recent name="G:\JavaEcharts-master\JavaEcharts-master\src\main\webapp\main_show" />
+      <recent name="G:\JavaEcharts-master\JavaEcharts-master\src\main\webapp\menu_show" />
+      <recent name="G:\JavaEcharts-master\JavaEcharts-master\src\main\webapp\tu" />
+      <recent name="G:\JavaEcharts-master\JavaEcharts-master\src\main\resources\mapper" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.koali.dao" />
+      <recent name="com.koali.model" />
+      <recent name="com.koali.service.Impl" />
+      <recent name="com.koali.service" />
+      <recent name="com.jason.generator" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\JavaEcharts-master\JavaEcharts-master\src\main\webapp\tu" />
+      <recent name="G:\JavaEcharts-master\JavaEcharts-master\src\main\webapp\main_show" />
+      <recent name="G:\Study-Notes\idea源码\Mybatis_study\src\main\java\com\jason\generator" />
+      <recent name="G:\Study-Notes\idea源码\Mybatis_study" />
+      <recent name="G:\Study-Notes\idea源码\Mybatis_study\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.main1.Select_Acount_users">
+    <configuration name="main1.Select_Acount" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Mybatis_study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jason.resultMap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jason.resultMap" />
+      <option name="MAIN_CLASS_NAME" value="com.jason.resultMap.main1" />
+      <option name="METHOD_NAME" value="Select_Acount" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main1.Select_AcountByPlus" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Mybatis_study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jason.resultMap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jason.resultMap" />
+      <option name="MAIN_CLASS_NAME" value="com.jason.resultMap.main1" />
+      <option name="METHOD_NAME" value="Select_AcountByPlus" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main1.Select_Acount_users" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Mybatis_study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jason.resultMap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jason.resultMap" />
+      <option name="MAIN_CLASS_NAME" value="com.jason.resultMap.main1" />
+      <option name="METHOD_NAME" value="Select_Acount_users" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main1.Select_user_acount" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Mybatis_study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jason.resultMap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jason.resultMap" />
+      <option name="MAIN_CLASS_NAME" value="com.jason.resultMap.main1" />
+      <option name="METHOD_NAME" value="Select_user_acount" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main.SaveUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Mybatis_study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jason.Mapper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jason.Mapper" />
+      <option name="MAIN_CLASS_NAME" value="com.jason.Mapper.main" />
+      <option name="METHOD_NAME" value="SaveUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 8.5.342" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.342" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/JavaCharts_war_exploded/" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="JavaCharts:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/JavaCharts_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_Mybatis_study" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="58443" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="JavaCharts:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.main.SaveUser" />
+      <item itemvalue="JUnit.main1.Select_user_acount" />
+      <item itemvalue="JUnit.main1.Select_Acount" />
+      <item itemvalue="JUnit.main1.Select_Acount_users" />
+      <item itemvalue="JUnit.main1.Select_AcountByPlus" />
+      <item itemvalue="Tomcat Server.Tomcat 8.5.342" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.main1.Select_Acount_users" />
+        <item itemvalue="JUnit.main1.Select_AcountByPlus" />
+        <item itemvalue="JUnit.main1.Select_user_acount" />
+        <item itemvalue="JUnit.main1.Select_Acount" />
+        <item itemvalue="JUnit.main.SaveUser" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="AUTOSCROLL_MODE" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9a359eeb-f891-4f54-b66b-b90483185e31" name="Default Changelist" comment="" />
+      <created>1559201332303</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1559201332303</updated>
+      <workItem from="1559201336356" duration="4567000" />
+      <workItem from="1559274977408" duration="16329000" />
+      <workItem from="1559381207754" duration="15962000" />
+      <workItem from="1559468602063" duration="628000" />
+      <workItem from="1559478561804" duration="3062000" />
+      <workItem from="1559486023977" duration="13452000" />
+      <workItem from="1559536532637" duration="579000" />
+      <workItem from="1559544922034" duration="24750000" />
+      <workItem from="1559609202679" duration="18900000" />
+      <workItem from="1559643493410" duration="25986000" />
+      <workItem from="1559902074374" duration="8115000" />
+      <workItem from="1560056065567" duration="6364000" />
+      <workItem from="1560081834019" duration="2683000" />
+      <workItem from="1560141551537" duration="27000" />
+      <workItem from="1560426377081" duration="4072000" />
+      <workItem from="1560484617935" duration="14145000" />
+      <workItem from="1560996887163" duration="6875000" />
+      <workItem from="1561116251525" duration="120000" />
+      <workItem from="1561342861183" duration="594000" />
+      <workItem from="1561632932988" duration="316000" />
+      <workItem from="1561633275307" duration="72000" />
+      <workItem from="1562227357996" duration="181000" />
+      <workItem from="1562926318506" duration="575000" />
+      <workItem from="1563963932368" duration="74000" />
+      <workItem from="1564021406077" duration="606000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="main1_Select_Acount - 2019.06.14 at 15h 17m 41s.xml">
+      <configuration name="main1.Select_Acount" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="main1_Select_Acount - 2019.06.14 at 15h 18m 21s.xml">
+      <configuration name="main1.Select_Acount" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="main1_Select_Acount_users - 2019.06.14 at 15h 19m 22s.xml">
+      <configuration name="main1.Select_Acount_users" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="main1_Select_user_acount - 2019.06.14 at 15h 20m 12s.xml">
+      <configuration name="main1.Select_user_acount" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="main1_Select_user_acount - 2019.06.14 at 15h 23m 56s.xml">
+      <configuration name="main1.Select_user_acount" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="main1_Select_user_acount - 2019.06.14 at 15h 38m 42s.xml">
+      <configuration name="main1.Select_user_acount" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="main1_Select_user_acount - 2019.06.14 at 15h 39m 29s.xml">
+      <configuration name="main1.Select_user_acount" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="main1_Select_AcountByPlus - 2019.06.14 at 15h 50m 07s.xml">
+      <configuration name="main1.Select_AcountByPlus" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="main1_Select_Acount_users - 2019.06.14 at 15h 57m 34s.xml">
+      <configuration name="main1.Select_Acount_users" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="main1_Select_Acount_users - 2019.06.14 at 15h 57m 53s.xml">
+      <configuration name="main1.Select_Acount_users" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="169034000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5917603" visible="true" weight="0.17477204" />
+      <window_info id="Structure" order="1" sideWeight="0.4082397" side_tool="true" weight="0.1673774" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Java Enterprise" order="0" weight="0.3295082" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.329718" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.71041214" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.7711497" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.3295082" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.3286334" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.13774404" />
+      <window_info anchor="bottom" id="Terminal" order="13" weight="0.329718" />
+      <window_info anchor="bottom" id="Application Servers" order="14" weight="0.3295082" />
+      <window_info anchor="bottom" id="Spring" order="15" weight="0.329718" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32995737" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" weight="0.32995737" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="CDI" order="9" weight="0.32995737" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.1/mybatis-3.4.1-sources.jar!/org/apache/ibatis/executor/statement/StatementHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="35" column="26" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/sql/Statement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="42" column="21" selection-start-line="42" selection-start-column="17" selection-end-line="42" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jason/DynamicSQL/UserDynamicSqlMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jason/Mapper/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="25" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="25" />
+          <folding>
+            <element signature="e#321#322#0" expanded="true" />
+            <element signature="e#350#351#0" expanded="true" />
+            <element signature="e#394#395#0" expanded="true" />
+            <element signature="e#430#431#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jason/Interface/UserMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/JavaEcharts-master/JavaEcharts-master/src/main/webapp/main_content.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="17" column="108" selection-start-line="17" selection-start-column="108" selection-end-line="17" selection-end-column="108" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/JavaEcharts-master/JavaEcharts-master/src/main/webapp/main_show/DataTest.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://G:/JavaEcharts-master/JavaEcharts-master/src/main/webapp/main_show/google.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://G:/JavaEcharts-master/JavaEcharts-master/src/main/webapp/main_show/welcome.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1008">
+          <caret line="42" column="75" selection-start-line="42" selection-start-column="68" selection-end-line="42" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.1/mybatis-3.4.1-sources.jar!/org/apache/ibatis/type/EnumOrdinalTypeHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="25" column="30" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/JavaEcharts-master/JavaEcharts-master/src/main/webapp/menu_show/menu.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="69" selection-start-line="69" selection-end-line="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jason/Mapper/main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2256">
+          <caret line="112" column="34" selection-start-line="112" selection-start-column="34" selection-end-line="112" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jason/interceptor/myfirstplugin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="936">
+          <caret line="44" column="5" selection-start-line="44" selection-start-column="5" selection-end-line="44" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jason/interceptor/Change_parameter_interceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1032">
+          <caret line="43" column="54" selection-start-line="43" selection-start-column="54" selection-end-line="43" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/com/jason/DynamicSQL/UserDynamicSqlMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="824">
+          <caret line="106" selection-start-line="106" selection-end-line="106" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="2993" selection-start-line="2993" selection-end-line="2993" />
+          <folding>
+            <element signature="e#117955#117956#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/io/PrintStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="820" column="26" selection-start-line="820" selection-start-column="26" selection-end-line="820" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/com/jason/Interface/UserMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jason/DynamicSQL/main2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="112" column="8" selection-start-line="112" selection-start-column="8" selection-end-line="112" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jason/Mapper/Acount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="16" column="27" lean-forward="true" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+          <folding>
+            <element signature="e#282#283#0" expanded="true" />
+            <element signature="e#373#374#0" expanded="true" />
+            <element signature="e#453#454#0" expanded="true" />
+            <element signature="e#504#505#0" expanded="true" />
+            <element signature="e#565#566#0" expanded="true" />
+            <element signature="e#831#832#0" expanded="true" />
+            <element signature="e#904#905#0" expanded="true" />
+            <element signature="e#962#963#0" expanded="true" />
+            <element signature="e#1034#1035#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/SqlMapConfig.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="10" column="58" selection-start-line="10" selection-start-column="53" selection-end-line="10" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/com/jason/resultMap/UserMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jason/resultMap/AcountMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="14" column="28" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/com/jason/resultMap/AcountMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="402">
+          <caret line="32" column="33" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jason/resultMap/UserMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="16" column="23" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jason/Cache/Cache_Mapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jason/Cache/main3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-654">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/com/jason/Cache/Cache_Mapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jason/resultMap/main1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="930">
+          <caret line="56" column="49" selection-start-line="56" selection-start-column="44" selection-end-line="56" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jason/generator/javaBean/data.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/模式识别/textClassify-master/src/main/java/com/fmyblack/textClassify/IDF.java" />
+    <entry file="file://$USER_HOME$/Desktop/模式识别/textClassify-master/src/main/java/com/fmyblack/textClassify/Result.java" />
+    <entry file="file://$USER_HOME$/Desktop/模式识别/textClassify-master/pom.xml" />
+    <entry file="file://$USER_HOME$/Desktop/模式识别/textClassify-master/src/main/java/com/fmyblack/textClassify/cosine/CosineClassifier.java" />
+    <entry file="file://$USER_HOME$/Desktop/模式识别/textClassify-master/src/main/java/com/fmyblack/textClassify/cosine/Tag.java" />
+    <entry file="file://$USER_HOME$/Desktop/模式识别/textClassify-master/src/main/java/com/fmyblack/textClassify/ClassifyModel.java" />
+    <entry file="file://$USER_HOME$/Desktop/模式识别/textClassify-master/src/main/java/com/fmyblack/textClassify/lr/Vector.java" />
+    <entry file="file://$USER_HOME$/Desktop/模式识别/textClassify-master/src/main/java/com/fmyblack/ClassifierFactory.java" />
+    <entry file="file://$USER_HOME$/Desktop/模式识别/textClassify-master/src/main/java/com/fmyblack/ClassifyTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jason/generator/mbg.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/JavaEcharts-master/JavaEcharts-master/src/main/java/com/koali/web/EchartsController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3816">
+          <caret line="191" column="56" selection-start-line="191" selection-start-column="56" selection-end-line="191" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/JavaEcharts-master/JavaEcharts-master/src/main/webapp/zhexian.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://G:/JavaEcharts-master/JavaEcharts-master/src/main/webapp/tu/qiti.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://G:/JavaEcharts-master/JavaEcharts-master/src/main/webapp/Login.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1608">
+          <caret line="67" column="22" selection-start-line="67" selection-start-column="22" selection-end-line="67" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/JavaEcharts-master/JavaEcharts-master/src/main/resources/mybatis-config.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://G:/JavaEcharts-master/JavaEcharts-master/src/main/resources/mapper/dataMapper.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://G:/JavaEcharts-master/JavaEcharts-master/src/main/webapp/tu/putong.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2544">
+          <caret line="106" selection-start-line="106" selection-end-line="106" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jason/typehandlers/EnumTypeHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="37" column="5" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jason/Mapper/Status.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/JavaEcharts-master/JavaEcharts-master/src/main/webapp/Hello.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="40" column="21" lean-forward="true" selection-start-line="36" selection-start-column="7" selection-end-line="40" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>JavaCharts</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

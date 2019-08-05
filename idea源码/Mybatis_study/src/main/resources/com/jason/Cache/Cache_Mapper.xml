@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.jason.Cache.Cache_Mapper">
+
+    <cache type="org.mybatis.caches.ehcache.EhcacheCache"/>
+    <select id="TestoneLevelCache" resultType="user">
+        select  * from t_user
+    </select>
+    <update id="Update_user_set"  >
+        update  t_user
+        <set>
+
+            <if test="t_username!=null &amp;&amp; t_username !=&quot;&quot;">
+                t_username = #{t_username},
+            </if>
+            <if test="t_password!=null &amp;&amp; t_password !=&quot;&quot;">
+                t_password = #{t_password},
+            </if>
+            <if test="t_usercol==1 or t_usercol==2">
+                t_usercol = #{t_usercol},
+            </if>
+
+        </set>
+        <where>
+            idt_user =#{idt_user}
+        </where>
+
+    </update>
+
+</mapper>

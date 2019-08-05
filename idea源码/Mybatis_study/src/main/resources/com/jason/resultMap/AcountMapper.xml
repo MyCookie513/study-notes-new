@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper  namespace="com.jason.resultMap.AcountMapper">
+
+
+
+    <select id="getAcountById" resultType="com.jason.Mapper.Acount">
+         select * from acount where id = #{acountId}
+    </select>
+
+
+    <resultMap id="Aount_users" type="com.jason.Mapper.Acount">
+        <id column="id" property="id" />
+        <result column="user" property="user"/>
+        <result column="money" property="money"/>
+        <!--collection 标签定义关联的集合类型的属性的封装规则；-->
+        <collection property="users"  ofType="com.jason.Mapper.User">
+            <id column="idt_user" property="idt_user"/>
+            <result column="t_username" property="t_username"/>
+            <result column="t_password" property="t_password"/>
+            <result column="date" property="date"/>
+        </collection>
+    </resultMap>
+    <select id="getAcountByIdPlus" resultMap="Aount_users">
+      SELECT * FROM spring_jdbctemplate.t_user u left join spring_jdbctemplate.acount a on u.acount=a.id where a.id=#{acountId};
+    </select>
+
+
+
+    <!--分步查询一个部门的所有员工-->
+    <select id="getAcountByIdStep" resultMap="Aount_users_Step">
+      SELECT * FROM spring_jdbctemplate.acount where id=#{acountId}
+    </select>
+    <resultMap id="Aount_users_Step" type="com.jason.Mapper.Acount">
+        <id column="id" property="id" />
+        <result column="user" property="user"/>
+        <result column="money" property="money"/>
+
+        <collection property="users" select="com.jason.resultMap.UserMapper.getUsersByacoutstep2" column="id">
+        </collection>
+    </resultMap>
+
+</mapper>

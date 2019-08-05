@@ -1,0 +1,30 @@
+server:
+  port: 5136
+zuul:
+  routes:
+    user-service: /user-service/**
+eureka:
+  client:
+    registry-fetch-interval-seconds: 5 # 获取服务列表的周期：5s
+    service-url:
+      defaultZone: http://127.0.0.1:10087/eureka,http://127.0.0.1:10086/eureka
+spring:
+  application:
+    name: zuul-gateway-service
+ribbon: #控制下一级的链接和读取是否超时，去挑选比较轻松的服务
+  ConnectionTimeout: 500
+  ReadTimeout: 500
+
+hystrix: #熔断超时机制超时设定
+  command:
+    default:
+      execution:
+        isolation:
+          thread:
+            timeoutInMilliseconds: 1900
+  circuitBreaker:
+    sleepWindowInMilliseconds: 20
+
+    requestVolumeThreshold: 5
+
+    errorThresholdPercentage: 10
