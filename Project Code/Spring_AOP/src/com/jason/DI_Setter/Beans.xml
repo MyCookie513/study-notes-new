@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  
+       xmlns:p="http://www.springframework.org/schema/p"
+       xsi:schemaLocation="
+        http://www.springframework.org/schema/beans 
+        http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+
+<!-- property标签的解决setter注入 -->
+  <bean id="PersonID" class="com.jason.DI_Setter.Person">
+<property name="age" value="18"></property>
+<property name="name" value="jason"></property>
+<property name="home_address" ref="homeAddressID"></property>
+<property name="com_address" ref="companyAddressID"></property>
+
+</bean>
+<bean id="companyAddressID" class="com.jason.DI_Setter.Address">
+<property name="address" value="北京市八里屯"></property>
+<property name="pho_num" value="#{T(com.jason.DI_Setter.Address).h}"></property>
+ </bean>
+ 
+<bean id="homeAddressID" class="com.jason.DI_Setter.Address">
+<property name="address" value="杭州市西湖区"></property>
+<property name="pho_num" value="17864280604"></property>
+</bean> 
+
+ <!--    在这个地方注意声明命名空间    可见上方的标注源码 -->
+<!-- p命令空间解决setter注入： -->
+<!-- <bean id="PersonID" class="com.jason.DI_Setter.Person" p:age="21"
+p:name="jason" p:home_address-ref="homeAddressID" p:com_address-ref="companyAddressID">
+</bean>
+<bean id="companyAddressID" class="com.jason.DI_Setter.Address"
+p:address="北京市八里屯" p:pho_num="13581168062">
+ </bean>
+ 
+<bean id="homeAddressID" class="com.jason.DI_Setter.Address"
+p:address="杭州市西湖区" p:pho_num="17864280604">
+</bean>  -->
+
+
+
+
+</beans>

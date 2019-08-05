@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xmlns:aop="http://www.springframework.org/schema/aop"
+       xsi:schemaLocation="
+        http://www.springframework.org/schema/beans 
+        http://www.springframework.org/schema/beans/spring-beans.xsd
+        http://www.springframework.org/schema/context 
+        http://www.springframework.org/schema/context/spring-context.xsd
+        http://www.springframework.org/schema/aop 
+        http://www.springframework.org/schema/aop/spring-aop.xsd">
+        
+        
+<context:annotation-config></context:annotation-config>
+	<bean id="Target" class="com.jason.a_AOP.全自动.Target_imple"></bean>
+	<bean id="advice" class="com.jason.a_AOP.全自动.advice_Imple"></bean>
+
+
+<aop:config proxy-target-class="true">
+
+   <!-- 上面proxy-target-class="true"  是声明用cglib代理-->
+
+
+
+  <!-- 切入点：从目标对象获取切入点； -->
+  <!-- execution(* com.jason.a_AOP.全自动.*.*(..))
+    代表 com.jason.a_AOP.全自动  包内的所有类的任意一个方法；    ..代表参数任意 -->
+  <aop:pointcut expression="execution(* com.jason.a_AOP.全自动.*.*(..))" id="mypointcut"/>
+  
+  
+  <!--  特殊的切面，只有一个通知advice和一个切入点pointcut --> 
+  <aop:advisor advice-ref="advice" pointcut-ref="mypointcut"/>
+  
+ 
+</aop:config>
+
+
+
+
+
+
+
+</beans>

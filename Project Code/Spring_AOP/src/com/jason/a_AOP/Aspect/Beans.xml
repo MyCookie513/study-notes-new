@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xmlns:aop="http://www.springframework.org/schema/aop"
+       xsi:schemaLocation="
+        http://www.springframework.org/schema/beans 
+        http://www.springframework.org/schema/beans/spring-beans.xsd
+        http://www.springframework.org/schema/context 
+        http://www.springframework.org/schema/context/spring-context.xsd
+        http://www.springframework.org/schema/aop 
+        http://www.springframework.org/schema/aop/spring-aop.xsd">
+        
+        
+<context:annotation-config></context:annotation-config>
+<bean id ="Target" class="com.jason.a_AOP.Aspect.Target_imple"></bean>
+<bean id ="aspect_advisor" class="com.jason.a_AOP.Aspect.aspect_advisor"></bean>
+
+<aop:config proxy-target-class="false">
+
+   <!-- 上面proxy-target-class="true"  是声明用cglib代理-->
+   
+   
+   <!-- 定义一组切入点的位置 -->
+   <aop:pointcut expression="execution(* com.jason.a_AOP.Aspect.Target_imple.*(..))" id="myPointcut_0"/>
+   
+  <!--  定义一个切面，来确定来设置切面内部的通知方法和piontcut切入点的weaving网； -->
+   <aop:aspect ref="aspect_advisor">
+   
+   
+     <!--  前置切入：1.那个advice通知？2.切入点的范围定位？ -->
+     <!--  <aop:before method="mybefore" pointcut-ref="myPointcut_0"/> -->
+     
+     <!-- 后置切入：1.aspect_advisor中的方法名        2.执行方法的返回值注入：在方法中的参数名字是什么 -->
+    <!-- <aop:after-returning method="myafterReturning" returning="re_obj" pointcut-ref="myPointcut_0"/>
+     -->
+     
+     
+     
+    <!--  环绕切入：1.有返回值 
+                 2.要抛出异常  
+                 3.入口参数为：org.aspectj.lang.ProceedingJoinPoint(join point接口的实现类)
+                 4.执行目标方法：Object obj = joinPoint.proceed(); -->
+    <!--  <aop:around method="myaround" pointcut-ref="myPointcut_0"/> -->
+     
+     
+     
+   <!--   <aop:after method="myafter" pointcut-ref="myPointcut_0" /> -->
+     
+    <aop:after-throwing method="myafter_Throwing" pointcut-ref="myPointcut_0" throwing="throwable"/>
+  
+   </aop:aspect>
+
+
+</aop:config>
+
+
+
+
+
+</beans>

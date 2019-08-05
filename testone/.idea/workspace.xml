@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="104a81bf-42ad-4c8f-9ee7-140066a28743" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../idea源码/Important_Point_java/Important_Point_java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/Important_Point_java/src/main/java/动态代理/ServiceInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/Important_Point_java/src/main/java/动态代理/serviceImple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/Important_Point_java/src/main/java/动态代理/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/Important_Point_java/src/main/java/动态代理/较详细版/$Proxy0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/Important_Point_java/src/main/java/动态代理/较详细版/MyInvocationHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/Important_Point_java/src/main/java/动态代理/较详细版/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/Important_Point_java/src/main/java/动态代理/较详细版/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/Important_Point_java/src/main/java/反射/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/Important_Point_java/src/main/java/反射/test_Constructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/Important_Point_java/src/main/java/反射/test_Fields.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/Important_Point_java/src/main/java/反射/test_Method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/Mybatis_study/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/Mybatis_study/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/Mybatis_study/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/Mybatis_study/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/Mybatis_study/src/main/java/com/jason/Cache/Cache_Mapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/Mybatis_study/src/main/java/com/jason/Cache/main3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/Mybatis_study/src/main/java/com/jason/DynamicSQL/UserDynamicSqlMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/Mybatis_study/src/main/java/com/jason/DynamicSQL/main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/Mybatis_study/src/main/java/com/jason/Interface/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/Mybatis_study/src/main/java/com/jason/Mapper/Acount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/Mybatis_study/src/main/java/com/jason/Mapper/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/Mybatis_study/src/main/java/com/jason/Mapper/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/Mybatis_study/src/main/java/com/jason/resultMap/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/Mybatis_study/src/main/java/com/jason/resultMap/main1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/Mybatis_study/src/main/resources/Config/SqlMapConfig.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/Mybatis_study/src/main/resources/SqlMapConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/Mybatis_study/src/main/resources/com/jason/Cache/Cache_Mapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/Mybatis_study/src/main/resources/com/jason/DynamicSQL/UserDynamicSqlMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/Mybatis_study/src/main/resources/com/jason/Interface/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/Mybatis_study/src/main/resources/com/jason/resultMap/AcountMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/Mybatis_study/src/main/resources/com/jason/resultMap/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/Mybatis_study/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/ssm/.idea/libraries/Spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/ssm_web/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/ssm_web/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/ssm_web/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/ssm_web/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/ssm_web/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/ssm_web/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/ssm_web/src/main/java/com/controller/LoginController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/ssm_web/src/main/java/com/dao/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/ssm_web/src/main/java/com/pojo/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/ssm_web/src/main/java/com/pojo/UserExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/ssm_web/src/main/java/com/service/LoginService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/ssm_web/src/main/java/com/service/impl/LoginServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/ssm_web/src/main/resources/Config/SqlMapConfig.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/ssm_web/src/main/resources/SqlMapConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/ssm_web/src/main/resources/application-dao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/ssm_web/src/main/resources/application-service.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/ssm_web/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/ssm_web/src/main/resources/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/ssm_web/src/main/resources/jason/Cache/Cache_Mapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/ssm_web/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/ssm_web/src/main/resources/mapper/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/ssm_web/src/main/resources/mybatis.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/ssm_web/src/main/resources/springmvc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/ssm_web/ssm_web.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/数据结构及算法强化/src/DP/非连续_最长公共字串.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project Code/.metadata/.log" beforeDir="false" afterPath="$PROJECT_DIR$/../Project Code/.metadata/.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/Ajax_study/org.eclipse.jdt.core/state.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/ArtFire/.markers" beforeDir="false" afterPath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/ArtFire/.markers" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/ArtFire/org.eclipse.jdt.core/state.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/ArtFire2.0/.markers" beforeDir="false" afterPath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/ArtFire2.0/.markers" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/ArtFire2.0/org.eclipse.jdt.core/state.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/Spring_AOP/org.eclipse.jdt.core/state.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/Spring_study/org.eclipse.jdt.core/state.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/Spring开发/.markers" beforeDir="false" afterPath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/Spring开发/.markers" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/Spring开发/org.eclipse.jdt.core/state.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/YaShiBaby/org.eclipse.jdt.core/state.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/apache_struts/org.eclipse.jdt.core/state.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/biluservlet/.markers" beforeDir="false" afterPath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/biluservlet/.markers" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/biluservlet/org.eclipse.jdt.core/state.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/java中重要的基础点/org.eclipse.jdt.core/state.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/struts2_jack/org.eclipse.jdt.core/state.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/test_hibernate_mapping_sql/org.eclipse.jdt.core/state.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/web前端学习/org.eclipse.jdt.core/state.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/数据结构与算法/org.eclipse.jdt.core/state.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/线程并发/.markers" beforeDir="false" afterPath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/线程并发/.markers" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/线程并发/org.eclipse.jdt.core/state.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.core.resources/.root/22.tree" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" beforeDir="false" afterPath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.debug.ui/launchConfigurationHistory.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.debug.ui/launchConfigurationHistory.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" beforeDir="false" afterPath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/server-config.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/server-config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.jdt.core/2896732160.index" beforeDir="false" afterPath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.jdt.core/2896732160.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.jdt.core/3254915422.index" beforeDir="false" afterPath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.jdt.core/3254915422.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache" beforeDir="false" afterPath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps" beforeDir="false" afterPath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" beforeDir="false" afterPath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.jst.j2ee.web/webLibrariesCache.index" beforeDir="false" afterPath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.jst.j2ee.web/webLibrariesCache.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.jst.j2ee/earLibrariesCache.index" beforeDir="false" afterPath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.jst.j2ee/earLibrariesCache.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.jst.jsp.core/translators/4284867040.translator" beforeDir="false" afterPath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.jst.jsp.core/translators/4284867040.translator" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" beforeDir="false" afterPath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.wst.internet.cache/cache.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.wst.internet.cache/cache.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.wst.jsdt.core/externalLibsTimeStamps" beforeDir="false" afterPath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.wst.jsdt.core/externalLibsTimeStamps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes/savedIndexNames.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes/savedIndexNames.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.wst.jsdt.core/variablesAndContainers.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.wst.jsdt.core/variablesAndContainers.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.wst.sse.core/task-tags.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.wst.sse.core/task-tags.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.wst.validation/dep.index" beforeDir="false" afterPath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.wst.validation/dep.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project Code/.metadata/version.ini" beforeDir="false" afterPath="$PROJECT_DIR$/../Project Code/.metadata/version.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project Code/Spring开发/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../Project Code/Spring开发/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Study Notes/Point/准备笔记.doc" beforeDir="false" afterPath="$PROJECT_DIR$/../Study Notes/Point/准备笔记.doc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Study Notes/SQL/MYSQL_Study.doc" beforeDir="false" afterPath="$PROJECT_DIR$/../Study Notes/SQL/MYSQL_Study.doc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Study Notes/SQL/~$SQL_Study.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Study Notes/Spring/Spring开发.doc" beforeDir="false" afterPath="$PROJECT_DIR$/../Study Notes/Spring/Spring开发.doc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Study Notes/Spring/Spring框架.doc" beforeDir="false" afterPath="$PROJECT_DIR$/../Study Notes/Spring/Spring框架.doc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea code/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../idea code/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea code/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../idea code/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea code/target/classes/Config/SqlMapConfig.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea code/target/classes/SqlMapConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea code/target/classes/com/jason/Cache/Cache_Mapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea code/target/classes/com/jason/DynamicSQL/UserDynamicSqlMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea code/target/classes/com/jason/Interface/UserMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea code/target/classes/com/jason/resultMap/AcountMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea code/target/classes/com/jason/resultMap/UserMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea code/target/classes/log4j.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea源码/comssm2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea源码/comssm2/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea源码/comssm2/comssm2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea源码/ssm/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../idea源码/ssm/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea源码/ssm/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../idea源码/ssm/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea源码/ssm/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../idea源码/ssm/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea源码/ssm/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../idea源码/ssm/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea源码/ssm/ssm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../idea源码/ssm/ssm.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea源码/test/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea源码/test/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../idea源码/test/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea源码/test/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../idea源码/test/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea源码/test/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea源码/test/src/main/java/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea源码/test/src/main/java/com/jason/Cache/Cache_Mapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea源码/test/src/main/java/com/jason/Cache/main3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea源码/test/src/main/java/com/jason/DynamicSQL/UserDynamicSqlMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea源码/test/src/main/java/com/jason/DynamicSQL/main2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea源码/test/src/main/java/com/jason/Interface/UserMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea源码/test/src/main/java/com/jason/Mapper/Acount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea源码/test/src/main/java/com/jason/Mapper/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea源码/test/src/main/java/com/jason/Mapper/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea源码/test/src/main/java/com/jason/resultMap/AcountMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea源码/test/src/main/java/com/jason/resultMap/UserMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea源码/test/src/main/java/com/jason/resultMap/main1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea源码/test/src/main/resources/Config/SqlMapConfig.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea源码/test/src/main/resources/SqlMapConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea源码/test/src/main/resources/com/jason/Cache/Cache_Mapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea源码/test/src/main/resources/com/jason/DynamicSQL/UserDynamicSqlMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea源码/test/src/main/resources/com/jason/Interface/UserMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea源码/test/src/main/resources/com/jason/resultMap/AcountMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea源码/test/src/main/resources/com/jason/resultMap/UserMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea源码/test/src/main/resources/log4j.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea源码/test/target/classes/Config/SqlMapConfig.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea源码/test/target/classes/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea源码/test/target/classes/SqlMapConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea源码/test/target/classes/com/jason/Cache/Cache_Mapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea源码/test/target/classes/com/jason/Cache/Cache_Mapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea源码/test/target/classes/com/jason/Cache/main3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea源码/test/target/classes/com/jason/DynamicSQL/UserDynamicSqlMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea源码/test/target/classes/com/jason/DynamicSQL/UserDynamicSqlMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea源码/test/target/classes/com/jason/DynamicSQL/main2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea源码/test/target/classes/com/jason/Interface/UserMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea源码/test/target/classes/com/jason/Interface/UserMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea源码/test/target/classes/com/jason/Mapper/Acount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea源码/test/target/classes/com/jason/Mapper/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea源码/test/target/classes/com/jason/Mapper/main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea源码/test/target/classes/com/jason/resultMap/AcountMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea源码/test/target/classes/com/jason/resultMap/AcountMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea源码/test/target/classes/com/jason/resultMap/UserMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea源码/test/target/classes/com/jason/resultMap/UserMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea源码/test/target/classes/com/jason/resultMap/main1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea源码/test/target/classes/log4j.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea源码/test/test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea源码/数据结构及算法强化/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../idea源码/数据结构及算法强化/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea源码/数据结构及算法强化/out/production/数据结构及算法强化/DP/info.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea源码/数据结构及算法强化/out/production/数据结构及算法强化/DP/~$info.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea源码/数据结构及算法强化/out/production/数据结构及算法强化/KMP/info.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea源码/数据结构及算法强化/out/production/数据结构及算法强化/欧拉回路/单词拼接/Info.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/../idea code/idea code.iml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1340" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="testone" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testone" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testone" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testone" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testone" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testone" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testone" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testone" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testone" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testone" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="testone" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="104a81bf-42ad-4c8f-9ee7-140066a28743" name="Default Changelist" comment="" />
+      <created>1556505849766</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556505849766</updated>
+      <workItem from="1556505866195" duration="270000" />
+      <workItem from="1557132306149" duration="2403000" />
+      <workItem from="1557194332054" duration="113000" />
+      <workItem from="1557211314866" duration="584000" />
+      <workItem from="1559200762754" duration="86000" />
+      <workItem from="1559201622235" duration="8000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3464000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17803837" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.329718" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

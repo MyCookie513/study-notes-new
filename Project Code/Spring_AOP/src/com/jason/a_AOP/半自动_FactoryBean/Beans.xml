@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xsi:schemaLocation="
+        http://www.springframework.org/schema/beans 
+        http://www.springframework.org/schema/beans/spring-beans.xsd
+        http://www.springframework.org/schema/context 
+        http://www.springframework.org/schema/context/spring-context.xsd">
+        
+        
+<context:annotation-config></context:annotation-config>
+
+<!-- 1.目标类的实例 -->
+<bean id="TargetID" class="com.jason.a_AOP.半自动_FactoryBean.Target_imple" ></bean>
+<!-- 2。通知增强类的实例 （实现了AOP alliance联盟的接口MethodInterceptor(方法拦截环绕增强)）-->
+<bean id="AdviceID" class="com.jason.a_AOP.半自动_FactoryBean.advice_Imple" ></bean>
+
+<!-- FcatoryBean 完成织入并创建代理类的过程 -->
+<!-- 创建代理工厂类，底层调用getobject（）生成代理功能的bean； -->
+<bean  id="Target_proxyformFactoryBean" class="org.springframework.aop.framework.ProxyFactoryBean"  >
+<!-- 这个factorybean类注入的参数有： -->
+<!-- 1.确定接口们 -->
+ <property name="interfaces">
+<array>
+<value>com.jason.a_AOP.半自动_FactoryBean.Target</value>
+</array> 
+</property>
+<!-- 2.注入target实例 -->
+<property name="target" ref="TargetID">
+</property>
+<!-- 3.注入增强advice    这个地方是String类型的注入所以要写value  -->
+<property name="interceptorNames" value="AdviceID">
+</property>
+<!-- 强制使用cglib -->
+ <property name="optimize" value="true"></property> 
+ <!-- 底层：如果目标类有借口，jdk的动态代理
+     else  使用cglib的动态代理
+           如果声明了optimize  无论是否有接口就强制使用cglib字节码 -->
+
+
+</bean>
+
+
+
+
+
+</beans>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+ "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+ <!-- 产品信息字段配置信息 -->
+ <hibernate-mapping>
+ 	<class name="com.cn.product.product" table="product">
+ 		
+ 		
+ 		<!-- id值 -->
+ 		<id name="id" column="id" type="int">
+			<generator class="native"/>
+		</id>
+		
+		<!-- 产品名称 -->
+		<property name="num" type="int" not-null="true" >
+		<column name="num"/>
+		</property>
+		
+		<property name="unit" type="java.lang.String" length="45" not-null="true">
+		<column name="unit"/>
+		</property>
+		
+		<property name="name" type="java.lang.String" length="45" not-null="true">
+		<column name="name"/>
+		</property>
+		
+		<many-to-one name="test_hibernate0" class="com.cn.longclass.test_hibernate" >
+		<column name="testhibernate"/>
+		</many-to-one>
+		
+		<property name="price" type="double" not-null="true" >
+		<column name="price"/>
+		</property>
+		
+ 	</class>
+ </hibernate-mapping>

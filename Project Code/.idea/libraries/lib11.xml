@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="lib11">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/web前端学习/WebContent/WEB-INF/lib/commons-fileupload-1.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web前端学习/WebContent/WEB-INF/lib/commons-beanutils-1.7.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web前端学习/WebContent/WEB-INF/lib/commons-io-2.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web前端学习/WebContent/WEB-INF/lib/mysql-connector-java-5.1.8-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web前端学习/WebContent/WEB-INF/lib/json-lib-2.1-jdk15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web前端学习/WebContent/WEB-INF/lib/commons-logging.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web前端学习/WebContent/WEB-INF/lib/ezmorph-1.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web前端学习/WebContent/WEB-INF/lib/commons-lang-2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web前端学习/WebContent/WEB-INF/lib/commons-fileupload.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web前端学习/WebContent/WEB-INF/lib/commons-collections-3.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://xmlns.jcp.org/xml/ns/javaee" xmlns:jsp="http://java.sun.com/xml/ns/javaee/jsp" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd" version="3.1">
+  <display-name>web前端学习</display-name>
+  <context-param>
+    <param-name>url</param-name>
+    <param-value>localhost:3306</param-value>
+  </context-param>
+  <context-param>
+    <param-name>name</param-name>
+    <param-value>root</param-value>
+  </context-param>
+  <context-param>
+    <param-name>password</param-name>
+    <param-value>123456</param-value>
+  </context-param>
+  <welcome-file-list>
+    <welcome-file>index.jsp</welcome-file>
+    <welcome-file>default.html</welcome-file>
+    <welcome-file>default.htm</welcome-file>
+    <welcome-file>default.jsp</welcome-file>
+  </welcome-file-list>
+  <jsp-config>
+    <jsp-property-group>
+      <description>   
+          Special property group for JSP Configuration HTML   
+          example.   
+          </description>
+      <display-name>JSPConfiguration</display-name>
+      <url-pattern>*.html</url-pattern>
+      <el-ignored>true</el-ignored>
+      <page-encoding>UTF-8</page-encoding>
+      <scripting-invalid>false</scripting-invalid>
+      <include-prelude></include-prelude>
+      <include-coda></include-coda>
+    </jsp-property-group>
+  </jsp-config>
+  
+<!--   进行servlet的定位和映射； -->
+  <servlet>
+    <servlet-name>simple_deal</servlet-name>
+    <servlet-class>servlet.deal_request</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>simple_deal</servlet-name>
+    <url-pattern>/simple_deal</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+    <servlet-name>Page_query</servlet-name>
+    <servlet-class>servlet.Page_query</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>Page_query</servlet-name>
+    <url-pattern>/Page_query</url-pattern>
+  </servlet-mapping>
+  
+  
+    <servlet>
+    <servlet-name>ZoneServlet</servlet-name>
+    <servlet-class>servlet.ZoneServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>ZoneServlet</servlet-name>
+    <url-pattern>/ZoneServlet</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+        <servlet-name>UpLoad</servlet-name>
+        <servlet-class>servlet.UpLoad</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>UpLoad</servlet-name>
+        <url-pattern>/UpLoad</url-pattern>
+    </servlet-mapping>
+  <!-- 进行过滤器的定位和映射 -->
+  <filter>
+  <filter-name>counter</filter-name>
+  <filter-class>Filter.counter_filter</filter-class>
+  <init-param>
+  <param-name>count</param-name>
+  <param-value>665</param-value>
+  </init-param>
+  </filter>
+  <filter-mapping>
+  <filter-name>counter</filter-name>
+  <url-pattern>/counter.jsp</url-pattern>
+  </filter-mapping>
+  
+ <!--  设置请求和回复的编码格式 -->
+  <filter>
+	<!-- 过滤器名称 -->
+	<filter-name>CharactorFilter</filter-name>
+	<!-- 过滤器的完整类名 -->
+	<filter-class>Filter.CharactorFilter</filter-class>
+	<!-- 初始化参数 -->
+	<init-param>
+		<!-- 参数名 -->
+		<param-name>encoding</param-name>
+		<!-- 参数值 -->
+		<param-value>UTF-8</param-value>
+	</init-param>
+</filter>
+<!-- 过滤器映射 -->
+<filter-mapping>
+	<!-- 过滤器名称 -->
+	<filter-name>CharactorFilter</filter-name>
+	<!-- URL映射 -->
+	<url-pattern>/*</url-pattern>
+</filter-mapping>
+  
+</web-app>

@@ -1,0 +1,840 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a15564fb-5ee7-43a6-89ee-a38fca0c3c12" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../idea源码/Important_Point_java/Important_Point_java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/Important_Point_java/src/main/java/动态代理/ServiceInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/Important_Point_java/src/main/java/动态代理/serviceImple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/Important_Point_java/src/main/java/动态代理/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/Important_Point_java/src/main/java/动态代理/较详细版/$Proxy0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/Important_Point_java/src/main/java/动态代理/较详细版/MyInvocationHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/Important_Point_java/src/main/java/动态代理/较详细版/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/Important_Point_java/src/main/java/动态代理/较详细版/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/Important_Point_java/src/main/java/反射/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/Important_Point_java/src/main/java/反射/test_Constructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/Important_Point_java/src/main/java/反射/test_Fields.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/Important_Point_java/src/main/java/反射/test_Method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/Mybatis_study/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/Mybatis_study/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/Mybatis_study/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/Mybatis_study/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/Mybatis_study/Mybatis_study.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/Mybatis_study/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/Mybatis_study/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/Mybatis_study/src/main/java/com/jason/Cache/Cache_Mapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/Mybatis_study/src/main/java/com/jason/Cache/main3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/Mybatis_study/src/main/java/com/jason/DynamicSQL/UserDynamicSqlMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/Mybatis_study/src/main/java/com/jason/DynamicSQL/main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/Mybatis_study/src/main/java/com/jason/Interface/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/Mybatis_study/src/main/java/com/jason/Mapper/Acount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/Mybatis_study/src/main/java/com/jason/Mapper/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/Mybatis_study/src/main/java/com/jason/Mapper/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/Mybatis_study/src/main/java/com/jason/resultMap/AcountMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/Mybatis_study/src/main/java/com/jason/resultMap/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/Mybatis_study/src/main/java/com/jason/resultMap/main1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/Mybatis_study/src/main/resources/Config/SqlMapConfig.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/Mybatis_study/src/main/resources/SqlMapConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/Mybatis_study/src/main/resources/com/jason/Cache/Cache_Mapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/Mybatis_study/src/main/resources/com/jason/DynamicSQL/UserDynamicSqlMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/Mybatis_study/src/main/resources/com/jason/Interface/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/Mybatis_study/src/main/resources/com/jason/resultMap/AcountMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/Mybatis_study/src/main/resources/com/jason/resultMap/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/Mybatis_study/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/ssm/.idea/libraries/Spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/ssm_web/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/ssm_web/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/ssm_web/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/ssm_web/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/ssm_web/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/ssm_web/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/ssm_web/src/main/java/com/controller/LoginController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/ssm_web/src/main/java/com/dao/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/ssm_web/src/main/java/com/pojo/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/ssm_web/src/main/java/com/pojo/UserExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/ssm_web/src/main/java/com/service/LoginService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/ssm_web/src/main/java/com/service/impl/LoginServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/ssm_web/src/main/resources/Config/SqlMapConfig.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/ssm_web/src/main/resources/SqlMapConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/ssm_web/src/main/resources/application-dao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/ssm_web/src/main/resources/application-service.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/ssm_web/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/ssm_web/src/main/resources/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/ssm_web/src/main/resources/jason/Cache/Cache_Mapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/ssm_web/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/ssm_web/src/main/resources/mapper/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/ssm_web/src/main/resources/mybatis.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/ssm_web/src/main/resources/springmvc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/ssm_web/ssm_web.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea源码/数据结构及算法强化/src/DP/非连续_最长公共字串.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project Code/.metadata/.log" beforeDir="false" afterPath="$PROJECT_DIR$/../Project Code/.metadata/.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/Ajax_study/org.eclipse.jdt.core/state.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/ArtFire/.markers" beforeDir="false" afterPath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/ArtFire/.markers" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/ArtFire/org.eclipse.jdt.core/state.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/ArtFire2.0/.markers" beforeDir="false" afterPath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/ArtFire2.0/.markers" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/ArtFire2.0/org.eclipse.jdt.core/state.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/Spring_AOP/org.eclipse.jdt.core/state.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/Spring_study/org.eclipse.jdt.core/state.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/Spring开发/.markers" beforeDir="false" afterPath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/Spring开发/.markers" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/Spring开发/org.eclipse.jdt.core/state.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/YaShiBaby/org.eclipse.jdt.core/state.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/apache_struts/org.eclipse.jdt.core/state.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/biluservlet/.markers" beforeDir="false" afterPath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/biluservlet/.markers" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/biluservlet/org.eclipse.jdt.core/state.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/java中重要的基础点/org.eclipse.jdt.core/state.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/struts2_jack/org.eclipse.jdt.core/state.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/test_hibernate_mapping_sql/org.eclipse.jdt.core/state.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/web前端学习/org.eclipse.jdt.core/state.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/数据结构与算法/org.eclipse.jdt.core/state.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/线程并发/.markers" beforeDir="false" afterPath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/线程并发/.markers" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/线程并发/org.eclipse.jdt.core/state.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.core.resources/.root/22.tree" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" beforeDir="false" afterPath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.debug.ui/launchConfigurationHistory.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.debug.ui/launchConfigurationHistory.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" beforeDir="false" afterPath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/server-config.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/server-config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.jdt.core/2896732160.index" beforeDir="false" afterPath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.jdt.core/2896732160.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.jdt.core/3254915422.index" beforeDir="false" afterPath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.jdt.core/3254915422.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache" beforeDir="false" afterPath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps" beforeDir="false" afterPath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" beforeDir="false" afterPath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.jst.j2ee.web/webLibrariesCache.index" beforeDir="false" afterPath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.jst.j2ee.web/webLibrariesCache.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.jst.j2ee/earLibrariesCache.index" beforeDir="false" afterPath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.jst.j2ee/earLibrariesCache.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.jst.jsp.core/translators/4284867040.translator" beforeDir="false" afterPath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.jst.jsp.core/translators/4284867040.translator" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" beforeDir="false" afterPath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.wst.internet.cache/cache.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.wst.internet.cache/cache.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.wst.jsdt.core/externalLibsTimeStamps" beforeDir="false" afterPath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.wst.jsdt.core/externalLibsTimeStamps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes/savedIndexNames.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes/savedIndexNames.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.wst.jsdt.core/variablesAndContainers.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.wst.jsdt.core/variablesAndContainers.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.wst.sse.core/task-tags.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.wst.sse.core/task-tags.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.wst.validation/dep.index" beforeDir="false" afterPath="$PROJECT_DIR$/../Project Code/.metadata/.plugins/org.eclipse.wst.validation/dep.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project Code/.metadata/version.ini" beforeDir="false" afterPath="$PROJECT_DIR$/../Project Code/.metadata/version.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project Code/Spring开发/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../Project Code/Spring开发/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Study Notes/Point/准备笔记.doc" beforeDir="false" afterPath="$PROJECT_DIR$/../Study Notes/Point/准备笔记.doc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Study Notes/SQL/MYSQL_Study.doc" beforeDir="false" afterPath="$PROJECT_DIR$/../Study Notes/SQL/MYSQL_Study.doc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Study Notes/SQL/~$SQL_Study.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Study Notes/Spring/Spring开发.doc" beforeDir="false" afterPath="$PROJECT_DIR$/../Study Notes/Spring/Spring开发.doc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Study Notes/Spring/Spring框架.doc" beforeDir="false" afterPath="$PROJECT_DIR$/../Study Notes/Spring/Spring框架.doc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Config/SqlMapConfig.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SqlMapConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jason/Cache/Cache_Mapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jason/DynamicSQL/UserDynamicSqlMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jason/Interface/UserMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jason/resultMap/AcountMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jason/resultMap/UserMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/log4j.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea源码/comssm2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea源码/comssm2/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea源码/comssm2/comssm2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea源码/ssm/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../idea源码/ssm/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea源码/ssm/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../idea源码/ssm/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea源码/ssm/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../idea源码/ssm/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea源码/ssm/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../idea源码/ssm/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea源码/ssm/ssm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../idea源码/ssm/ssm.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea源码/test/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea源码/test/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea源码/test/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea源码/test/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea源码/test/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea源码/test/src/main/java/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea源码/test/src/main/java/com/jason/Cache/Cache_Mapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea源码/test/src/main/java/com/jason/Cache/main3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea源码/test/src/main/java/com/jason/DynamicSQL/UserDynamicSqlMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea源码/test/src/main/java/com/jason/DynamicSQL/main2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea源码/test/src/main/java/com/jason/Interface/UserMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea源码/test/src/main/java/com/jason/Mapper/Acount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea源码/test/src/main/java/com/jason/Mapper/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea源码/test/src/main/java/com/jason/Mapper/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea源码/test/src/main/java/com/jason/resultMap/AcountMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea源码/test/src/main/java/com/jason/resultMap/UserMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea源码/test/src/main/java/com/jason/resultMap/main1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea源码/test/src/main/resources/Config/SqlMapConfig.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea源码/test/src/main/resources/SqlMapConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea源码/test/src/main/resources/com/jason/Cache/Cache_Mapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea源码/test/src/main/resources/com/jason/DynamicSQL/UserDynamicSqlMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea源码/test/src/main/resources/com/jason/Interface/UserMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea源码/test/src/main/resources/com/jason/resultMap/AcountMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea源码/test/src/main/resources/com/jason/resultMap/UserMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea源码/test/src/main/resources/log4j.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea源码/test/target/classes/Config/SqlMapConfig.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea源码/test/target/classes/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea源码/test/target/classes/SqlMapConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea源码/test/target/classes/com/jason/Cache/Cache_Mapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea源码/test/target/classes/com/jason/Cache/Cache_Mapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea源码/test/target/classes/com/jason/Cache/main3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea源码/test/target/classes/com/jason/DynamicSQL/UserDynamicSqlMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea源码/test/target/classes/com/jason/DynamicSQL/UserDynamicSqlMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea源码/test/target/classes/com/jason/DynamicSQL/main2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea源码/test/target/classes/com/jason/Interface/UserMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea源码/test/target/classes/com/jason/Interface/UserMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea源码/test/target/classes/com/jason/Mapper/Acount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea源码/test/target/classes/com/jason/Mapper/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea源码/test/target/classes/com/jason/Mapper/main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea源码/test/target/classes/com/jason/resultMap/AcountMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea源码/test/target/classes/com/jason/resultMap/AcountMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea源码/test/target/classes/com/jason/resultMap/UserMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea源码/test/target/classes/com/jason/resultMap/UserMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea源码/test/target/classes/com/jason/resultMap/main1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea源码/test/target/classes/log4j.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea源码/test/test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea源码/数据结构及算法强化/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../idea源码/数据结构及算法强化/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea源码/数据结构及算法强化/out/production/数据结构及算法强化/DP/info.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea源码/数据结构及算法强化/out/production/数据结构及算法强化/DP/~$info.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea源码/数据结构及算法强化/out/production/数据结构及算法强化/KMP/info.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea源码/数据结构及算法强化/out/production/数据结构及算法强化/欧拉回路/单词拼接/Info.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testone/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../testone/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/../idea源码/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/jason/Mapper/User.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="312">
+              <caret line="13" column="110" selection-start-line="13" selection-start-column="110" selection-end-line="13" selection-end-column="110" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/com/jason/Cache/Cache_Mapper.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="576">
+              <caret line="24" column="14" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../idea源码/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/com/jason/resultMap/UserMapper.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/SqlMapConfig.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="744">
+              <caret line="31" selection-start-line="31" selection-end-line="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/jason/DynamicSQL/main2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1248">
+              <caret line="73" column="13" selection-start-line="73" selection-start-column="13" selection-end-line="73" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/Config/SqlMapConfig.properties">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/com/jason/DynamicSQL/UserDynamicSqlMapper.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/jason/Cache/main3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1320">
+              <caret line="73" column="37" selection-start-line="73" selection-start-column="37" selection-end-line="73" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="560">
+              <caret line="30" column="36" selection-start-line="30" selection-start-column="36" selection-end-line="30" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="package.json" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jason/user.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jason/Interface/userDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jason/Interface/Userdao.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/package.json" />
+        <option value="$PROJECT_DIR$/src/main/resources/Mapper_XML/UserMapper.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jason/Mapper/jj.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jason/Mapper/User.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/SqlMapConfig.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/com/jason/Interface/UserMapper.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jason/Interface/UserMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jason/Mapper/main.java" />
+        <option value="$PROJECT_DIR$/../idea源码/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Mabatis" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1340" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Mabatis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="idea code" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Mabatis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="idea code" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Mabatis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="idea code" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Mabatis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="idea code" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Mabatis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="idea code" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Mabatis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="idea code" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Mabatis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="idea code" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="jason" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Mabatis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="idea code" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="jason" type="462c0819:PsiDirectoryNode" />
+              <item name="Cache" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Mabatis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="idea code" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="jason" type="462c0819:PsiDirectoryNode" />
+              <item name="DynamicSQL" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../idea源码" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.testRunning" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\Study-Notes\idea code\src\main\resources\com\jason\Interface" />
+      <recent name="G:\Study-Notes\idea code\src\main\resources\com.jason" />
+      <recent name="G:\Study-Notes\idea code\src\main\resources" />
+      <recent name="G:\Study-Notes\idea code\src\main\resources\com.jason.Interface" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\Study-Notes\idea code\src\main\java\com\jason\Mapper" />
+      <recent name="G:\Study-Notes\idea code\src\main\resources\com.jason.Interface" />
+      <recent name="G:\Study-Notes\idea code\src\main\resources\com\jason\Interface" />
+      <recent name="G:\Study-Notes\idea code\src\main\resources\com" />
+      <recent name="G:\Study-Notes\idea code\src\main\resources\com.jason.L" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.main.UpdateUser">
+    <configuration name="main.DeleteUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Mabatis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jason.Mapper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jason.Mapper" />
+      <option name="MAIN_CLASS_NAME" value="com.jason.Mapper.main" />
+      <option name="METHOD_NAME" value="DeleteUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main.FindByname" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Mabatis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jason.Mapper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jason.Mapper" />
+      <option name="MAIN_CLASS_NAME" value="com.jason.Mapper.main" />
+      <option name="METHOD_NAME" value="FindByname" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main.SaveUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Mabatis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jason.Mapper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jason.Mapper" />
+      <option name="MAIN_CLASS_NAME" value="com.jason.Mapper.main" />
+      <option name="METHOD_NAME" value="SaveUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main.SelectOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Mabatis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jason.Mapper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jason.Mapper" />
+      <option name="MAIN_CLASS_NAME" value="com.jason.Mapper.main" />
+      <option name="METHOD_NAME" value="SelectOne" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main.UpdateUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Mabatis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jason.Mapper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jason.Mapper" />
+      <option name="MAIN_CLASS_NAME" value="com.jason.Mapper.main" />
+      <option name="METHOD_NAME" value="UpdateUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.main.FindByname" />
+        <item itemvalue="JUnit.main.SelectOne" />
+        <item itemvalue="JUnit.main.SaveUser" />
+        <item itemvalue="JUnit.main.DeleteUser" />
+        <item itemvalue="JUnit.main.UpdateUser" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a15564fb-5ee7-43a6-89ee-a38fca0c3c12" name="Default Changelist" comment="" />
+      <created>1557133658186</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557133658186</updated>
+      <workItem from="1557133670328" duration="1082000" />
+      <workItem from="1557211306861" duration="9672000" />
+      <workItem from="1557222300800" duration="2992000" />
+      <workItem from="1557298646204" duration="202000" />
+      <workItem from="1557315727284" duration="351000" />
+      <workItem from="1557326397847" duration="35000" />
+      <workItem from="1557376464230" duration="4657000" />
+      <workItem from="1557485374155" duration="5483000" />
+      <workItem from="1559139654752" duration="1707000" />
+      <workItem from="1559200866105" duration="939000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="main_UpdateUser - 2019.05.10 at 21h 17m 11s.xml">
+      <configuration name="main.UpdateUser" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="main_UpdateUser - 2019.05.10 at 21h 17m 45s.xml">
+      <configuration name="main.UpdateUser" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="main_UpdateUser - 2019.05.10 at 21h 19m 05s.xml">
+      <configuration name="main.UpdateUser" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="main_UpdateUser - 2019.05.10 at 21h 20m 57s.xml">
+      <configuration name="main.UpdateUser" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="main_DeleteUser - 2019.05.10 at 21h 26m 33s.xml">
+      <configuration name="main.DeleteUser" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="main_SaveUser - 2019.05.10 at 21h 27m 02s.xml">
+      <configuration name="main.SaveUser" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="main_SelectOne - 2019.05.10 at 21h 28m 30s.xml">
+      <configuration name="main.SelectOne" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="main_SelectOne - 2019.05.10 at 21h 29m 22s.xml">
+      <configuration name="main.SelectOne" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="main_FindByname - 2019.05.10 at 21h 49m 21s.xml">
+      <configuration name="main.FindByname" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="main_FindByname - 2019.05.30 at 15h 22m 00s.xml">
+      <configuration name="main.FindByname" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="30758000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15085287" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4989339" weight="0.329718" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5010661" side_tool="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49946696" weight="0.329718" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.32978722" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" weight="0.32978722" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/package.json" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/Mapper_XML/UserMapper.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_172/src.zip!/java/io/InputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="41" column="39" lean-forward="true" selection-start-line="41" selection-start-column="39" selection-end-line="41" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="16" column="4" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="31" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/com.jason.L/UserMapper.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/com/UserMapper.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/com.jason.Interface/UserMapper.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/com/jason/Interface/UserMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="21" column="60" selection-start-line="21" selection-start-column="60" selection-end-line="21" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jason/Interface/UserMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="23" column="25" selection-start-line="23" selection-start-column="15" selection-end-line="23" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jason/Mapper/main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="117" column="28" lean-forward="true" selection-start-line="117" selection-start-column="28" selection-end-line="117" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mabatis.iml" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jason/Cache/Cache_Mapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jason/Mapper/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" column="110" selection-start-line="13" selection-start-column="110" selection-end-line="13" selection-end-column="110" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/com/jason/Cache/Cache_Mapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="24" column="14" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../idea源码/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/com/jason/resultMap/UserMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/SqlMapConfig.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="744">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/Config/SqlMapConfig.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/com/jason/DynamicSQL/UserDynamicSqlMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jason/DynamicSQL/main2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1248">
+          <caret line="73" column="13" selection-start-line="73" selection-start-column="13" selection-end-line="73" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jason/Cache/main3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1320">
+          <caret line="73" column="37" selection-start-line="73" selection-start-column="37" selection-end-line="73" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="30" column="36" selection-start-line="30" selection-start-column="36" selection-end-line="30" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

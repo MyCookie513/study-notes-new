@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+ "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+ <!-- 产品信息字段配置信息 -->
+ <hibernate-mapping>
+ 	<class name="com.cn.hibernate_javabean.Ach_information" table="ach_information">
+ 		
+ 		
+ 		<!-- id值 -->
+ 		<id name="ach_ID" column="ach_ID" type="int">
+ 		          <!--  生成外键 -->
+			<generator class="native"/>
+		</id>
+		
+		
+		<property name="install_time" type="java.sql.Timestamp" length="10">
+		<column name="install_time"/>
+		</property>
+		
+		<property name="install_staff" type="java.lang.String" length="45" >
+		<column name="install_staff"/>
+		</property>
+		
+		<property name="address" type="java.lang.String" length="45" >
+		<column name="address"/>
+		</property>
+		<property name="type" type="java.lang.String" length="45" >
+		<column name="type"/>
+		</property>
+		
+		<property name="touch_screen" type="java.lang.String" length="45" >
+		<column name="touch_screen"/>
+		</property>
+		<set name="ach_wifi_data_01" inverse="true" cascade="delete">
+		<key column="ach_ID"></key>
+		<one-to-many class="com.cn.hibernate_javabean.Ach_wifi_data_01" />
+		</set>
+		<set name="ach_repair" inverse="true" >
+		<key column="ach_ID"></key>
+		<one-to-many class="com.cn.hibernate_javabean.Ach_repair" />
+		</set>
+         <one-to-one name="ach_users" class="com.cn.hibernate_javabean.Ach_users" cascade="all">
+		</one-to-one>  
+	    </class>
+ </hibernate-mapping>

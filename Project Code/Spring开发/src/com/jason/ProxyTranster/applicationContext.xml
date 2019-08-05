@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:context="http://www.springframework.org/schema/context"
+       xsi:schemaLocation="
+          http://www.springframework.org/schema/context 
+        http://www.springframework.org/schema/context/spring-context.xsd
+        http://www.springframework.org/schema/beans 
+        http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+<context:annotation-config></context:annotation-config>
+
+<bean id ="c3p0ID" class="com.mchange.v2.c3p0.ComboPooledDataSource">
+<property name="driverClass" value="com.mysql.jdbc.Driver"></property>
+<property name="jdbcUrl" value="jdbc:mysql://localhost:3306/spring_jdbctemplate"></property>
+<property name="user" value="root"></property>
+<property name="password" value="988513"></property>
+</bean>
+
+
+<bean id ="UserDao_ID" class="com.jason.ProxyTranster.dao.UserDao">
+<property name="dataSource" ref="c3p0ID"></property>
+</bean>
+
+
+
+ <!-- 事务管理器 -->
+<bean id ="txManager" class="org.springframework.jdbc.datasource.DataSourceTransactionManager">
+<property name="dataSource" ref="c3p0ID"></property>
+</bean>
+
+<!-- 一个service层的操作 -->
+<bean id ="AcountServiceID" class="com.jason.ProxyTranster.service.AcountServiceImpl">
+</bean>
+
+<!-- 利用事务代理工厂bean生成代理  Bean -->
+<bean id ="ProxyAcountServiceID" class="org.springframework.transaction.interceptor.TransactionProxyFactoryBean">
+<property name="target" ref="AcountServiceID"></property>
+<property name="transactionManager" ref="txManager"></property>
+<property name="proxyInterfaces" >
+<array>
+<value>com.jason.ProxyTranster.service.AcountService</value>
+</array>
+</property>
+
+
+
+<property name="transactionAttributes"> 
+<props>
+<!-- 确定哪个方法操作是事务型操作，value是自定义事务型定义 -->
+<prop key="transfer_acount">PROPAGATION_REQUIRED,ISOLATION_DEFAULT</prop>
+</props>
+</property>
+
+
+</bean>
+
+</beans>

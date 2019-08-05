@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans
+	xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-2.5.xsd">
+	<!-- User Bean  -->
+	<bean id="user"  class="com.cn.bean.User">
+		<property name="name">
+			<value>小强</value>
+		</property>
+		<property name="age">
+			<value>26</value>
+		</property>
+		<property name="sex">
+			<value>男</value>
+		</property>
+	</bean>
+    <!-- 注入JavaBean -->
+	<bean id="manger" name="/main.do" autowire="byName" class="com.cn.bean.Manger" >
+	
+	</bean>
+	<!-- 配置数据源 -->
+	<bean id="dataSource"
+		class="org.springframework.jdbc.datasource.DriverManagerDataSource">
+		<property name="driverClassName">
+			<value>com.mysql.jdbc.Driver</value>
+		</property>
+		<property name="url">
+			<value>jdbc:mysql://localhost:3306/jack_one
+			</value>
+		</property>
+		<property name="username">
+			<value>root</value>
+		</property>
+		<property name="password">
+			<value>988513</value>
+		</property>
+	</bean>
+	<!-- 为UserDAO注入数据源 -->
+	<bean id="userDAO" class="com.cn.bean.UserDAO">
+		<property name="dataSource">
+			<ref local="dataSource"/>
+		</property>
+	</bean>
+	
+	
+	
+	
+	
+	
+	
+	<!-- 注册自定义属性编辑器 -->
+	<!-- <bean id="customEditorConfigurer"
+		class="org.springframework.beans.factory.config.CustomEditorConfigurer">
+		<property name="customEditors">
+			<map>
+				<entry key="java.util.Date">
+					<bean id="MyDateEditor" class="com.cn.customEditor.MyDateEditor" />
+				</entry>
+			</map>
+		</property>
+	</bean> -->
+	
+</beans>
+
+
+
+
+

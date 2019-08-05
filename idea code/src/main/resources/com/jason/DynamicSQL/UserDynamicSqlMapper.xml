@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.jason.DynamicSQL.UserDynamicSqlMapper">
+
+    <select id="SelectUserByDynamicIF" resultType="com.jason.Mapper.User">
+    select  * from  t_user
+    <where>
+        <if test="idt_user!=0" >
+            idt_user =#{idt_user}
+        </if>
+        <if test="t_username!=null &amp;&amp; t_username !=&quot;&quot;">
+            and t_username like #{t_username}
+        </if>
+        <if test="t_password!=null &amp;&amp; t_password !=&quot;&quot;">
+            and t_password like #{t_password}
+        </if>
+        <if test="t_usercol==1 or t_usercol==2">
+            and t_usercol = #{t_usercol}
+        </if>
+    </where>
+
+    </select>
+
+
+    <select id="SelectUserByDynamic_Choose" resultType="com.jason.Mapper.User">
+        select  * from  t_user
+        <where>
+         <choose>
+             <when test="idt_user!=0">
+                 idt_user =#{idt_user}
+             </when>
+
+            <when test="t_username!=null &amp;&amp; t_username !=&quot;&quot;">
+                and t_username like #{t_username}
+            </when>
+             <when test="t_password!=null &amp;&amp; t_password !=&quot;&quot;">
+                 and t_password like #{t_password}
+             </when>
+             <otherwise>
+                 idt_user =1
+             </otherwise>
+         </choose>
+
+         </where>
+    </select>
+
+    <update id="Update_user_set"  >
+        update  t_user
+        <set>
+
+            <if test="t_username!=null &amp;&amp; t_username !=&quot;&quot;">
+                 t_username = #{t_username},
+            </if>
+            <if test="t_password!=null &amp;&amp; t_password !=&quot;&quot;">
+                 t_password = #{t_password},
+            </if>
+            <if test="t_usercol==1 or t_usercol==2">
+                 t_usercol = #{t_usercol},
+            </if>
+
+        </set>
+        where  idt_user =#{idt_user}
+    </update>
+
+    <select id="SelectUserByDy123" resultType="com.jason.Mapper.User" >
+         select  *  from  t_user
+        <foreach item="item" index="index" collection="list"
+                 open="where  idt_user  in(" separator="," close=")">
+            #{item}
+        </foreach>
+
+
+    </select>
+
+<!--    <insert id="AddUsers" >
+        insert into t_user(t_username,t_password,t_usercol,date,acount ) values
+
+        <foreach collection="users" separator="," item="user" >
+            (#{user.t_username},#{user.t_password},#{user.t_usercol},#{user.date},#{user.acount.id})
+        </foreach>
+    </insert>-->
+    <insert id="AddUsers" >
+        <foreach collection="users" separator=";" item="user" >
+            insert into t_user(t_username,t_password,t_usercol,date,acount ) values  (#{user.t_username},#{user.t_password},#{user.t_usercol},#{user.date},#{user.acount.id})
+        </foreach>
+    </insert>
+
+    <select id="SelectDynamictestBind" resultType="com.jason.Mapper.User">
+        <bind name="_username" value="'%'+t_username+'%'"/>
+        select * from t_user where  t_username like #{_username}
+
+    </select>
+
+
+
+    <sql id="select" >
+      <if test="_parameter!=null &amp;&amp; _databaseId=='mysql' ">
+        select * from ${name}
+      </if>
+    </sql>
+
+
+
+</mapper>

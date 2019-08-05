@@ -1,0 +1,70 @@
+
+
+.common
+{
+valign:middle;
+color:red;
+font-size:16px;
+font-family:宋体;
+}
+
+#ps{
+color:red;
+font-size:16px;
+font-family:宋体;
+
+}
+
+/*设置超链接的鼠标滑过和打开链接时的不同的状态  */
+                 .aa:link{
+                        font-size:9pt;
+                        color:#cccccc;
+                        font-weight:bold;
+                        text-decoration: underline;
+                  }
+                  .aa:hover{
+                        font-size:9pt;
+                        color:#000000;
+                        font-weight:bold;
+                        text-decoration: underline;
+                  }
+                  .aa:active{
+                        font-size:9pt;
+                        color:#6699ff;
+                        font-weight:bold;
+                        text-decoration: underline;
+                  }
+
+table{
+                  border-bottom-color:#00FFFF;
+                  border-left-color:#FFFF00;
+                  border-top-color:#FF0000;
+                  border-right-color:#00FF00;
+                  border-style:double;
+            }
+
+body{
+	FONT-SIZE: 9pt;
+	margin-left:0px;
+	SCROLLBAR-FACE-COLOR: #E5BB93; 
+	SCROLLBAR-HIGHLIGHT-COLOR: #ffffff;
+	SCROLLBAR-SHADOW-COLOR: #fcfcfc; COLOR: #000000;
+	SCROLLBAR-3DLIGHT-COLOR: #ececec;
+	SCROLLBAR-ARROW-COLOR: #ffffff;
+	SCROLLBAR-TRACK-COLOR: #ececec;
+	SCROLLBAR-DARKSHADOW-COLOR: #999966;
+	BACKGROUND-COLOR: #fcfcfc
+
+}
+.btn_grey {
+	font-family: "宋体";	font-size: 9pt;color: #333333;	
+	background-color: #eeeeee;cursor: hand;padding:1px;height:19px;
+	border-top: 1px solid #FFFFFF;border-right:1px solid #666666;
+	border-bottom: 1px solid #666666;border-left: 1px solid #FFFFFF;
+}
+hr{
+	border-style:solid;
+	height:1px;
+	color:#CCCCCC;
+}
+@charset "UTF-8";

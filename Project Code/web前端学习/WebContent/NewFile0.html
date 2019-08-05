@@ -1,0 +1,220 @@
+﻿
+<%@ page contentType="text/html;charset=UTF-8" language="java" %>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8" >
+<title>HTML STUDY</title>
+<link href="CSS/NewFile0.css" type="text/css" rel="stylesheet"/>
+
+
+<!-- 制定各个标记的样式信息  -->
+<style>
+</style>
+
+<script type="text/javascript">
+function testpassword(){
+var aa=form1.password.value;
+  if(aa==""){
+	alert("请输入密码！");
+	
+  }else if(aa=="123456"){
+  alert("输入密码正确");
+  }
+}
+function jj(){alert("输入密码正确");}
+</script>
+
+
+</head>
+<body>
+新的一年，新的起点<br>
+<h1>标题1</h1>
+<center>
+<h2>标题二</h2>
+
+<!-- 表格的测试 -->
+<table width="386" height="500"  border="3" align="center" >
+<caption>学生考试成绩单</caption>
+<tr>
+<td align ="center">姓名</td>
+<td align="center">数学</td>
+<td align="center">语文</td>
+<td align="center">英语</td>
+</tr>
+<tr>
+<td class="common" align="center">张三</td>
+<td class="common" align="center">99</td>
+<td class="common" align="center">80</td>
+<td class="common" align="center">95</td>
+</tr>
+<tr>
+<td class="common" align="center">张三</td>
+<td class="common" align="center">99</td>
+<td class="common" align="center">80</td>
+<td class="common" align="center">95</td>
+</tr>
+<tr>
+<td class="common" align="center">张三</td>
+<td class="common" align="center">99</td>
+<td class="common" align="center">80</td>
+<td class="common" align="center">95</td>
+</tr>
+</table>
+
+<br><br><br><br><br>
+
+
+
+
+
+
+<!-- 表单的测试   可输入的内容有 文件  图片 文本域  下拉选矿   复选框  -->
+
+<form action="NewFile0.html" method="post" name="form1">
+用户文件： <input type="file"       name="username"  /> <br><br><br>
+密码：        <input type="password"   name="password"/><br><br><br>
+存取方式： <input type="radio"   name="IOMethod"  value="直接"/>
+        <input type="radio"   name="IOMethod"  value="间接"/>
+        爱好： <input type="checkbox"   name="love"  value="平淡"/>平淡
+        <input type="checkbox"   name="love"  value="激情"/>激情<br><br>
+<select >
+<option>cpu</option>
+<option>内存条</option>
+<option>固态硬盘</option>
+</select><br><br>
+
+<textarea rows="5" cols="30"   wrap="soft">
+再次添加想要输入的内容。。。。
+</textarea><br>
+<input  type="submit"  value="确定保存" />
+<input  type="reset"  value="重新填写" /><br>
+</form>
+<br><br><br>
+
+
+
+<!--在表格中设置图片和超链接     -->
+
+<table width="200" height="200"  border="3" align="center" >
+<caption>我的审美观</caption>
+<tr>
+<td width="150" height="200" align ="center"><img width="150" height="200" alt="出错！" src="img/0.jpg"></td>
+<td width="150" height="200" align ="center"><img width="150" height="200" alt="出错！" src="img/1.jpg"></td>
+
+</tr>
+<tr>
+<td  height="35" align= "center" valign="middle"><a class="aa" href="NewFile1.html">查看详情</a></td>
+<td height="35" align= "center" valign="middle"><a class="aa" href="NewFile1.html">查看详情</a></td>
+
+</tr>
+<tr>
+<td width="150" height="200" align ="center"><img width="150" height="200" alt="出错！" src="img/2.jpg"></td>
+<td width="150" height="200" align ="center"><img width="150" height="200" alt="出错！" src="img/3.jpg"></td>
+
+</tr>
+<tr>
+<td height="35" align= "center" valign="middle"><a class="aa" href="NewFile1.html">查看详情</a></td>
+<td height="35" align= "center" valign="middle"><a class="aa" href="NewFile1.html">查看详情</a></td>
+
+</tr>
+<tr>
+<td width="150" height="200" align ="center"><img alt="出错！"  width="150" height="200" src="img/4.jpg"></td>
+<td width="150" height="200"  align ="center"><img alt="出错！" width="150" height="200"  src="img/5.jpg"></td>
+
+</tr>
+<tr>
+<td height="35" align= "center" valign="middle"><a class="aa" href="NewFile1.html">查看详情</a></td>
+<td height="35" align= "center" valign="middle"><a class="aa" href="NewFile1.html">查看详情</a></td>
+
+</tr>
+</table>
+
+<br><br><br>
+
+
+<!-- 区域内容的标记 -->
+<section id="ps">
+
+<h2>section标记的使用</h2>
+<p >在此添加段落文字</p><br>
+
+
+
+</section>
+<br><br>
+<table width="600" height="70" border="0" align="center" cellpadding="0" cellspacing="1" bordercolorlight="#FF9933" bordercolordark="#FFFFFF" bgcolor="#666666">
+  <thead>
+    <tr>
+      <td width="14%" align="center" bgcolor="#FFFFFF"><img src="img/head.jpg" width="70" height="74"></td>
+      <td width="86%" align="left" bgcolor="#FFFFFF">&nbsp;人生若真如一场大梦，这个梦倒也很有趣的。在这个大梦里，一定还有长长短短，深深浅浅，肥肥瘦瘦、甜甜苦苦，无数的小梦。有些已经随着日影飞去；有些还远着哩……</td>
+    </tr>
+  </thead>
+</table>
+<br>
+
+<table id="comment" width="600" border="1" align="center" cellpadding="0" cellspacing="0" bordercolor="#FFFFFF" bordercolorlight="#666666" bordercolordark="#FFFFFF">
+  <tr>
+	<td width="18%" height="27" align="center" bgcolor="#E5BB93">评论人</td>
+	<td width="82%" align="center" bgcolor="#E5BB93">评论内容</td>
+  </tr>
+</table>
+<form name="form1" method="post" action="">    
+  <table width="600" height="122" border="0" align="center" cellpadding="0" cellspacing="0">
+    <tr>
+      <td width="119" height="14">&nbsp;</td>
+      <td width="481">&nbsp;</td>
+    </tr>
+    <tr>
+      <td height="27" align="center">评 论 人：</td>
+      <td>
+        <input name="person" type="text" id="person" size="40">
+
+      </td>
+    </tr>
+    <tr>
+      <td align="center">评论内容：</td>
+      <td><textarea name="content" cols="60" rows="6" id="content"></textarea></td>
+    </tr>
+    <tr>
+      <td height="40">&nbsp;</td>
+      <td><input name="Button" id="button_add" type="button" class="btn_grey" value="发表" onClick="addElement()">
+      &nbsp;
+      <input name="Reset" type="reset" class="btn_grey" value="重置">
+      &nbsp;
+      <input name="Button" id="button_dele_fir"type="button" class="btn_grey" value="删除第一条评论" onClick="deleteFirstE()">
+      &nbsp;
+      <input name="Button" id="button_dele_la" type="button" class="btn_grey" value="删除最后一条评论" onClick="deleteLastE()"></td>
+    </tr>
+  </table>
+  </form>
+
+
+
+<input  id="bt_bubb" type="button"    value="请单击" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+<script src="js/jjs.js"></script>
+</html>
+
+
+
+
+

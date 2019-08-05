@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xmlns="http://xmlns.jcp.org/xml/ns/javaee"
+xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee 
+                    http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd" 
+                    id="WebApp_ID" version="3.1">
+  <welcome-file-list>
+    <welcome-file>index.html</welcome-file>
+    <welcome-file>index.htm</welcome-file>
+    <welcome-file>index.jsp</welcome-file>
+    <welcome-file>default.html</welcome-file>
+    <welcome-file>default.htm</welcome-file>
+    <welcome-file>default.jsp</welcome-file>
+  </welcome-file-list>
+<!-- 修改加载spring容器时的默认路径 -->
+<context-param>
+<param-name>contextConfigLocation</param-name>
+<param-value>classpath:web/Servlet/applicationContext.xml</param-value>
+</context-param>
+<!-- 配置Spring中的ApplicationContext.xml文件以及容器的初始化，在ContextLoaderListener中初始化-->
+<listener>
+<listener-class>org.springframework.web.context.ContextLoaderListener</listener-class>
+</listener>
+
+ <servlet>
+<servlet-name>transterServlet</servlet-name>
+<servlet-class>web.Servlet.transter</servlet-class>
+</servlet>
+<servlet-mapping>
+<servlet-name>transterServlet</servlet-name>
+<url-pattern>/transterServlet</url-pattern>
+</servlet-mapping> 
+
+
+</web-app>

@@ -1,0 +1,55 @@
+<!DOCTYPE struts PUBLIC
+	"-//Apache Software Foundation//DTD Struts Configuration 2.1//EN"
+	"http://struts.apache.org/dtds/struts-2.1.dtd">
+<struts>
+
+
+
+
+	<!-- 打开动态调用 -->
+	<constant name="struts.enable.DynamicMethodInvocation"
+		value="true" />
+	<!-- 声明包 -->
+	<package name="myPackage" extends="struts-default">
+
+		<!-- 注册拦截器 -->
+		<!-- <interceptors> <interceptor name="login" class="action.interceptor.userlogin_interceptor"></interceptor> 
+			</interceptors> <action name="testAction" class="com.lyq.action.Req_sess_applica_Action"> 
+			<result>success.jsp</result> </action> -->
+		<action name="dataAction" class="com.cn.action.data">
+			<result>../main_show/DataTest.jsp</result>
+			<result name="error">login.jsp</result>
+			<result name="input">../getInfo.jsp</result>
+		</action>
+
+		<action name="repairAction"
+			class="com.cn.action.Inquiry_repair">
+			<result>repair_list.jsp</result>
+			<result name="error">login.jsp</result>
+			<result name="input">../getInfo.jsp</result>
+		</action>
+
+
+		<action name="updateAction" class="com.cn.action.updatedata">
+
+			<result>../getInfo.jsp</result>
+		</action>
+
+
+		<action name="userAction" class="com.cn.action.UserAction"
+			method="register">
+			<result>login.jsp</result>
+			<result name="error">error.jsp</result>
+		</action>
+
+		<action name="repair_register_Action"
+			class="com.cn.action.Repair_register">
+			<result>repair_register_success.jsp</result>
+			<result name="error">repair_register_fail.jsp</result>
+		</action>
+		<action name="loginAction" class="com.cn.action.loginAction">
+			<result>main_content.jsp</result>
+			<result name="error">login.jsp</result>
+		</action>
+	</package>
+</struts>

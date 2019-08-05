@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:context="http://www.springframework.org/schema/context"
+       xsi:schemaLocation="
+          http://www.springframework.org/schema/context 
+        http://www.springframework.org/schema/context/spring-context.xsd
+        http://www.springframework.org/schema/beans 
+        http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+<context:annotation-config></context:annotation-config>
+
+<bean id ="c3p0ID" class="com.mchange.v2.c3p0.ComboPooledDataSource">
+<property name="driverClass" value="com.mysql.jdbc.Driver"></property>
+<property name="jdbcUrl" value="jdbc:mysql://localhost:3306/spring_jdbctemplate"></property>
+<property name="user" value="root"></property>
+<property name="password" value="988513"></property>
+</bean>
+
+
+<bean id ="DbcpID" class="org.apache.commons.dbcp.BasicDataSource" >
+<property name="driverClassName" value="com.mysql.jdbc.Driver"></property>
+<property name="url" value="jdbc:mysql://localhost:3306/spring_jdbctemplate"></property>
+<property name="username" value="root"></property>
+<property name="password" value="988513"></property>
+</bean>
+
+
+<context:property-placeholder/>
+
+
+<bean id ="UserDaoID" class="com.jason.transter.dao.UserDao">
+<property name="dataSource" ref="c3p0ID"></property>
+</bean>
+
+
+<!-- 一个service层的操作，利用事务面板来完成； -->
+<bean id ="AcountServiceID" class="com.jason.transter.Service.AcountServiceImpl">
+<!-- 在service中注入事务面板 -->
+<property name="transactiontemplate" ref="transactiontemplateID"></property>
+</bean>
+
+
+<!-- 事务面板的形成需要一个注入一个事务管理器 -->
+<bean id="transactiontemplateID" class="org.springframework.transaction.support.TransactionTemplate">
+<property name="transactionManager" ref="txManager"></property>
+</bean>
+
+
+<!-- 配置事务管理器，管理器依赖于事务，
+而事务来源于connection，
+connection又由DataSource产生，
+所以注入一个连接池来生成事务管理器 -->
+<bean id ="txManager" class="org.springframework.jdbc.datasource.DataSourceTransactionManager">
+<property name="dataSource" ref="c3p0ID"></property>
+</bean>
+
+
+
+
+</beans>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:p="http://www.springframework.org/schema/p"
+       xsi:schemaLocation="
+        http://www.springframework.org/schema/beans 
+        http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+
+<bean id="collectionsID" class="com.jason.DI_Collections.collection">
+<property name="array">
+<array>
+<value>曾小贤</value>
+<value>胡一菲</value>
+<value>吕子乔</value>
+<value>陈美嘉</value>
+</array>
+</property>
+
+<property name="list">
+<list>
+<value>小明</value>
+<value>小红</value>
+</list>
+</property>
+
+<property name="set">
+<set>
+
+<value>稳稳地幸福</value>
+<value>踏踏实实的生活</value>
+
+</set>
+</property>
+
+<property name="map">
+<map>
+<entry>
+<key>
+<value>薛永杰</value>
+</key>
+<value>高晓学</value>
+</entry>
+</map>
+</property>
+
+<property name="props">
+<props>
+<prop key="善良">美丽</prop>
+</props>
+</property>
+</bean>
+
+
+</beans>

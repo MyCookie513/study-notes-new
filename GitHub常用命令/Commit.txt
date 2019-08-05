@@ -1,0 +1,51 @@
+﻿如果本地仓库和云端仓库有不一致的地方会发生错误?
+这时
+
+git pull --rebase origin master
+
+–rebase的作用是取消掉本地库中刚刚的commit，并把他们接到更新后的版本库之中。
+总句：
+1.先取消commit记录，并且把它们临时 保存为补丁(patch)(这些补丁放到”.git/rebase”目录中)，
+2.之后同步远程库到本地，
+3.最后合并补丁到本地库之中。
+
+
+
+
+
+将本地仓库的更新到Git?
+git checkout -b  "创建一个新分支的名字"
+git commit -a -m "commit all files"
+git checkout master 
+git merge local-to-romote
+git push origin master
+
+
+
+
+
+在库中增加一个新的文件?
+ls 显示文件列表
+git add "新的文件名”
+git commit -m "更改的原因"
+git push origin master
+
+
+
+
+如何将远程的库拉取更新到本地？
+ git pull origin master 
+
+
+
+如何将本地想云端提交的版本回退？
+git reflog
+git  reset --hard 4c69115 
+
+这个也是将本地 的仓库更新到缓存
+
+$ git add * //把本地仓库的文件上传到缓存。
+$ git commit -m 'del' //把第一步上传到缓存的东西上传到本地仓库，其中'del'是操作标识，内容随便填，方便用户观看。
+$ git push origin master //把本地仓库的文件上传到远程仓库
+
+

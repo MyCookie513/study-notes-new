@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+        xmlns:tx="http://www.springframework.org/schema/tx"
+        xmlns:aop="http://www.springframework.org/schema/aop"
+       xsi:schemaLocation="
+          http://www.springframework.org/schema/context 
+        http://www.springframework.org/schema/context/spring-context.xsd
+        http://www.springframework.org/schema/beans 
+        http://www.springframework.org/schema/beans/spring-beans.xsd 
+        http://www.springframework.org/schema/tx 
+        http://www.springframework.org/schema/tx/spring-tx.xsd
+        http://www.springframework.org/schema/aop
+        http://www.springframework.org/schema/aop/spring-aop.xsd">
+
+<context:annotation-config></context:annotation-config>
+
+<bean id ="c3p0ID" class="com.mchange.v2.c3p0.ComboPooledDataSource">
+<property name="driverClass" value="com.mysql.jdbc.Driver"></property>
+<property name="jdbcUrl" value="jdbc:mysql://localhost:3306/spring_jdbctemplate"></property>
+<property name="user" value="root"></property>
+<property name="password" value="988513"></property>
+</bean>
+
+
+<bean id ="UserDao_ID" class="web.Servlet.dao.UserDao">
+<property name="dataSource" ref="c3p0ID"></property>
+</bean>
+
+
+
+ <!-- 事务管理器 -->
+<bean id ="txManager" class="org.springframework.jdbc.datasource.DataSourceTransactionManager">
+<property name="dataSource" ref="c3p0ID"></property>
+</bean>
+
+<!-- 一个service层的操作 -->
+<bean id ="AcountServiceID" class="web.Servlet.Service.AcountServiceImpl">
+</bean>
+
+<tx:annotation-driven transaction-manager="txManager" proxy-target-class="false"/>
+
+
+
+
+</beans>

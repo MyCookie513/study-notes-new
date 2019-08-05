@@ -1,0 +1,31 @@
+<component name="libraryTable">
+  <library name="lib7">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Spring_study/WebContent/WEB-INF/lib/spring-webmvc-5.1.2.RELEASE-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Spring_study/WebContent/WEB-INF/lib/spring-orm-5.1.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Spring_study/WebContent/WEB-INF/lib/spring-expression-5.1.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Spring_study/WebContent/WEB-INF/lib/spring-aspects-5.1.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Spring_study/WebContent/WEB-INF/lib/spring-websocket-5.1.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Spring_study/WebContent/WEB-INF/lib/spring-core-5.1.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Spring_study/WebContent/WEB-INF/lib/spring-beans-5.1.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Spring_study/WebContent/WEB-INF/lib/spring-webmvc-5.1.2.RELEASE-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Spring_study/WebContent/WEB-INF/lib/mysql-connector-java-5.1.8-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Spring_study/WebContent/WEB-INF/lib/spring-jdbc-5.1.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Spring_study/WebContent/WEB-INF/lib/spring-jdbc-5.1.2.RELEASE-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Spring_study/WebContent/WEB-INF/lib/spring-tx-5.1.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Spring_study/WebContent/WEB-INF/lib/spring-aop-5.1.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Spring_study/WebContent/WEB-INF/lib/spring-webmvc-5.1.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Spring_study/WebContent/WEB-INF/lib/spring-webflux-5.1.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Spring_study/WebContent/WEB-INF/lib/spring-jdbc-5.1.2.RELEASE-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Spring_study/WebContent/WEB-INF/lib/spring-messaging-5.1.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Spring_study/WebContent/WEB-INF/lib/spring-jms-5.1.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Spring_study/WebContent/WEB-INF/lib/spring.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Spring_study/WebContent/WEB-INF/lib/spring-web-5.1.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Spring_study/WebContent/WEB-INF/lib/spring-jcl-5.1.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Spring_study/WebContent/WEB-INF/lib/spring-test-5.1.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Spring_study/WebContent/WEB-INF/lib/spring-context-5.1.2.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

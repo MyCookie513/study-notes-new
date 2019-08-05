@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="lib9">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Ajax_study/WebContent/WEB-INF/lib/commons-fileupload-1.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Ajax_study/WebContent/WEB-INF/lib/mysql-connector-java-5.1.46-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Ajax_study/WebContent/WEB-INF/lib/commons-io-2.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

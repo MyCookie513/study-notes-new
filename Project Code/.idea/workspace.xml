@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a87a585c-75f9-41f4-9751-b745e5512831" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Ajax_study/build/classes/upload/UpLoad.class" beforeDir="false" afterPath="$PROJECT_DIR$/Ajax_study/build/classes/upload/UpLoad.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArtFire2.0/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/ArtFire2.0/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArtFire2.0/.settings/org.eclipse.wst.common.project.facet.core.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ArtFire2.0/.settings/org.eclipse.wst.common.project.facet.core.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring_study/build/classes/com/cn/bean/Manger.class" beforeDir="false" afterPath="$PROJECT_DIR$/Spring_study/build/classes/com/cn/bean/Manger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring开发/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/Spring开发/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache_struts/build/classes/com/cn/sevlet/test_hibernate.class" beforeDir="false" afterPath="$PROJECT_DIR$/apache_struts/build/classes/com/cn/sevlet/test_hibernate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/biluservlet/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/biluservlet/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/biluservlet/.settings/org.eclipse.wst.common.project.facet.core.xml" beforeDir="false" afterPath="$PROJECT_DIR$/biluservlet/.settings/org.eclipse.wst.common.project.facet.core.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/biluservlet/build/classes/cn/itcast/servlet/DBManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/biluservlet/build/classes/cn/itcast/servlet/DBManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/biluservlet/build/classes/cn/itcast/servlet/InsertServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/biluservlet/build/classes/cn/itcast/servlet/InsertServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/biluservlet/build/classes/cn/itcast/servlet/LoginServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/biluservlet/build/classes/cn/itcast/servlet/LoginServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/biluservlet/build/classes/cn/itcast/servlet/TestServlet01.class" beforeDir="false" afterPath="$PROJECT_DIR$/biluservlet/build/classes/cn/itcast/servlet/TestServlet01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/biluservlet/build/classes/cn/itcast/servlet/getdata.class" beforeDir="false" afterPath="$PROJECT_DIR$/biluservlet/build/classes/cn/itcast/servlet/getdata.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/biluservlet/src/cn/itcast/servlet/DBManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/biluservlet/src/cn/itcast/servlet/DBManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_hibernate_mapping_sql/build/classes/com/cn/sevlet/test_hibernate.class" beforeDir="false" afterPath="$PROJECT_DIR$/test_hibernate_mapping_sql/build/classes/com/cn/sevlet/test_hibernate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web前端学习/build/classes/Filter/CharactorFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/web前端学习/build/classes/Filter/CharactorFilter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web前端学习/build/classes/Filter/counter_filter.class" beforeDir="false" afterPath="$PROJECT_DIR$/web前端学习/build/classes/Filter/counter_filter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web前端学习/build/classes/listener/UserInfoTrace.class" beforeDir="false" afterPath="$PROJECT_DIR$/web前端学习/build/classes/listener/UserInfoTrace.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web前端学习/build/classes/servlet/File_UpLoad.class" beforeDir="false" afterPath="$PROJECT_DIR$/web前端学习/build/classes/servlet/File_UpLoad.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web前端学习/build/classes/servlet/Page_query.class" beforeDir="false" afterPath="$PROJECT_DIR$/web前端学习/build/classes/servlet/Page_query.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web前端学习/build/classes/servlet/UpLoad.class" beforeDir="false" afterPath="$PROJECT_DIR$/web前端学习/build/classes/servlet/UpLoad.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web前端学习/build/classes/servlet/UploadServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/web前端学习/build/classes/servlet/UploadServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web前端学习/build/classes/servlet/ZoneServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/web前端学习/build/classes/servlet/ZoneServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web前端学习/build/classes/servlet/deal_request.class" beforeDir="false" afterPath="$PROJECT_DIR$/web前端学习/build/classes/servlet/deal_request.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Study Notes/Point/准备笔记.doc" beforeDir="false" afterPath="$PROJECT_DIR$/../Study Notes/Point/准备笔记.doc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Study Notes/Spring/Spring开发.doc" beforeDir="false" afterPath="$PROJECT_DIR$/../Study Notes/Spring/Spring开发.doc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Study Notes/java/java基础笔记.doc" beforeDir="false" afterPath="$PROJECT_DIR$/../Study Notes/java/java基础笔记.doc" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Spring开发/src/web/Servlet/Service/AcountService.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/encodings.xml" />
+        <option value="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1340" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a87a585c-75f9-41f4-9751-b745e5512831" name="Default Changelist" comment="" />
+      <created>1556462175172</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556462175172</updated>
+      <workItem from="1556462186806" duration="104000" />
+      <workItem from="1556504706246" duration="1120000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1224000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49819493" visible="true" weight="0.16684435" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Web" order="2" sideWeight="0.50180507" side_tool="true" weight="0.25" />
+      <window_info id="Persistence" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="Designer" order="5" />
+      <window_info id="UI Designer" order="6" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info id="Favorites" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Java Enterprise" />
+      <window_info anchor="bottom" id="Spring" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.329718" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Spring开发/src/web/Servlet/Service/AcountServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spring开发/src/web/Servlet/Service/AcountService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spring_AOP/src/com/jason/a_AOP/a_jdk_手动/Test_AOP_jdk.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="74" selection-start-line="4" selection-start-column="74" selection-end-line="4" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

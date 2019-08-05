@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+ "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+ <!-- 产品信息字段配置信息 -->
+ <hibernate-mapping>
+ 	<class name="com.cn.hibernate_javabean.Ach_wifi_data_01" table="ach_wifi_data_01">
+ 		
+ 		<!-- id值 -->
+ 		<id name="ID" column="ID" type="int">
+			<generator class="native"/>
+		</id>
+		<!-- 数据信息的匹配 -->
+		<property name="alco_set" type="java.lang.String" length="45" >
+		</property>
+	     <property name="voice_set" type="java.lang.String" length="45" >
+		</property>    
+	    <property name="flame_tem_set" type="java.lang.String" length="45" >
+		</property>
+		<property name="intank_tem_set" type="java.lang.String" length="45" >
+		</property>
+		<property name="volume_set" type="java.lang.String" length="45" >
+		</property>
+		<property name="wifi_set" type="java.lang.String" length="45" >
+		</property>
+		<property name="leak_detec_set" type="java.lang.String" length="45" >
+		</property>
+		<property name="system_state" type="java.lang.String" length="45" >
+		</property>
+		<property name="unsafe_types" type="java.lang.String" length="45" >
+		</property>
+		<property name="substrate_tem" type="java.lang.String" length="45" >
+		</property>
+		<property name="flame_tem" type="java.lang.String" length="45" >
+		</property>
+		<property name="intank_tem" type="java.lang.String" length="45" >
+		</property>
+		<property name="alco_concent" type="java.lang.String" length="45" >
+		</property>
+		<property name="alco_allowance" type="java.lang.String" length="45" >
+		</property>
+		<property name="alco_inject" type="java.lang.String" length="45" >
+		</property>
+		<property name="alco_pump" type="java.lang.String" length="45" >
+		</property>
+		<property name="fan" type="java.lang.String" length="45" >
+		</property>
+		<property name="first_level" type="java.lang.String" length="45" >
+		</property>
+		<property name="second_level" type="java.lang.String" length="45" >
+		</property>
+		<property name="alco_margin" type="java.lang.String" length="45" >
+		</property>
+		<property name="leak_monitor1" type="java.lang.String" length="45" >
+		</property>
+		<property name="leak_monitor2" type="java.lang.String" length="45" >
+		</property>
+		<property name="Parity_bit" type="java.lang.String" length="45" >
+		</property>
+		<property name="IP_address" type="java.lang.String" length="45" >
+		</property>
+		<property name="addtime" type="java.sql.Timestamp" length="10" >
+		</property>
+		
+		<many-to-one name="ach_information" class="com.cn.hibernate_javabean.Ach_information">
+		<column name="ach_ID"></column>
+		</many-to-one>
+		   
+ 	</class>
+ </hibernate-mapping>

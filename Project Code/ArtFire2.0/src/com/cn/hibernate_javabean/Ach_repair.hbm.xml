@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+ "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+ <!-- 产品信息字段配置信息 -->
+ <hibernate-mapping>
+ 	<class name="com.cn.hibernate_javabean.Ach_repair" table="ach_repair">
+ 		
+ 		<!-- id值 -->
+ 		<id name="ID" column="ID" type="int">
+			<generator class="native"/>
+		</id>
+		<!-- 数据信息的匹配 -->
+		<property name="alert_id" type="java.lang.String" length="45" >
+		</property>
+	     <property name="alert_time" type="java.sql.Timestamp" length="10" >
+		</property>    
+	    <property name="maintain_status" type="java.lang.String" length="45" >
+		</property>
+		<property name="alert_infor" type="java.lang.String" length="45" >
+		</property>
+		<property name="maintain_staff" type="java.lang.String" length="45" >
+		</property>
+		
+		<many-to-one name="ach_information" class="com.cn.hibernate_javabean.Ach_information">
+		<column name="ach_ID"></column>
+		</many-to-one>
+		   
+ 	</class>
+ </hibernate-mapping>

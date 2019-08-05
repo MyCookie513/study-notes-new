@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="classes">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Ajax_study/build/classes/commons-fileupload-1.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Ajax_study/build/classes/commons-io-2.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Ajax_study/build/classes/mysql-connector-java-5.1.46-bin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
