@@ -6,7 +6,12 @@ public class SingletonObject1 {
      */
     private final static SingletonObject1 instance=new SingletonObject1();
 
+    static {
+        System.out.println("singleton 类的初始化");
+    }
     public  static SingletonObject1 getInstance(){
+        System.out.println("加载返回实例"
+                );
         return  instance;
     }
 

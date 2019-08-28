@@ -1,0 +1,488 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5d346bc0-2a00-4981-8203-43e6c24259b5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java设计模式/singleton单例设计模式/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java设计模式/创建复杂对象之建造者模式/Builder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java设计模式/创建复杂对象之建造者模式/ConcreateBuilder1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java设计模式/创建复杂对象之建造者模式/ConcreateBuilder2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java设计模式/创建复杂对象之建造者模式/Director.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java设计模式/创建复杂对象之建造者模式/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java设计模式/创建复杂对象之建造者模式/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java设计模式/工厂方法设计模式/Abstract_Factory_抽象工厂方法模式/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java设计模式/工厂方法设计模式/Abstract_Factory_抽象工厂方法模式/Provider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java设计模式/工厂方法设计模式/Abstract_Factory_抽象工厂方法模式/SendMailFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java设计模式/工厂方法设计模式/Abstract_Factory_抽象工厂方法模式/SendSmsFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java设计模式/工厂方法设计模式/MailSender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java设计模式/工厂方法设计模式/Sender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java设计模式/工厂方法设计模式/SmsSender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java设计模式/工厂方法设计模式/多个工厂方法模式/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java设计模式/工厂方法设计模式/多个工厂方法模式/SendFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java设计模式/工厂方法设计模式/普通工厂模式/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java设计模式/工厂方法设计模式/普通工厂模式/SendFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java设计模式/工厂方法设计模式/静态方法工厂模式/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java设计模式/工厂方法设计模式/静态方法工厂模式/SendFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java设计模式/桥接模式/Bridge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java设计模式/桥接模式/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java设计模式/桥接模式/SourceSub1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java设计模式/桥接模式/SourceSub2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java设计模式/桥接模式/Sourceable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java设计模式/策略模式/AbstractCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java设计模式/策略模式/ICalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java设计模式/策略模式/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java设计模式/策略模式/Minus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java设计模式/策略模式/Multiply.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java设计模式/策略模式/Plus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java设计模式/装饰模式/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java设计模式/适配器模式/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java设计模式/适配器模式/Source.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java设计模式/适配器模式/对象的适配器模式/Adapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java设计模式/适配器模式/对象的适配器模式/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java设计模式/适配器模式/对象的适配器模式/Targetable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java设计模式/适配器模式/接口的适配器模式/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java设计模式/适配器模式/接口的适配器模式/Wrapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java设计模式/适配器模式/类的适配器模式/SourceSub1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java设计模式/适配器模式/类的适配器模式/SourceSub2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java设计模式/适配器模式/类的适配器模式/Sourceable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java设计模式/适配器模式/类的适配器模式/Wrapper2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../数据结构及算法强化/src/求两个数组合并之后的中位数/solve.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Study Notes/SQL/MYSQL_Study.doc" beforeDir="false" afterPath="$PROJECT_DIR$/../../Study Notes/SQL/MYSQL_Study.doc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Study Notes/数据结构和算法基础/~$数据算法.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Study Notes/数据结构和算法基础/~$结构与算法笔记.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Study Notes/数据结构和算法基础/数据算法.doc" beforeDir="false" afterPath="$PROJECT_DIR$/../../Study Notes/数据结构和算法基础/数据算法.doc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Study Notes/计算机网络/计网总结_4_网络层.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../Study Notes/计算机网络/计网总结_4_网络层.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Important_Point_java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Important_Point_java/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Important_Point_java/src/main/java/ClassLoader/spring.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/ClassLoader/spring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Important_Point_java/src/main/java/ThreadPool/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Important_Point_java/src/main/java/ThreadPool/test_ScheduleThreadpool.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/ThreadPool/test_ScheduleThreadpool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java基础知识/enum0/Color.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java基础知识/enum0/Color.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java基础知识/enum0/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java基础知识/enum0/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/Singleton/SingletonObject1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/Singleton/SingletonObject1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/Singleton/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/Singleton/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Important_Point_java/target/classes/ClassLoader/spring.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/ClassLoader/spring.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Important_Point_java/target/classes/java基础知识/enum0/Color.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/java基础知识/enum0/Color.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Important_Point_java/target/classes/java基础知识/enum0/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/java基础知识/enum0/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第二阶段/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第二阶段/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第二阶段/Singleton/SingletonObject1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第二阶段/Singleton/SingletonObject1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第二阶段/Singleton/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第二阶段/Singleton/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring_Cloud_Demo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring_Cloud_Demo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring_Cloud_Demo/User-Service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring_Cloud_Demo/User-Service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring_Cloud_Demo/User-Service/src/main/java/com/jason/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring_Cloud_Demo/User-Service/src/main/java/com/jason/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring_Cloud_Demo/User-Service/target/classes/com/jason/service/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring_Cloud_Demo/User-Service/target/classes/com/jason/service/UserService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring_Cloud_Demo/zuul-gateway/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring_Cloud_Demo/zuul-gateway/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring_Cloud_Demo/zuul-gateway/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring_Cloud_Demo/zuul-gateway/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBootdemo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springBootdemo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBootdemo/src/main/java/com/jason/BootdemoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springBootdemo/src/main/java/com/jason/BootdemoApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBootdemo/src/main/java/com/jason/Config/MvcConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springBootdemo/src/main/java/com/jason/Config/MvcConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBootdemo/src/main/java/com/jason/Config/yaml_Inject.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springBootdemo/src/main/java/com/jason/Config/yaml_Inject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBootdemo/src/main/java/com/jason/interceptor/MyInterceptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springBootdemo/src/main/java/com/jason/interceptor/MyInterceptor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBootdemo/src/main/java/com/jason/pojo/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springBootdemo/src/main/java/com/jason/pojo/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBootdemo/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../springBootdemo/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBootdemo/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../springBootdemo/src/main/resources/application.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBootdemo/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../springBootdemo/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBootdemo/target/classes/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../springBootdemo/target/classes/application.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBootdemo/target/classes/com/jason/BootdemoApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/../springBootdemo/target/classes/com/jason/BootdemoApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBootdemo/target/classes/com/jason/Config/MvcConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/../springBootdemo/target/classes/com/jason/Config/MvcConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBootdemo/target/classes/com/jason/Config/yaml_Inject$User.class" beforeDir="false" afterPath="$PROJECT_DIR$/../springBootdemo/target/classes/com/jason/Config/yaml_Inject$User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBootdemo/target/classes/com/jason/Config/yaml_Inject.class" beforeDir="false" afterPath="$PROJECT_DIR$/../springBootdemo/target/classes/com/jason/Config/yaml_Inject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBootdemo/target/classes/com/jason/interceptor/MyInterceptor.class" beforeDir="false" afterPath="$PROJECT_DIR$/../springBootdemo/target/classes/com/jason/interceptor/MyInterceptor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBootdemo/target/classes/com/jason/pojo/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/../springBootdemo/target/classes/com/jason/pojo/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../数据结构及算法强化/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../数据结构及算法强化/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../数据结构及算法强化/out/production/数据结构及算法强化/KMP/Kmp.class" beforeDir="false" afterPath="$PROJECT_DIR$/../数据结构及算法强化/out/production/数据结构及算法强化/KMP/Kmp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../数据结构及算法强化/out/production/数据结构及算法强化/Mian.class" beforeDir="false" afterPath="$PROJECT_DIR$/../数据结构及算法强化/out/production/数据结构及算法强化/Mian.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../数据结构及算法强化/src/KMP/kmp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../数据结构及算法强化/src/KMP/kmp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../数据结构及算法强化/src/Mian.java" beforeDir="false" afterPath="$PROJECT_DIR$/../数据结构及算法强化/src/Mian.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../数据结构及算法强化/src/排序/基数排序.java" beforeDir="false" afterPath="$PROJECT_DIR$/../数据结构及算法强化/src/排序/基数排序.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../新建文本文档.txt" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/classes/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/leyou/demo/SmsDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="584">
+              <caret line="60" column="41" lean-forward="true" selection-start-line="60" selection-start-column="41" selection-end-line="60" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/leyou/demo/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="157">
+              <caret line="27" column="64" selection-start-line="27" selection-start-column="51" selection-end-line="27" selection-end-column="64" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/leyou/demo/SmsDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/leyou/demo/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="dysms-demo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="dysms-demo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/dysms-demo.iml" />
+        <option value="$PROJECT_DIR$/.idea/compiler.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_aliyun_aliyun_java_sdk_core_4_1_0.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_2.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_bind_jaxb_core_2_1_14.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_bind_jaxb_impl_2_1.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_9.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_activation_1_1_1.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_1.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_stream_stax_api_1_0_2.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_3.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_6.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_aliyun_aliyun_java_sdk_dysmsapi_1_1_0.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1340" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="dysms-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dysms-demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dysms-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dysms-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dysms-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dysms-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dysms-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dysms-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dysms-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dysms-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leyou.demo.Main" />
+      <module name="dysms-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leyou.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SmsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leyou.demo.SmsDemo" />
+      <module name="dysms-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leyou.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.SmsDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5d346bc0-2a00-4981-8203-43e6c24259b5" name="Default Changelist" comment="" />
+      <created>1566809646563</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566809646563</updated>
+      <workItem from="1566809649556" duration="2964000" />
+      <workItem from="1566915147856" duration="1986000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4950000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1376" height="744" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24696049" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.49836066" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.329718" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" weight="0.32995737" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/leyou/demo/SmsDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="584">
+          <caret line="60" column="41" lean-forward="true" selection-start-line="60" selection-start-column="41" selection-end-line="60" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/leyou/demo/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="27" column="64" selection-start-line="27" selection-start-column="51" selection-end-line="27" selection-end-column="64" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>dysms-demo</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8.0_172</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

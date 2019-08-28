@@ -9,7 +9,7 @@ public class spring {
     public static void main(String[] args) {
 
 
-       // Node node=Node.getInstance();
+        Node node=Node.getInstance();
         //调用静态方法，触发了整个class的初始化
         //1.链接阶段的完成；准备好了内存空间和初始化值0或者null
         //2.i=2,  从上到下，静态属性的初始化
@@ -17,7 +17,7 @@ public class spring {
                     //Node()构造函数的调用；
         //再往下： 静态块的初始化
         //System.out.println(node.i);
-        System.out.println(Node.i);
+        //System.out.println(Node.i);
 
     }
 

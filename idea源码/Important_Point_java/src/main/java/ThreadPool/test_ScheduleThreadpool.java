@@ -20,8 +20,8 @@ public class test_ScheduleThreadpool {
 		for(int i=0;i<5;i++) {
 			//代表的是周期性执行5次每次中间间隔3秒
 			Future<Integer> result=ScheduledPool.schedule(xuexue,3,TimeUnit.SECONDS);
-
 			System.out.println(result.get());
+
 		}
 		ScheduledPool.shutdown();
 		

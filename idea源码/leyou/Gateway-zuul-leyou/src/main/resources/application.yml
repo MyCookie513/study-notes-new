@@ -1,0 +1,50 @@
+
+
+#Gateway 的服务端口和服务名称
+spring:
+  application:
+    name: zuul-gateway-service
+server:
+  port: 5136
+
+
+#网关的负载均衡和自我保护的熔断机制
+ribbon:
+  ConnectTimeout: 250 # 连接超时时间(ms)
+  ReadTimeout: 2000 # 通信超时时间(ms)
+  OkToRetryOnAllOperations: true # 是否对所有操作重试
+  MaxAutoRetriesNextServer: 1 # 同一服务不同实例的重试次数
+  MaxAutoRetries: 1 # 同一实例的重试次数
+
+hystrix: #熔断超时机制超时设定
+  command:
+    default:
+      execution:
+        isolation:
+          thread:
+            timeoutInMilliseconds: 10000
+  circuitBreaker:
+    sleepWindowInMilliseconds: 20
+    requestVolumeThreshold: 5
+    errorThresholdPercentage: 10
+
+#路由配置： 转发配置
+zuul:
+  prefix: /api # 添加路由前缀
+  retryable: true
+  routes:
+    item-service: /item/**
+    search-service: /search/**
+    user-service: /user/**
+    upload-service:
+      path: /upload/**
+      serviceId: upload-service
+      strip-prefix: false
+
+
+#eureka ： fetch server and register configuration
+eureka:
+  client:
+    registry-fetch-interval-seconds: 5 # 获取服务列表的周期：5s
+    service-url:
+      defaultZone: http://127.0.0.1:10086/eureka

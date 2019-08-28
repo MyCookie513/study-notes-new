@@ -3,6 +3,12 @@ server:
 zuul:
   routes:
     user-service: /user-service/**
+    random:
+      path: /user/**
+      serviceId: user-service
+      strip-prefix: false  #进行路由转发的时候不会把user去掉，
+    ignored-service:
+      - consumer-service   #将这个服务的自动匹配转发的功能关掉
 eureka:
   client:
     registry-fetch-interval-seconds: 5 # 获取服务列表的周期：5s
@@ -24,7 +30,5 @@ hystrix: #熔断超时机制超时设定
             timeoutInMilliseconds: 1900
   circuitBreaker:
     sleepWindowInMilliseconds: 20
-
     requestVolumeThreshold: 5
-
     errorThresholdPercentage: 10

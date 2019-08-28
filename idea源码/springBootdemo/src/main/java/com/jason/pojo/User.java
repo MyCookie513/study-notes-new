@@ -11,6 +11,7 @@ import java.util.Date;
 @Table(name="tb_user")
 public class User  {
 
+
     @Id
     @KeySql(useGeneratedKeys = true)
     private Long id;

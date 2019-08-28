@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:v-bind="http://www.w3.org/1999/xhtml">
+<script src="./node_modules/vue/dist/vue.js"></script>
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<div id="app">
+    <!--  界面不会显示源码；最多是空白显示 -->
+    <h1> v-text and v-html</h1>
+    <span v-text="hello"> </span> <br/>
+    <span v-html="hello"></span> <br/>
+    <br/><br/><br/>
+
+    <!--  v-model  view and model  keep changing  -->
+    <h1>
+        v-model ：  你选择了  ：<span v-text="language.join(',')"></span> <br/>
+    </h1>
+    <input type="checkbox" v-model="language" value="Java" />Java<br/>
+    <input type="checkbox" v-model="language" value="PHP" />PHP<br/>
+    <input type="checkbox" v-model="language" value="Swift" />Swift<br/>
+    <br/><br/><br/>
+
+
+
+    <h1>  v-on:点击事件调用函数  {{num}}</h1>
+    <!--事件中直接写js片段-->
+    <button @click="num++">增加一个</button><br/>
+    <!--事件指定一个回调函数，必须是Vue实例中定义的函数-->
+    <button @click="decrement">减少一个</button><br/>
+    <br/><br/><br/>
+
+
+    <h1> {{num}} ----阻止事件事件冒泡到父节点或者阻止默认事件的发生</h1><br/>
+    <!--右击事件，并阻止默认事件发生-->
+    <button @contextmenu.prevent="num++">增加一个</button>
+    <br/>
+    <!--右击事件，不阻止默认事件发生-->
+    <button @contextmenu="decrement2($event)">减少一个</button>
+    <br/><br/><br/>
+
+
+    <h1>  按键触发事件 {{enter}}</h1>
+    <input @keyup.enter="enterOrspace">
+    <br/><br/><br/>
+
+
+    <h1>  v-for 遍历数据渲染页面 </h1>
+    <ul v-for="(user, index) in users">
+        <li v-text="index"></li>
+        <li v-text="user.name"></li>
+        <li v-text="user.gender"></li>
+        <li v-text="user.age"></li>
+    </ul>
+    <br/><br/><br/>
+
+
+    <h1>  v-for 遍历对象渲染页面 </h1>
+    <ul>
+        <li v-for="(value, key, index) in jack">
+            {{index + 1}}. {{key}} - {{value}}
+        </li>
+    </ul>
+    <br/><br/><br/>
+
+
+
+    <h1>  v-if  v-else-if  v-else 渲染页面  的开关 </h1>
+    <button @click="random=Math.random()">点我呀</button><span>{{random}}</span>
+    <h1 v-if="random >= 0.75">
+        看到我啦？！if
+    </h1>
+    <h1 v-else-if="random > 0.5">
+        看到我啦？！if 0.5
+    </h1>
+    <h1 v-else-if="random > 0.25">
+        看到我啦？！if 0.25
+    </h1>
+    <h1 v-else>
+        看到我啦？！else
+    </h1>
+    <br/><br/><br/>
+
+
+    <h1>  v-bind connect css </h1>
+    <!--可以是数据模型，可以是具有返回值的js代码块或者函数-->
+    <div v-bind:title="title" style="border: 1px solid red; width: 50px; height: 50px;"></div>
+    <div class="static" v-bind:class="classObject"></div>
+    <div v-bind:style="styleObject">dfsf</div>
+    <br/><br/><br/>
+
+
+
+
+
+    <h1>  computed 计算属性的使用</h1>
+    <h1> {{birth}} </h1>
+    <br/><br/><br/>
+
+
+
+    <h1> watch可以让我们监控一个值的变化。从而做出相应的反应。</h1><br>
+    <input type="text" v-model="message">
+    <span v-text="message00"> </span> <br/>
+    <br/><br/><br/>
+
+
+
+    <h1> 子--》父的通信</h1><br>
+    <h2>num: {{num}}</h2>
+    <counter0 :count="num" @inc="increment0" @dec="decrement0"></counter0>
+    <br/><br/><br/>
+
+    <h2>父---》子 通信：</h2>
+    <!-- 使用子组件的同时，传递属性，这里使用了v-bind，指向了父组件自己的属性lessons -->
+    <my-list :items="lessons"/>
+</div>
+<script type="text/javascript">
+
+
+    const myList = {
+        template: '\
+        <ul>\
+        	<li v-for="item in items" :key="item.id">{{item.id}} : {{item.name}}</li>\
+        </ul>\
+        ',
+        props: {
+            items: {
+                type: Array,
+                default: [],
+                required: true
+            }
+        }
+    };
+
+    Vue.component("counter0", {// 子组件，定义了两个按钮，点击数字num会加或减
+        template:'\
+                <div>\
+                    <button @click="plus">加</button>  \
+                    <button @click="reduce">减</button>  \
+                </div>',
+        props:['count'],
+        methods:{
+            plus(){
+                this.$emit("inc");
+            },
+            reduce(){
+                this.$emit("dec");
+            }
+        }
+    });
+
+    // 生成一个Vue实例
+    var app = new Vue({
+        el:"#app", // el,即element。要渲染的的页面元素
+        data:{ // 数据
+            name:"虎哥",
+            hello:"<h1>大家好，我不会空白显示</h1>",
+            language: [],
+            num:0,
+            enter: false,
+            users:[
+                {name:'柳岩', gender:'女', age: 21},
+                {name:'峰哥', gender:'男', age: 18},
+                {name:'范冰冰', gender:'女', age: 24},
+                {name:'刘亦菲', gender:'女', age: 18},
+                {name:'古力娜扎', gender:'女', age: 25}
+            ],
+            jack:{name:"jack", gender:'男', age: 18},
+            random: 1,
+            title: "title00 ",
+            classObject: {
+                active: true,
+                'text-danger': false
+            },
+            styleObject: {
+                color: 'red',
+                fontSize: '60px'
+            },
+            birthday:1429032123201 // 毫秒值,
+            , message:"",message00:"",
+            lessons:[
+                {id:1, name: 'java'},
+                {id:2, name: 'php'},
+                {id:3, name: 'ios'},
+            ],
+
+        }, components:{
+            myList: myList,
+        },
+        methods:   {
+            enterOrspace(){
+                this.enter=!this.enter;
+            },
+            handleClick(){
+                console.log("hello")
+            },
+            decrement(){
+                this.num--;
+            },
+            decrement2(ev) {
+                // ev.preventDefault();
+                this.num--;
+            }, increment0(){
+                this.num++;
+            },
+            decrement0(){
+                this.num--;
+            }
+        },
+        computed:{
+            birth(){// 计算属性本质是一个方法，但是必须返回结果
+                const d = new Date(this.birthday);
+                return d.getFullYear() + "-" + d.getMonth() + "-" + d.getDay();
+            }
+        },
+        watch:{
+            message(newVal, oldVal){
+                this.message00=oldVal+'-->'+newVal;
+            }
+        }
+    });
+</script>
+</body>
+</html>

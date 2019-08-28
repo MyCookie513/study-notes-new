@@ -4,7 +4,8 @@ public class Test {
 
 
     public static void main(String[] args) {
-        //SingletonObject6 singletonObject6= SingletonObject6.getInstance();
-        SingletonObject8 sIngleton8=SingletonObject8.getInstance();
+        System.out.println("dfsf");
+        SingletonObject1 singletonObject6= SingletonObject1.getInstance();
+        //SingletonObject8 sIngleton8=SingletonObject8.getInstance();
     }
 }

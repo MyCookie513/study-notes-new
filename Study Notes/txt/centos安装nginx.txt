@@ -1,0 +1,14 @@
+查看是否安装nginx；
+ps -ef | grep nginx 
+  
+建立一个新的用户
+useradd leyou  
+
+
+将nginx包上传到centos；
+
+将centos进行解压；
+tar xvf 文件的名字
+
+进入 nginx的目录
+./configure --prefix=/opt/nginx  --sbin-path=/usr/bin/nginx

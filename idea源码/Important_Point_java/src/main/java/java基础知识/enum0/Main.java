@@ -12,5 +12,7 @@ public class Main {
         for(Color cc: colors){
             System.out.println(cc.toString()+cc.ordinal());
         }
+
+        System.out.println(Color.RED.getIndex());
     }
 }

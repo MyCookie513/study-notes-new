@@ -19,3 +19,11 @@ thymeleaf:
 mybatis:
   type-aliases-package: com.jason.pojo
 
+testinject:
+  pen: 123
+  user:
+    name: jason
+    age: 21
+    languages:
+      - English
+      - Chinese

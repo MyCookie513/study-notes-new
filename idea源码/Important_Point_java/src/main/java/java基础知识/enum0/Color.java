@@ -28,9 +28,11 @@ public enum Color {
         return null;
     }
 
+    public String getName() {
+        return name;
+    }
 
-
-
-
-
+    public int getIndex() {
+        return index;
+    }
 }
