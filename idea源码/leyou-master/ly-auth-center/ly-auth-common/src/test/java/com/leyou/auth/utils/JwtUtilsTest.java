@@ -2,8 +2,10 @@ package com.leyou.auth.utils;
 
 
 import com.leyou.auth.entity.UserInfo;
+import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
+import org.springframework.context.annotation.Bean;
 
 import java.security.PrivateKey;
 import java.security.PublicKey;
@@ -42,7 +44,7 @@ public class JwtUtilsTest {
 
     @org.junit.Test
     public void parseToken() {
-        String token = "eyJhbGciOiJSUzI1NiJ9.eyJpZCI6MjAsInVzZXJuYW1lIjoiSmFjayIsImV4cCI6MTUzODM2OTM3N30.Vi7UJrwMu0BOHMQoSSLefzGU1ir5LG-drcvAHPjMMMBzQz1oASjoDsiuw3h0bqVUUWXjdNcpybCWVuZ8UvOXOr-Jecqjz3NF_ZDfgessRGsijIIbju0qak6Zfm09jsjnHFTZ2munFJdM0I0RsiafQtkJSiLji7QXlvjCquKJUkg";
+        String token = "eyJhbGciOiJSUzI1NiJ9.eyJpZCI6MjAsInVzZXJuYW1lIjoiSmFjayIsImV4cCI6MTU2NzQzODUzOX0.csq8oX2CPvfQ28DdpCSiTZNQz19uUWHFGWCpiezlSH4hpB2SWVTGcOtDnOYh5t6EYz9GGqmAZdEbtLVnP8TibB-nWdQMZu6Q_XXe6Ina-yWXB4kuaKrlrBVbJI_io3ppt4zMgwP96wWhEkneotMHVkZbM_bU7ZbuueChEqRfKNQ";
         UserInfo userInfo = JwtUtils.getUserInfo(publicKey, token);
         System.out.println("id:" + userInfo.getId());
         System.out.println("name:" + userInfo.getName());

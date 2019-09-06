@@ -11,8 +11,8 @@ import java.security.PrivateKey;
 import java.security.PublicKey;
 
 /**
- * @author bystander
- * @date 2018/10/1
+ *
+ *根据配置信息生成公钥和私钥；
  */
 @Slf4j
 @Data

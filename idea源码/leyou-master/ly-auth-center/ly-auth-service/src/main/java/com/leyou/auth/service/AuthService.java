@@ -30,6 +30,7 @@ public class AuthService {
 
     public String login(String username, String password) {
         try {
+            //验证name和password是否正确
             User user = userClient.queryUser(username, password);
             if (user == null) {
                 return null;

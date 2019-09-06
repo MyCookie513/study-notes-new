@@ -9,6 +9,9 @@ import java.util.stream.IntStream;
  * 只有一个男孩进去了，
  * 其他的男孩只能在大门外等候，等待下一次这个女孩的邀请
  *
+ *
+ *
+ * 多个消费者--->阻碍放弃设计模式
  */
 public class Main {
     public static void main(String[] args) {

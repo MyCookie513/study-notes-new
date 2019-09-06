@@ -7,6 +7,7 @@ import com.leyou.auth.utils.JwtUtils;
 import com.leyou.common.enums.ExceptionEnum;
 import com.leyou.common.exception.LyException;
 import com.leyou.common.utils.CookieUtils;
+import lombok.extern.slf4j.Slf4j;
 import org.apache.commons.lang3.StringUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.context.properties.EnableConfigurationProperties;
@@ -49,6 +50,7 @@ public class AuthController {
             HttpServletRequest request,
             HttpServletResponse response
     ) {
+        //验证通过后生成token
         String token = authService.login(username, password);
         if (StringUtils.isBlank(token)) {
             throw new LyException(ExceptionEnum.USERNAME_OR_PASSWORD_ERROR);

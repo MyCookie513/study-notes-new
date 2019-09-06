@@ -15,6 +15,7 @@ public class GlobalCorsConfig {
         config.addAllowedOrigin("http://manage.leyou.com");
         config.addAllowedOrigin("http://api.leyou.com");
         config.addAllowedOrigin("http://www.leyou.com");
+        config.addAllowedOrigin("http://127.0.0.1");
         //2) 是否发送Cookie信息
         config.setAllowCredentials(true);
         //3) 允许的请求方式

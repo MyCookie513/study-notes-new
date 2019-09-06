@@ -1,5 +1,5 @@
-package 高并发第一阶段.JUC_Lock_三个线程依次调用Condition;
 
+package 高并发第一阶段.JUC_Lock_三个线程依次调用Condition;
 import java.util.concurrent.locks.Condition;
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
@@ -69,9 +69,9 @@ class Alternate_printf{
 			if(number!=1) {
 				conditionA.await();
 			}
-			for(int i=0;i<5;i++) {
-				System.out.println(Thread.currentThread().getName()+":"+loopnum);
-			}
+
+			System.out.println(Thread.currentThread().getName()+":"+loopnum);
+
 			number=2;
 			conditionB.signal();
 
@@ -92,9 +92,9 @@ class Alternate_printf{
 			if(number!=2) {
 				conditionB.await();
 			}
-			for(int i=0;i<5;i++) {
+
 				System.out.println(Thread.currentThread().getName()+":"+loopnum);
-			}
+
 			number=3;
 			conditionC.signal();
 
@@ -115,9 +115,9 @@ class Alternate_printf{
 			if(number!=3) {
 				conditionC.await();
 			}
-			for(int i=0;i<5;i++) {
+
 				System.out.println(Thread.currentThread().getName()+":"+loopnum);
-			}
+
 			number=1;
 			conditionA.signal();
 

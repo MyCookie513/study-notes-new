@@ -75,7 +75,7 @@ public class RsaUtils {
     }
 
     /**
-     * 根据密文，生存rsa公钥和私钥,并写入指定文件
+     * 根据密文，生成RSA公钥和私钥,并写入指定文件
      *
      * @param publicKeyFilename  公钥文件路径
      * @param privateKeyFilename 私钥文件路径
@@ -105,6 +105,10 @@ public class RsaUtils {
      */
     public static void writeFile(String destPath, byte[] bytes) throws IOException {
         File dest = new File(destPath);
+        String s=destPath.substring(0,destPath.lastIndexOf("/"));
+        File dir=new File(s);
+        if (!dir.exists())
+            dir.mkdirs();
         if (!dest.exists()) {
             dest.createNewFile();
         }
