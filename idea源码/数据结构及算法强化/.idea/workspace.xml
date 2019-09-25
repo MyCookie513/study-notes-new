@@ -5,118 +5,76 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a3318195-ed80-4336-860c-698d4c4d04b3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Important_Point_java/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java设计模式/命令模式/Command.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java设计模式/命令模式/Invoker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java设计模式/命令模式/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java设计模式/命令模式/MyCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java设计模式/命令模式/Receiver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java设计模式/模板方法模式/AbstractCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java设计模式/模板方法模式/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java设计模式/模板方法模式/Plus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java设计模式/装饰模式/Decorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java设计模式/装饰模式/Source.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java设计模式/装饰模式/Sourceable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java设计模式/责任链模式/AbstractHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java设计模式/责任链模式/Handler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java设计模式/责任链模式/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java设计模式/责任链模式/MyHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java设计模式/迭代器模式/Collection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java设计模式/迭代器模式/Iterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java设计模式/迭代器模式/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java设计模式/迭代器模式/MyCollection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java设计模式/迭代器模式/MyIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java设计模式/适配器模式/接口的适配器模式/Wrapper2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/工具类/CyclicBarrier/CyclicBarrier1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/工具类/CyclicBarrier/broken状态的转变.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/工具类/CyclicBarrier/reset的使用.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/工具类/CyclicBarrier/应用_归并的计算方式.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/工具类/CyclicBarrier/理解屏障线程的意义.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/工具类/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Test/Alibaba/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/将题目进行分类/DFS/DFS_收集结果/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/将题目进行分类/二叉树遍历/二叉搜索树_中序遍历/solve.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/将题目进行分类/快慢指针/删除链表的倒数n个节点/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/将题目进行分类/聚焦_环形/Mn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/排序/希尔排序.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Study Notes/Point/~$准备笔记.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Study Notes/Point/准备笔记.doc" beforeDir="false" afterPath="$PROJECT_DIR$/../../Study Notes/Point/准备笔记.doc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Study Notes/SQL/MYSQL_Study.doc" beforeDir="false" afterPath="$PROJECT_DIR$/../../Study Notes/SQL/MYSQL_Study.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/AQS/AbstractQueuedSynchronizer_new.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaEcharts-master/JavaEcharts-master/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Study Notes/Point/Cookie和Session/cookie和session机制.doc" beforeDir="false" afterPath="$PROJECT_DIR$/../../Study Notes/Point/Cookie和Session/cookie和session机制.doc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Study Notes/SQL/SQL优化方案/SQL优化.doc" beforeDir="false" afterPath="$PROJECT_DIR$/../../Study Notes/SQL/SQL优化方案/SQL优化.doc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Study Notes/Spring/Spring开发.doc" beforeDir="false" afterPath="$PROJECT_DIR$/../../Study Notes/Spring/Spring开发.doc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Study Notes/SpringMVC/SpringMVC.doc" beforeDir="false" afterPath="$PROJECT_DIR$/../../Study Notes/SpringMVC/SpringMVC.doc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Study Notes/商城项目Component/Not only sql redis/redis.doc" beforeDir="false" afterPath="$PROJECT_DIR$/../../Study Notes/商城项目Component/Not only sql redis/redis.doc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Study Notes/商城项目Component/短信服务   ----》  MQ 《--- user-service/短信服务   ----》  MQ 《--- user-service.doc" beforeDir="false" afterPath="$PROJECT_DIR$/../../Study Notes/商城项目Component/短信服务   ----》  MQ 《--- user-service/短信服务   ----》  MQ 《--- user-service.doc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Study Notes/计算机网络/~$https.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Study Notes/商城项目Component/Not only sql redis/redis集群的原理.doc" beforeDir="false" afterPath="$PROJECT_DIR$/../../Study Notes/商城项目Component/Not only sql redis/redis集群的原理.doc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Study Notes/商城项目Component/SpringMVC 接口的小知识点.doc" beforeDir="false" afterPath="$PROJECT_DIR$/../../Study Notes/商城项目Component/SpringMVC 接口的小知识点.doc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Study Notes/商城项目Component/基于redis实现分布式锁的秒杀/基于redis实现分布锁的秒杀.doc" beforeDir="false" afterPath="$PROJECT_DIR$/../../Study Notes/商城项目Component/基于redis实现分布式锁的秒杀/基于redis实现分布锁的秒杀.doc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Study Notes/商城项目Component/授权服务的设计/授权服务.doc" beforeDir="false" afterPath="$PROJECT_DIR$/../../Study Notes/商城项目Component/授权服务的设计/授权服务.doc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Study Notes/商城项目Component/搜索引擎_ElasticSearch/ElasticSearch.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Study Notes/商城项目Component/搜索引擎_ElasticSearch/~$asticSearch.doc" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Study Notes/高并发/高并发笔记.doc" beforeDir="false" afterPath="$PROJECT_DIR$/../../Study Notes/高并发/高并发笔记.doc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Important_Point_java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Important_Point_java/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java设计模式/装饰模式/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java设计模式/装饰模式/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java设计模式/适配器模式/对象的适配器模式/Adapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java设计模式/适配器模式/类d的适配器模式/Adapter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java设计模式/适配器模式/对象的适配器模式/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java设计模式/适配器模式/类d的适配器模式/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java设计模式/适配器模式/对象的适配器模式/Targetable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java设计模式/适配器模式/类d的适配器模式/Targetable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java设计模式/适配器模式/接口的适配器模式/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java设计模式/适配器模式/接口的适配器模式/Wrapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java设计模式/适配器模式/对象的适配器模式/Wrapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java设计模式/适配器模式/类的适配器模式/SourceSub1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java设计模式/适配器模式/类的适配器模式/SourceSub2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java设计模式/适配器模式/类的适配器模式/Sourceable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java设计模式/适配器模式/接口的适配器模式/Sourceable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java设计模式/适配器模式/类的适配器模式/Wrapper2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第一阶段/JUC_Lock_三个线程依次调用Condition/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第一阶段/JUC_Lock_三个线程依次调用Condition/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第一阶段/countdownlatch_闭锁/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/工具类/countdownlatch_闭锁/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/Balking_阻碍放弃设计模式/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/Balking_阻碍放弃设计模式/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/Future设计模式的实现/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/Future设计模式的实现/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/观察者设计模式/线程观察者模式/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/观察者设计模式/线程观察者模式/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Important_Point_java/target/classes/ThreadPool/test_ScheduleThreadpool.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/ThreadPool/test_ScheduleThreadpool.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Important_Point_java/target/classes/java设计模式/适配器模式/对象的适配器模式/Adapter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Important_Point_java/target/classes/java设计模式/适配器模式/对象的适配器模式/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/java设计模式/适配器模式/对象的适配器模式/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Important_Point_java/target/classes/java设计模式/适配器模式/对象的适配器模式/Targetable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Important_Point_java/target/classes/java设计模式/适配器模式/接口的适配器模式/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Important_Point_java/target/classes/java设计模式/适配器模式/接口的适配器模式/Wrapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Important_Point_java/target/classes/java设计模式/适配器模式/类的适配器模式/SourceSub1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Important_Point_java/target/classes/java设计模式/适配器模式/类的适配器模式/SourceSub2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Important_Point_java/target/classes/java设计模式/适配器模式/类的适配器模式/Sourceable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Important_Point_java/target/classes/java设计模式/适配器模式/类的适配器模式/Wrapper2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第一阶段/JUC_Lock_三个线程依次调用Condition/Alternate_printf.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第一阶段/JUC_Lock_三个线程依次调用Condition/Alternate_printf.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第二阶段/Balking_阻碍放弃设计模式/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第二阶段/Balking_阻碍放弃设计模式/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第二阶段/Future设计模式的实现/Main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第二阶段/Future设计模式的实现/Main$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第二阶段/Future设计模式的实现/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第二阶段/Future设计模式的实现/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第二阶段/观察者设计模式/线程观察者模式/Test$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第二阶段/观察者设计模式/线程观察者模式/Test$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第二阶段/观察者设计模式/线程观察者模式/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第二阶段/观察者设计模式/线程观察者模式/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leyou-master/ly-auth-center/ly-auth-common/src/main/java/com/leyou/auth/utils/RsaUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leyou-master/ly-auth-center/ly-auth-common/src/main/java/com/leyou/auth/utils/RsaUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leyou-master/ly-auth-center/ly-auth-common/src/test/java/com/leyou/auth/utils/JwtUtilsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leyou-master/ly-auth-center/ly-auth-common/src/test/java/com/leyou/auth/utils/JwtUtilsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leyou-master/ly-auth-center/ly-auth-service/src/main/java/com/leyou/auth/properties/JwtProperties.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leyou-master/ly-auth-center/ly-auth-service/src/main/java/com/leyou/auth/properties/JwtProperties.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leyou-master/ly-auth-center/ly-auth-service/src/main/java/com/leyou/auth/service/AuthService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leyou-master/ly-auth-center/ly-auth-service/src/main/java/com/leyou/auth/service/AuthService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leyou-master/ly-auth-center/ly-auth-service/src/main/java/com/leyou/auth/web/AuthController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leyou-master/ly-auth-center/ly-auth-service/src/main/java/com/leyou/auth/web/AuthController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leyou-master/ly-sms-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../leyou-master/ly-sms-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leyou-master/ly-upload/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../leyou-master/ly-upload/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leyou-master/ly-user-service/ly-user-serivce/src/main/java/com/leyou/user/web/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leyou-master/ly-user-service/ly-user-serivce/src/main/java/com/leyou/user/web/UserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leyou/Gateway-zuul-leyou/src/main/java/com/jason/demo/config/GlobalCorsConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leyou/Gateway-zuul-leyou/src/main/java/com/jason/demo/config/GlobalCorsConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leyou/Gateway-zuul-leyou/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../leyou/Gateway-zuul-leyou/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Important_Point_java/src/main/java/工具类/CyclicBarrier/理解屏障线程的意义.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/工具类/CyclicBarrier/理解屏障线程的意义.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Important_Point_java/target/classes/java设计模式/装饰模式/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/java设计模式/装饰模式/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Important_Point_java/target/classes/工具类/CyclicBarrier/理解屏障线程的意义.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/工具类/CyclicBarrier/理解屏障线程的意义.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第一阶段/countdownlatch_闭锁/CountDownDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第一阶段/countdownlatch_闭锁/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEcharts-master/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaEcharts-master/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEcharts-master/JavaEcharts-master/.idea/JavaEcharts-master.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaEcharts-master/JavaEcharts-master/.idea/JavaEcharts-master.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEcharts-master/JavaEcharts-master/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaEcharts-master/JavaEcharts-master/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEcharts-master/JavaEcharts-master/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEcharts-master/JavaEcharts-master/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaEcharts-master/JavaEcharts-master/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leyou-master/ly-cart/src/main/java/com/leyou/cart/service/CartService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leyou-master/ly-cart/src/main/java/com/leyou/cart/service/CartService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leyou-master/ly-cart/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../leyou-master/ly-cart/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leyou-master/ly-item/ly-item-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../leyou-master/ly-item/ly-item-service/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leyou-master/ly-item/ly-item-service/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../leyou-master/ly-item/ly-item-service/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leyou-master/ly-order/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../leyou-master/ly-order/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leyou-master/ly-order/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../leyou-master/ly-order/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leyou-master/ly-page/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../leyou-master/ly-page/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leyou-master/ly-page/src/main/java/com/leyou/page/listener/ItemListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leyou-master/ly-page/src/main/java/com/leyou/page/listener/ItemListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leyou-master/ly-page/src/main/java/com/leyou/page/service/PageService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leyou-master/ly-page/src/main/java/com/leyou/page/service/PageService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leyou-master/ly-page/src/main/java/com/leyou/page/web/LyPageController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leyou-master/ly-page/src/main/java/com/leyou/page/web/LyPageController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leyou-master/ly-page/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../leyou-master/ly-page/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leyou-master/ly-page/src/main/resources/templates/item.html" beforeDir="false" afterPath="$PROJECT_DIR$/../leyou-master/ly-page/src/main/resources/templates/item.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leyou-master/ly-page/src/test/java/com/leyou/page/service/PageServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leyou-master/ly-page/src/test/java/com/leyou/page/service/PageServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leyou-master/ly-search/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../leyou-master/ly-search/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leyou-master/ly-search/src/main/java/com/leyou/search/listener/GoodsListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leyou-master/ly-search/src/main/java/com/leyou/search/listener/GoodsListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leyou-master/ly-search/src/main/java/com/leyou/search/pojo/SearchRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leyou-master/ly-search/src/main/java/com/leyou/search/pojo/SearchRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leyou-master/ly-search/src/main/java/com/leyou/search/service/SearchService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leyou-master/ly-search/src/main/java/com/leyou/search/service/SearchService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leyou-master/ly-search/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../leyou-master/ly-search/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leyou-master/ly-sms-service/src/main/java/com/leyou/sms/utils/SmsUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leyou-master/ly-sms-service/src/main/java/com/leyou/sms/utils/SmsUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leyou/ly-search/src/main/java/com/leyou/Service/IndexService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leyou/ly-search/src/main/java/com/leyou/Service/IndexService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../leyou_portal/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../leyou_portal/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leyou_portal/cart.html" beforeDir="false" afterPath="$PROJECT_DIR$/../leyou_portal/cart.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leyou_portal/getOrderInfo.html" beforeDir="false" afterPath="$PROJECT_DIR$/../leyou_portal/getOrderInfo.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../leyou_portal/js/pages/shortcut.js" beforeDir="false" afterPath="$PROJECT_DIR$/../leyou_portal/js/pages/shortcut.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leyou_portal/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/../leyou_portal/login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springBootdemo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springBootdemo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leyou_portal/pay.html" beforeDir="false" afterPath="$PROJECT_DIR$/../leyou_portal/pay.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ssm_web.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../ssm_web.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ssm_web/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ssm_web/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ssm_web/target/classes/META-INF/ssm_web.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ssm_web/target/classes/application-dao.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ssm_web/target/classes/application-dao.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ssm_web/target/classes/com/controller/LoginController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ssm_web/target/classes/com/controller/LoginController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ssm_web/target/ssm_web.war" beforeDir="false" afterPath="$PROJECT_DIR$/../ssm_web/target/ssm_web.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ssm_web/target/ssm_web/WEB-INF/classes/application-dao.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ssm_web/target/ssm_web/WEB-INF/classes/application-dao.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ssm_web/target/ssm_web/WEB-INF/classes/com/controller/LoginController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ssm_web/target/ssm_web/WEB-INF/classes/com/controller/LoginController.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/数据结构及算法强化/N皇后问题/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/数据结构及算法强化/Test/合并石子.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/数据结构及算法强化/Test/排序_双指针_三数之和.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/数据结构及算法强化/Test/是否是回文数.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/数据结构及算法强化/Test/有序数组.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/数据结构及算法强化/Test/有序数组.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/数据结构及算法强化/Test/正则表达式匹配.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/数据结构及算法强化/Test/聚焦原理手串隔离.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/数据结构及算法强化/Test/连续最大的子串.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/数据结构及算法强化/合并石子之动态规划__keneng/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/数据结构及算法强化/合并石子之动态规划__keneng/main0.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/N皇后问题/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/将题目进行分类/DFS/N皇后问题/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/N皇后问题/info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/将题目进行分类/DFS/N皇后问题/info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/合并石子.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/将题目进行分类/动态规划/合并石子.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/排序_双指针_三数之和.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/将题目进行分类/双指针动态移动/排序_双指针_三数之和.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/是否是回文数.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/将题目进行分类/动态规划/是否是回文数.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/正则表达式匹配.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/将题目进行分类/动态规划/正则表达式匹配.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/聚焦原理手串隔离.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/将题目进行分类/聚焦_环形/聚焦原理手串隔离.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/连续最大的子串.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/将题目进行分类/滑动窗口/连续最大的子串.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/合并石子之动态规划__keneng/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/将题目进行分类/动态规划/合并石子之动态规划__keneng/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/合并石子之动态规划__keneng/main0.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/将题目进行分类/动态规划/合并石子之动态规划__keneng/main0.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/合并石子之动态规划__keneng/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/将题目进行分类/动态规划/合并石子之动态规划__keneng/package-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/求两个数组合并之后的中位数/solve.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/将题目进行分类/双指针动态移动/求两个数组合并之后的中位数/solve.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/数据结构及算法强化/字节跳动/世界杯开幕式$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/数据结构及算法强化/字节跳动/世界杯开幕式$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/数据结构及算法强化/字节跳动/世界杯开幕式.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/数据结构及算法强化/将题目进行分类/DFS/岛屿的最大面积.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/数据结构及算法强化/将题目进行分类/DFS/岛屿的最大面积.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/数据结构及算法强化/将题目进行分类/归并类操作/合并k个链表/Main$ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/数据结构及算法强化/将题目进行分类/归并类操作/合并k个链表/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/字节跳动/世界杯开幕式.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/将题目进行分类/DFS/岛屿的最大面积.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/将题目进行分类/DFS/岛屿的最大面积.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/将题目进行分类/动态规划/合并石子之动态规划__keneng/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/将题目进行分类/动态规划/合并石子之动态规划__keneng/package-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/将题目进行分类/归并类操作/合并k个链表/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/总结一/归并/合并k个链表/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/排序/希尔排序.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/排序/希尔排序.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../新建文本文档.txt" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -132,33 +90,68 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/将题目进行分类/DFS/岛屿的最大面积.java">
+        <entry file="file://$PROJECT_DIR$/src/Leetcode/模拟/一test/RecentCounter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-328">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="-14">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/字节跳动/世界杯开幕式.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Leetcode/模拟/一test/flipLights.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="41" column="40" lean-forward="true" selection-start-line="41" selection-start-column="40" selection-end-line="41" selection-end-column="40" />
+            <state relative-caret-position="-120">
+              <caret line="28" column="38" lean-forward="true" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="38" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1220#1221#0" expanded="true" />
-                <element signature="e#1268#1269#0" expanded="true" />
+                <element signature="docComment;method#flipLights#0;class#flipLights#0" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/将题目进行分类/归并类操作/合并k个链表/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/排序/练习/归并排序.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="37" column="45" selection-start-line="37" selection-start-column="40" selection-end-line="37" selection-end-column="45" />
+            <state relative-caret-position="312">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/排序/练习/堆排序.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="12" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/排序/练习/希尔排序.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/排序/希尔排序.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="19" column="18" lean-forward="true" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/排序/冒泡排序.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="11" column="5" lean-forward="true" selection-start-line="5" selection-end-line="11" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -176,6 +169,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>con</find>
+      <find>总结一.BFS.青蛙跳杯子.Main.</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -184,61 +178,61 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Test/Main.java" />
-        <option value="$PROJECT_DIR$/src/Test/main1.java" />
-        <option value="$PROJECT_DIR$/src/合并石子之动态规划__keneng/Main.java" />
-        <option value="$PROJECT_DIR$/src/合并石子之动态规划__keneng/package-info.java" />
-        <option value="$PROJECT_DIR$/src/Test/聚焦原理手串隔离.java" />
-        <option value="$PROJECT_DIR$/src/Test/字符串开心消消乐.java" />
-        <option value="$PROJECT_DIR$/src/Test/合并石子.java" />
-        <option value="$PROJECT_DIR$/src/Test/足球比赛.java" />
-        <option value="$PROJECT_DIR$/src/Test/连续最大的子串.java" />
-        <option value="$PROJECT_DIR$/src/Test/是否是回文数.java" />
-        <option value="$PROJECT_DIR$/src/Test/正则表达式匹配.java" />
-        <option value="$PROJECT_DIR$/src/Test/成水最多的容器.java" />
-        <option value="$PROJECT_DIR$/src/Test/排序_双指针_三数之和.java" />
-        <option value="$PROJECT_DIR$/src/Test/单链表排序.java" />
-        <option value="$PROJECT_DIR$/src/Test/堆排序.java" />
-        <option value="$PROJECT_DIR$/src/Test/创新工场.java" />
-        <option value="$PROJECT_DIR$/src/Test/有序数组.java" />
-        <option value="$PROJECT_DIR$/src/求两个数组合并之后的中位数/solve.java" />
-        <option value="$PROJECT_DIR$/src/Test/删除链表的倒数n个节点/Solution.java" />
+        <option value="$PROJECT_DIR$/src/总结一/动态规划/合并石子之动态规划__keneng/Retry0.java" />
+        <option value="$PROJECT_DIR$/src/字节跳动/模板.java" />
+        <option value="$PROJECT_DIR$/src/字节跳动/Main1.java" />
+        <option value="$PROJECT_DIR$/src/字节跳动/Main0.java" />
+        <option value="$PROJECT_DIR$/src/字节跳动/Main3.java" />
+        <option value="$PROJECT_DIR$/src/字节跳动/Main2.java" />
+        <option value="$PROJECT_DIR$/src/总结一/BFS/青蛙跳杯子/Main.java" />
+        <option value="$PROJECT_DIR$/src/字节跳动/Main5.java" />
+        <option value="$PROJECT_DIR$/src/字节跳动/BFS_三个容器.java" />
+        <option value="$PROJECT_DIR$/src/总结一/BFS/倒数容器问题/Main.java" />
+        <option value="$PROJECT_DIR$/src/Leetcode/接雨水/Main.java" />
+        <option value="$PROJECT_DIR$/src/牛客网/派对的最大快乐值/Mian.java" />
+        <option value="$PROJECT_DIR$/src/总结一/动态规划/派对的最大快乐值/Mian.java" />
+        <option value="$PROJECT_DIR$/src/总结一/自主发挥/接雨水/Main.java" />
+        <option value="$PROJECT_DIR$/src/Leetcode/最小覆盖字串/solve.java" />
+        <option value="$PROJECT_DIR$/src/Leetcode/最小覆盖字串/Main.java" />
+        <option value="$PROJECT_DIR$/src/Leetcode/最小覆盖字串/Main_fail.java" />
+        <option value="$PROJECT_DIR$/src/Leetcode/最小覆盖字串/Main_true.java" />
+        <option value="$PROJECT_DIR$/src/Leetcode/最小覆盖字串/study.java" />
+        <option value="$PROJECT_DIR$/src/总结一/双指针移动/求两个数组合并之后的中位数/Retry0.java" />
+        <option value="$PROJECT_DIR$/src/Leetcode/斐波那契数列/Main.java" />
+        <option value="$PROJECT_DIR$/src/斐波那契数列/Main.java" />
+        <option value="$PROJECT_DIR$/src/百度/模板.java" />
+        <option value="$PROJECT_DIR$/src/百度/Main2.java" />
+        <option value="$PROJECT_DIR$/src/百度/Main1.java" />
+        <option value="$PROJECT_DIR$/src/百度/Main3.java" />
+        <option value="$PROJECT_DIR$/src/斐波那契数列/矩阵求幂/Main.java" />
+        <option value="$PROJECT_DIR$/src/百度/Main.java" />
+        <option value="$PROJECT_DIR$/src/百度/Main5.java" />
+        <option value="$PROJECT_DIR$/src/通配符匹配/最牛的解法/Main.java" />
+        <option value="$PROJECT_DIR$/src/通配符匹配/main.java" />
+        <option value="$PROJECT_DIR$/src/通配符匹配/官方解法/动态规划/Main.java" />
+        <option value="$PROJECT_DIR$/src/通配符匹配/官方解法/双指针法/Main.java" />
+        <option value="$PROJECT_DIR$/src/通配符匹配/练习/动态规划.java" />
+        <option value="$PROJECT_DIR$/src/通配符匹配/练习/双指针.java" />
+        <option value="$PROJECT_DIR$/src/总结一/双指针移动/最小覆盖子串/study.java" />
+        <option value="$PROJECT_DIR$/src/总结一/双指针移动/最小覆盖子串/练习/main.java" />
+        <option value="$PROJECT_DIR$/src/总结一/经典问题/单词拼接/Main.java" />
+        <option value="$PROJECT_DIR$/src/总结一/经典问题/单词拼接/官方/Main.java" />
+        <option value="$PROJECT_DIR$/src/总结一/经典问题/单词拼接/练习/Main.java" />
+        <option value="$PROJECT_DIR$/src/总结一/经典问题/单词拼接/练习/new_solve.java" />
+        <option value="$PROJECT_DIR$/src/百度/xin3.java" />
+        <option value="$PROJECT_DIR$/src/百度/xin2.java" />
+        <option value="$PROJECT_DIR$/src/百度/xin1.java" />
+        <option value="$PROJECT_DIR$/src/Leetcode/模拟/一test/RecentCounter.java" />
+        <option value="$PROJECT_DIR$/src/Leetcode/模拟/一.java" />
+        <option value="$PROJECT_DIR$/src/Leetcode/模拟/一test/flipLights.java" />
+        <option value="$PROJECT_DIR$/src/排序/练习/归并排序.java" />
+        <option value="$PROJECT_DIR$/src/排序/练习/堆排序.java" />
+        <option value="$PROJECT_DIR$/src/排序/练习/希尔排序.java" />
         <option value="$PROJECT_DIR$/src/排序/希尔排序.java" />
-        <option value="$PROJECT_DIR$/src/Test/Alibaba/Main.java" />
-        <option value="$PROJECT_DIR$/src/Test/Alibaba/Mn.java" />
-        <option value="$PROJECT_DIR$/src/将题目进行分类/聚焦_环形/Mn.java" />
-        <option value="$PROJECT_DIR$/src/将题目进行分类/双指针动态移动_二分/求两个数组合并之后的中位数/solve.java" />
-        <option value="$PROJECT_DIR$/src/将题目进行分类/动态规划/正则表达式匹配.java" />
-        <option value="$PROJECT_DIR$/src/将题目进行分类/滑动窗口/连续最大的子串.java" />
-        <option value="$PROJECT_DIR$/src/将题目进行分类/双指针动态移动_二分/排序_双指针_三数之和.java" />
-        <option value="$PROJECT_DIR$/src/将题目进行分类/双指针动态移动/排序_双指针_三数之和.java" />
-        <option value="$PROJECT_DIR$/src/将题目进行分类/DFS/N皇后问题/Main.java" />
-        <option value="$PROJECT_DIR$/src/将题目进行分类/二叉树遍历/二叉树搜索第k小值/solve.java" />
-        <option value="$PROJECT_DIR$/src/Leetcode/二叉树搜索第k小值/solve.java" />
-        <option value="$PROJECT_DIR$/src/将题目进行分类/二叉树遍历/二叉搜索树_中序遍历/solve.java" />
-        <option value="$PROJECT_DIR$/src/Test/N皇后_深搜_回溯.java" />
-        <option value="$PROJECT_DIR$/src/Test/youzan/Main.java" />
-        <option value="$PROJECT_DIR$/src/Test/DFS_收集结果/Main.java" />
-        <option value="$PROJECT_DIR$/src/将题目进行分类/DFS/DFS_收集结果/Main.java" />
-        <option value="$PROJECT_DIR$/src/tenxun/Main.java" />
-        <option value="$PROJECT_DIR$/src/tenxun/Main0.java" />
-        <option value="$PROJECT_DIR$/src/tenxun/Main1.java" />
-        <option value="$PROJECT_DIR$/src/tenxun/dsff.java" />
-        <option value="$PROJECT_DIR$/src/合并k个链表/Main.java" />
-        <option value="$PROJECT_DIR$/src/将题目进行分类/归并类操作/合并k个链表/Main.java" />
-        <option value="$PROJECT_DIR$/src/最长公共前缀.java" />
-        <option value="$PROJECT_DIR$/src/岛屿的最大面积.java" />
-        <option value="$PROJECT_DIR$/src/买股票的最佳时机1.java" />
-        <option value="$PROJECT_DIR$/src/买股票的最佳实际II.java" />
-        <option value="$PROJECT_DIR$/src/二叉树的最近公共祖先.java" />
-        <option value="$PROJECT_DIR$/src/线段树_区间求和.java" />
-        <option value="$PROJECT_DIR$/src/区间求和.java" />
-        <option value="$PROJECT_DIR$/src/不含有重复字符的最长字串.java" />
-        <option value="$PROJECT_DIR$/src/字节跳动/世界杯开幕式.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="10" />
     <option name="y" value="20" />
     <option name="width" value="1340" />
@@ -252,8 +246,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -270,12 +262,21 @@
               <item name="数据结构及算法强化" type="b2602c69:ProjectViewProjectNode" />
               <item name="数据结构及算法强化" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="将题目进行分类" type="462c0819:PsiDirectoryNode" />
+              <item name="排序" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="数据结构及算法强化" type="b2602c69:ProjectViewProjectNode" />
+              <item name="数据结构及算法强化" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="排序" type="462c0819:PsiDirectoryNode" />
+              <item name="练习" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -283,7 +284,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/总结一/BFS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -293,12 +294,17 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\Study-Notes\idea源码\数据结构及算法强化\src\总结一\BFS" />
+      <recent name="G:\Study-Notes\idea源码\数据结构及算法强化\src\总结一\动态规划" />
       <recent name="G:\Study-Notes\idea源码\数据结构及算法强化\src" />
       <recent name="G:\Study-Notes\idea源码\数据结构及算法强化\src\欧拉回路\Johns_trip" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="百度" />
+      <recent name="总结一.DFS" />
+      <recent name="总结一.双指针移动.求两个数组合并之后的中位数" />
+      <recent name="总结一.动态规划.一个字符串中的最长回文字串" />
       <recent name="将题目进行分类.DFS.DFS_收集结果" />
-      <recent name="将题目进行分类.二叉树遍历.二叉搜索树_中序遍历" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="G:\Study-Notes\idea源码\数据结构及算法强化\src\Test" />
@@ -316,13 +322,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.世界杯开幕式">
-    <configuration name="世界杯开幕式" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="字节跳动.世界杯开幕式" />
+  <component name="RunManager" selected="Application.希尔排序">
+    <configuration name="一" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leetcode.模拟.一" />
       <module name="数据结构及算法强化" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="字节跳动.*" />
+          <option name="PATTERN" value="Leetcode.模拟.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -330,12 +336,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main0" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tenxun.Main0" />
+    <configuration name="归并排序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="排序.练习.归并排序" />
       <module name="数据结构及算法强化" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tenxun.*" />
+          <option name="PATTERN" value="排序.练习.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -343,12 +349,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tenxun.Main1" />
+    <configuration name="堆排序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="排序.练习.堆排序" />
       <module name="数据结构及算法强化" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tenxun.*" />
+          <option name="PATTERN" value="排序.练习.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="希尔排序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="排序.希尔排序" />
+      <module name="数据结构及算法强化" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="排序.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -369,12 +388,90 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="冒泡排序优化版" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="排序.冒泡排序优化版" />
+      <module name="数据结构及算法强化" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="排序.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="足球比赛" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test.足球比赛" />
+      <module name="数据结构及算法强化" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="插入排序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="排序.插入排序" />
       <module name="数据结构及算法强化" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="排序.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="合并石子" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test.合并石子" />
+      <module name="数据结构及算法强化" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="单链表排序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test.单链表排序" />
+      <module name="数据结构及算法强化" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="组合硬币" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DP.组合硬币" />
+      <module name="数据结构及算法强化" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DP.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="成水最多的容器" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test.成水最多的容器" />
+      <module name="数据结构及算法强化" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -421,6 +518,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="冒泡排序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="排序.冒泡排序" />
+      <module name="数据结构及算法强化" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="排序.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="堆排序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Test.堆排序" />
       <module name="数据结构及算法强化" />
@@ -434,12 +544,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="冒泡排序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="排序.冒泡排序" />
+    <configuration name="聚焦原理手串隔离" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test.聚焦原理手串隔离" />
       <module name="数据结构及算法强化" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="排序.*" />
+          <option name="PATTERN" value="Test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -462,32 +572,6 @@
     </configuration>
     <configuration name="足球比赛" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Test.足球比赛" />
-      <module name="数据结构及算法强化" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="环形链表" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="链表类题.环形链表" />
-      <module name="数据结构及算法强化" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="链表类题.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="聚焦原理手串隔离" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test.聚焦原理手串隔离" />
       <module name="数据结构及算法强化" />
       <extension name="coverage">
         <pattern>
@@ -551,110 +635,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="冒泡排序优化版" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="排序.冒泡排序优化版" />
+    <configuration name="new_solve" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="总结一.经典问题.单词拼接.练习.new_solve" />
       <module name="数据结构及算法强化" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="排序.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="足球比赛" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test.足球比赛" />
-      <module name="数据结构及算法强化" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="合并石子" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test.合并石子" />
-      <module name="数据结构及算法强化" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="堆排序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="排序.堆排序" />
-      <module name="数据结构及算法强化" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="排序.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="单链表排序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test.单链表排序" />
-      <module name="数据结构及算法强化" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="组合硬币" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DP.组合硬币" />
-      <module name="数据结构及算法强化" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DP.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="成水最多的容器" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test.成水最多的容器" />
-      <module name="数据结构及算法强化" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="线段树_区间求和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="线段树_区间求和" />
-      <module name="数据结构及算法强化" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="dsff" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tenxun.dsff" />
-      <module name="数据结构及算法强化" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tenxun.*" />
+          <option name="PATTERN" value="总结一.经典问题.单词拼接.练习.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -664,11 +650,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.世界杯开幕式" />
-        <item itemvalue="Application.线段树_区间求和" />
-        <item itemvalue="Application.dsff" />
-        <item itemvalue="Application.Main1" />
-        <item itemvalue="Application.Main0" />
+        <item itemvalue="Application.希尔排序" />
+        <item itemvalue="Application.堆排序" />
+        <item itemvalue="Application.归并排序" />
+        <item itemvalue="Application.一" />
+        <item itemvalue="Application.new_solve" />
       </list>
     </recent_temporary>
   </component>
@@ -733,12 +719,16 @@
       <workItem from="1567251148090" duration="29687000" />
       <workItem from="1567408654935" duration="965000" />
       <workItem from="1567485325051" duration="16159000" />
-      <workItem from="1567523472694" duration="30867000" />
+      <workItem from="1567523472694" duration="36178000" />
+      <workItem from="1567818245043" duration="62520000" />
+      <workItem from="1568271786708" duration="3349000" />
+      <workItem from="1568277891959" duration="232000" />
+      <workItem from="1568463221533" duration="108499000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="390722000" />
+    <option name="totallyTimeSpent" value="570633000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -750,10 +740,11 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4989154" visible="true" weight="0.16791044" />
-      <window_info id="Structure" order="1" sideWeight="0.5010846" side_tool="true" visible="true" weight="0.16791044" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49541286" visible="true" weight="0.17430703" />
+      <window_info id="Structure" order="1" sideWeight="0.5045872" side_tool="true" weight="0.24848025" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -761,8 +752,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.5043384" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.28416485" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3295082" />
@@ -771,7 +762,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.3295082" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.3275488" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3253796" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="1" weight="0.25" />
       <window_info anchor="right" id="Palette" order="2" />
@@ -791,381 +782,426 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/将题目进行分类/动态规划/合并石子之动态规划__keneng/package-info.java">
+    <entry file="file://$PROJECT_DIR$/src/字节跳动/Main0.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        <state relative-caret-position="648">
+          <caret line="27" column="13" selection-end-line="47" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Test/堆排序.java" />
-    <entry file="file://$PROJECT_DIR$/src/Test/成水最多的容器.java">
+    <entry file="file://$PROJECT_DIR$/src/总结一/BFS/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1800">
-          <caret line="78" column="34" selection-start-line="78" selection-start-column="34" selection-end-line="78" selection-end-column="34" />
+        <state relative-caret-position="1920">
+          <caret line="83" column="16" selection-start-line="83" selection-start-column="16" selection-end-line="83" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Test/单链表排序.java">
+    <entry file="file://$PROJECT_DIR$/src/总结一/动态规划/派对的最大快乐值/Mian.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1728">
-          <caret line="72" selection-start-line="72" selection-end-line="72" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Test/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1536">
-          <caret line="64" column="24" selection-start-line="64" selection-start-column="24" selection-end-line="64" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Test/有序数组.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="696">
-          <caret line="29" column="37" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/排序/基数排序.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+        <state relative-caret-position="240">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
           <folding>
-            <element signature="method#main#0;class#基数排序#0" />
-            <element signature="e#995#996#0" expanded="true" />
-            <element signature="e#1055#1056#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/排序/希尔排序.java">
+    <entry file="file://$PROJECT_DIR$/src/总结一/BFS/倒数容器问题/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="552">
+          <caret line="23" column="2" selection-start-line="23" selection-start-column="2" selection-end-line="23" selection-end-column="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/排序/冒泡排序.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/javafx-src.zip!/javafx/util/Pair.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-494">
+          <caret line="63" column="11" selection-start-line="63" selection-start-column="11" selection-end-line="63" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Leetcode/最小覆盖字串/solve.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="89" column="7" lean-forward="true" selection-start-line="89" selection-start-column="7" selection-end-line="89" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#375#395#0" expanded="true" />
+            <element signature="e#831#857#0" expanded="true" />
+            <element signature="e#1170#1190#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/总结一/双指针移动/求两个数组合并之后的中位数/solve.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/总结一/双指针移动/求两个数组合并之后的中位数/Retry0.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1560">
+          <caret line="65" column="5" lean-forward="true" selection-start-line="65" selection-start-column="5" selection-end-line="65" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/总结一/自主发挥/接雨水/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Leetcode/最小覆盖字串/Main_fail.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="704">
+          <caret line="61" column="46" lean-forward="true" selection-start-line="58" selection-start-column="7" selection-end-line="61" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Leetcode/最小覆盖字串/Main_true.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/斐波那契数列/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/百度/Main1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="421">
+          <caret line="53" lean-forward="true" selection-end-line="80" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1628#1629#0" expanded="true" />
+            <element signature="e#1670#1671#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/总结一/DFS/岛屿的最大面积.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="29" column="18" lean-forward="true" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/总结一/BFS/学霸的迷宫_bfs/Main0.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="97" column="19" lean-forward="true" selection-start-line="97" selection-start-column="19" selection-end-line="97" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/百度/Main2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/百度/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="528">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <caret line="22" column="15" selection-start-line="22" selection-start-column="15" selection-end-line="22" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/util/Map.java">
+    <entry file="file://$PROJECT_DIR$/src/斐波那契数列/矩阵求幂/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3312">
-          <caret line="164" column="12" selection-start-line="164" selection-start-column="12" selection-end-line="164" selection-end-column="12" />
+        <state relative-caret-position="296">
+          <caret line="123" column="18" selection-start-line="123" selection-start-column="18" selection-end-line="123" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/百度/Main3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-264">
+          <caret line="17" column="34" lean-forward="true" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/百度/Main5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="95" lean-forward="true" selection-start-line="95" selection-end-line="95" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/通配符匹配/最牛的解法/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/总结一/经典问题/通配符匹配/官方解法/动态规划/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="54" selection-start-line="54" selection-end-line="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/总结一/经典问题/通配符匹配/main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="58" column="21" selection-start-line="58" selection-start-column="21" selection-end-line="58" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/总结一/双指针移动/最小覆盖子串/study.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="848">
+          <caret line="54" column="9" lean-forward="true" selection-start-line="54" selection-start-column="9" selection-end-line="54" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/总结一/双指针移动/最小覆盖子串/练习/main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1416">
+          <caret line="59" column="12" selection-start-line="59" selection-start-column="12" selection-end-line="59" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/总结一/经典问题/通配符匹配/官方解法/双指针法/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-168">
+          <caret line="14" column="55" selection-start-line="14" selection-start-column="55" selection-end-line="14" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="1435" column="36" selection-start-line="1435" selection-start-column="36" selection-end-line="1435" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/总结一/经典问题/单词拼接/练习/new_solve.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="103" column="24" lean-forward="true" selection-start-line="103" selection-start-column="24" selection-end-line="103" selection-end-column="24" />
+          <folding>
+            <element signature="e#343#349#0" expanded="true" />
+            <element signature="e#1248#1249#0" expanded="true" />
+            <element signature="e#1328#1329#0" expanded="true" />
+            <element signature="e#2898#2899#0" expanded="true" />
+            <element signature="e#2936#2937#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/百度/模板.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="19" selection-start-line="19" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/百度/xin3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/总结一/经典问题/单词拼接/官方/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="586">
+          <caret line="124" column="20" lean-forward="true" selection-start-line="124" selection-start-column="20" selection-end-line="124" selection-end-column="20" />
+          <folding>
+            <element signature="method#main#0;class#Main#0" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="14544">
-          <caret line="657" column="18" selection-start-line="657" selection-start-column="18" selection-end-line="657" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/将题目进行分类/快慢指针/删除链表的倒数n个节点/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="17" column="16" lean-forward="true" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Test/二分.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Test/Alibaba/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="46" column="27" selection-start-line="46" selection-start-column="27" selection-end-line="46" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/将题目进行分类/聚焦_环形/Mn.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/将题目进行分类/聚焦_环形/聚焦原理手串隔离.java">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="298">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <caret line="2119" column="19" selection-start-line="2119" selection-start-column="19" selection-end-line="2119" selection-end-column="19" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#82616#82617#0" expanded="true" />
+            <element signature="e#82667#82668#0" expanded="true" />
+            <element signature="e#94598#94599#0" expanded="true" />
+            <element signature="e#94636#94637#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/将题目进行分类/动态规划/是否是回文数.java">
+    <entry file="file://$PROJECT_DIR$/src/总结一/经典问题/通配符匹配/练习/双指针.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="680">
+          <caret line="74" lean-forward="true" selection-start-line="74" selection-end-line="74" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/将题目进行分类/动态规划/正则表达式匹配.java">
+    <entry file="file://$PROJECT_DIR$/src/总结一/经典问题/通配符匹配/练习/动态规划.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="680">
+          <caret line="69" lean-forward="true" selection-start-line="26" selection-start-column="3" selection-end-line="69" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/将题目进行分类/滑动窗口/连续最大的子串.java">
+    <entry file="file://$PROJECT_DIR$/src/DP/Regular_Expression_Matching.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
+        <state relative-caret-position="-192">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/百度/xin2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="968">
+          <caret line="57" column="35" lean-forward="true" selection-start-line="57" selection-start-column="35" selection-end-line="57" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/总结一/DFS/被围绕的区域.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1280">
+          <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/总结一/DFS/求期望.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="99" column="19" lean-forward="true" selection-start-line="99" selection-start-column="19" selection-end-line="99" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/总结一/经典问题/单词拼接/练习/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="776">
+          <caret line="106" column="5" lean-forward="true" selection-start-line="79" selection-end-line="106" selection-end-column="5" />
+          <folding>
+            <element signature="e#437#443#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/百度/xin1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="968">
+          <caret line="107" column="28" selection-start-line="107" selection-start-column="28" selection-end-line="107" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/总结一/BFS/青蛙跳杯子/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1256">
+          <caret line="83" column="22" lean-forward="true" selection-start-line="83" selection-start-column="22" selection-end-line="83" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/将题目进行分类/双指针动态移动/排序_双指针_三数之和.java">
+    <entry file="file://$PROJECT_DIR$/src/Leetcode/模拟/一.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        <state relative-caret-position="336">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Test/创新工场.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/lang/Integer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="13" column="54" selection-start-line="13" selection-start-column="54" selection-end-line="13" selection-end-column="54" />
+        <state relative-caret-position="283">
+          <caret line="1443" column="30" selection-start-line="1443" selection-start-column="22" selection-end-line="1443" selection-end-column="30" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#33891#33892#0" expanded="true" />
+            <element signature="e#33919#33920#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/将题目进行分类/动态规划/合并石子.java">
+    <entry file="file://$PROJECT_DIR$/src/Leetcode/模拟/一test/RecentCounter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/欧拉回路/Johns_trip/大佬的程序">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1144" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/将题目进行分类/双指针动态移动/求两个数组合并之后的中位数/solve.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1512">
-          <caret line="91" column="37" selection-start-line="91" selection-start-column="37" selection-end-line="91" selection-end-column="37" />
-          <folding>
-            <element signature="method#findMedianSortedArrays0#0;class#solve#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Leetcode/二叉树搜索第k小值/solve.java" />
-    <entry file="file://$PROJECT_DIR$/src/将题目进行分类/二叉树遍历/二叉搜索树_中序遍历/solve.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Test/N皇后_深搜_回溯.java" />
-    <entry file="file://$PROJECT_DIR$/src/将题目进行分类/DFS/N皇后问题/info.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/将题目进行分类/DFS/N皇后问题/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2096">
-          <caret line="130" column="37" selection-start-line="130" selection-start-column="37" selection-end-line="130" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/KMP/kmp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="552">
-          <caret line="25" column="37" lean-forward="true" selection-start-line="25" selection-start-column="37" selection-end-line="25" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Test/DFS_收集结果/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/将题目进行分类/DFS/DFS_收集结果/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="19" column="44" lean-forward="true" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/lang/Runtime.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-408">
-          <caret line="39" column="2" lean-forward="true" selection-start-line="39" selection-start-column="2" selection-end-line="39" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/tenxun/Main0.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="15" column="9" selection-start-line="11" selection-start-column="7" selection-end-line="15" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/tenxun/Main1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
+        <state relative-caret-position="-14">
           <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/tenxun/dsff.java">
+    <entry file="file://$PROJECT_DIR$/src/Leetcode/模拟/一test/flipLights.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/util/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="260" column="12" selection-start-line="260" selection-start-column="12" selection-end-line="260" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/tenxun/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="824">
-          <caret line="45" selection-start-line="1" selection-end-line="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="434">
-          <caret line="521" column="36" selection-start-line="521" selection-start-column="36" selection-end-line="521" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/util/concurrent/locks/ReentrantLock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="472">
-          <caret line="150" column="55" selection-start-line="150" selection-start-column="55" selection-end-line="150" selection-end-column="55" />
+        <state relative-caret-position="-120">
+          <caret line="28" column="38" lean-forward="true" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="38" />
           <folding>
-            <element signature="e#5562#5563#0" expanded="true" />
-            <element signature="e#5614#5615#0" expanded="true" />
-            <element signature="e#17535#17536#0" expanded="true" />
-            <element signature="e#17577#17578#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="docComment;method#flipLights#0;class#flipLights#0" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/util/concurrent/CyclicBarrier.java">
+    <entry file="file://$PROJECT_DIR$/src/排序/冒泡排序.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="74">
-          <caret line="148" column="15" selection-start-line="148" selection-start-column="15" selection-end-line="148" selection-end-column="15" />
+        <state relative-caret-position="264">
+          <caret line="11" column="5" lean-forward="true" selection-start-line="5" selection-end-line="11" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/最长公共前缀.java">
+    <entry file="file://$PROJECT_DIR$/hs_err_pid22920.log">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="26" column="17" lean-forward="true" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
-        </state>
+        <state relative-caret-position="-576" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/买股票的最佳时机1.java">
+    <entry file="file://$PROJECT_DIR$/src/排序/练习/归并排序.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/买股票的最佳实际II.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="19" column="30" lean-forward="true" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/区间求和.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="35" column="9" lean-forward="true" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/线段树_区间求和.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
+        <state relative-caret-position="312">
           <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/二叉树的最近公共祖先.java">
+    <entry file="file://$PROJECT_DIR$/src/排序/练习/堆排序.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="648">
-          <caret line="39" column="16" lean-forward="true" selection-start-line="39" selection-start-column="16" selection-end-line="39" selection-end-column="16" />
+        <state relative-caret-position="288">
+          <caret line="12" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/不含有重复字符的最长字串.java">
+    <entry file="file://$PROJECT_DIR$/src/排序/练习/希尔排序.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="432">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/将题目进行分类/DFS/岛屿的最大面积.java">
+    <entry file="file://$PROJECT_DIR$/src/排序/希尔排序.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-328">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/将题目进行分类/归并类操作/合并k个链表/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="37" column="45" selection-start-line="37" selection-start-column="40" selection-end-line="37" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/字节跳动/世界杯开幕式.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="41" column="40" lean-forward="true" selection-start-line="41" selection-start-column="40" selection-end-line="41" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1220#1221#0" expanded="true" />
-            <element signature="e#1268#1269#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="418">
+          <caret line="19" column="18" lean-forward="true" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
         </state>
       </provider>
     </entry>

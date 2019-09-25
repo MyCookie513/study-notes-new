@@ -6,10 +6,10 @@ spring:
   thymeleaf:
     cache: false
   rabbitmq:
-    host: 192.168.82.100
+    virtual-host: leyou
     username: leyou
-    password: leyou
-    virtual-host: /leyou
+    password: 988513
+    host: 139.9.195.148
 eureka:
   client:
     service-url:
@@ -19,4 +19,4 @@ eureka:
     ip-address: 127.0.0.1
 ly:
   page:
-    path: /Users/bystander/upload
+    path: /Users/bystander/upload/item

@@ -19,7 +19,8 @@ public class PageServiceTest {
     private PageService pageService;
 
     @Test
-    public void createHtml() {
-        pageService.createHtml(156L);
+    public void createHtml() throws InterruptedException {
+        pageService.syncCreateHtml(118L);
+        Thread.sleep(5000);
     }
 }

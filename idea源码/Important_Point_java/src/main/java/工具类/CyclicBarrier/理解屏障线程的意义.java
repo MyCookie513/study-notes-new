@@ -10,7 +10,7 @@ public class 理解屏障线程的意义 {
     public static void main(String[] args) {
         //构造器：设置屏障放开前做的事情
         CyclicBarrier barrier3 = new CyclicBarrier(2, () -> {
-            LOGGER.info("屏障放开，[屏障线程]先运行！");
+            LOGGER.info("屏障放开，[屏障线程]先运行！"+Thread.currentThread().getName() );
             try {
                 Thread.sleep(2000);
             } catch (InterruptedException e) {
@@ -18,6 +18,7 @@ public class 理解屏障线程的意义 {
             }
             LOGGER.info("[屏障线程]的事情做完了!");
         });
+
         for (int i = 0; i < 2; i++) {
             new Thread(() -> {
                 LOGGER.info(Thread.currentThread().getName() + " 等待屏障放开");

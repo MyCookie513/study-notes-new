@@ -7,19 +7,29 @@ import java.util.Map;
  * @date 2018/9/22
  */
 public class SearchRequest {
-    //默认第一页
-    private static final Integer DEFAULT_PAGE = 1;
-    private Integer page;
-    //每页放多少个商品
-    private static final Integer DEFAULT_SIZE = 20;
+
+
+
     //要查询的商品的关键字
     private String key;
     //排序字段
     private String sortBy;
     //是否降序
     private Boolean descending;
+
+    //默认第一页
+    private static final Integer DEFAULT_PAGE = 1;
+    private Integer page;
+
+    //每页放多少个商品
+    private static final Integer DEFAULT_SIZE = 20;
+
     //过滤字段
     private Map<String, String> filter;
+
+
+
+
 
     public String getSortBy() {
         return sortBy;

@@ -19,10 +19,17 @@ public class LyPageController {
     @Autowired
     private PageService pageService;
 
+
     @GetMapping("item/{id}.html")
     public String toItemPage(@PathVariable("id") Long spuId, Model model) {
-        Map<String, Object> attributes = pageService.loadModel(spuId);
-        model.addAllAttributes(attributes);
+        // 加载所需的数据
+        Map<String, Object> modelMap = this.pageService.loadModel(spuId);
+        // 放入模型
+        model.addAllAttributes(modelMap);
+        // 判断是否需要生成新的页面
+        if(!this.pageService.exists(spuId)){
+            this.pageService.syncCreateHtml(spuId);
+        }
         return "item";
 
     }

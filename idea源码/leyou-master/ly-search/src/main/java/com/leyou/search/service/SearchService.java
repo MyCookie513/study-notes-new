@@ -64,6 +64,12 @@ public class SearchService {
     @Autowired
     private GoodsRepository repository;
 
+    /**
+     * 根据spu从其他的服务中调用 商品信息 最后合成goods这个实体类；
+     * @param spu
+     * @return
+     * @throws IOException
+     */
     public Goods buildGoods(Spu spu) throws IOException {
         Long spuId = spu.getId();
         //查询商品分类名
@@ -207,6 +213,9 @@ public class SearchService {
      */
     public SearchResult<Goods> search(SearchRequest searchRequest) {
 
+        /**
+         * 搜索的关键字
+         */
         String key = searchRequest.getKey();
         if (StringUtils.isBlank(key)) {
             throw new LyException(ExceptionEnum.INVALID_PARAM);
@@ -256,6 +265,10 @@ public class SearchService {
         //解析品牌聚合
         List<Brand> brands = handleBrandAgg(aggs.get(brandAggName));
 
+
+
+
+
         //对规格参数聚合
         List<Map<String, Object>> specs = null;
 
@@ -298,6 +311,8 @@ public class SearchService {
             String name = param.getName();
             queryBuilder.addAggregation(AggregationBuilders.terms(name).field("specs." + name + ".keyword"));
         }
+
+
         //查询
         AggregatedPage<Goods> result = template.queryForPage(queryBuilder.build(), Goods.class);
 
@@ -319,7 +334,7 @@ public class SearchService {
     }
 
     /**
-     * 分页和排序
+     * 查询构建器注入查询和分页功能的
      *
      * @param queryBuilder
      * @param searchRequest
@@ -331,7 +346,7 @@ public class SearchService {
         String sortBy = searchRequest.getSortBy();
         Boolean desc = searchRequest.getDescending();
 
-        //分页
+        //查询构建器 ，注入分页查询信息；
         queryBuilder.withPageable(PageRequest.of(page, size));
 
         //排序
@@ -398,6 +413,7 @@ public class SearchService {
      * @return
      */
     private QueryBuilder buildBasicQuery(SearchRequest request) {
+
         //构建布尔查询
         BoolQueryBuilder basicQuery = QueryBuilders.boolQuery();
         //搜索条件

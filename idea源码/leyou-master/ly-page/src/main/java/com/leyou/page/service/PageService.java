@@ -3,6 +3,7 @@ package com.leyou.page.service;
 import com.leyou.common.enums.ExceptionEnum;
 import com.leyou.common.exception.LyException;
 import com.leyou.item.pojo.*;
+import com.leyou.page.Untils.ThreadUtils;
 import com.leyou.page.client.BrandClient;
 import com.leyou.page.client.CategoryClient;
 import com.leyou.page.client.GoodsClient;
@@ -44,6 +45,8 @@ public class PageService {
     @Autowired
     private TemplateEngine templateEngine;
 
+    @Autowired
+    private ThreadUtils threadUtils;
     @Value("${ly.page.path}")
     private String dest;
 
@@ -80,7 +83,7 @@ public class PageService {
         Map<String, Object> map = loadModel(spuId);
         context.setVariables(map);
 
-        File file = new File(this.dest, spuId + ".html");
+        File file = createPath(spuId);
         //如果页面存在，先删除，后进行创建静态页
         if (file.exists()) {
             file.delete();
@@ -93,6 +96,7 @@ public class PageService {
     }
 
     public void deleteHtml(Long id) {
+
         File file = new File(this.dest + id + ".html");
         if (file.exists()) {
             boolean flag = file.delete();
@@ -101,4 +105,52 @@ public class PageService {
             }
         }
     }
+
+    private File createPath(Long id) {
+        if (id == null) {
+            return null;
+        }
+        File dest = new File(this.dest);
+        if (!dest.exists()) {
+            dest.mkdirs();
+        }
+        return new File(dest, id + ".html");
+    }
+
+    /**
+     * 判断某个商品的页面是否存在
+     * @param id
+     * @return
+     */
+    public boolean exists(Long id){
+        return this.createPath(id).exists();
+    }
+    /**
+     * 异步创建html页面
+     * @param id
+     */
+    public void syncCreateHtml(Long id){
+        threadUtils.execute(() -> {
+            try {
+                createHtml(id);
+            } catch (Exception e) {
+                e.printStackTrace();
+            }
+        });
+    }
+
+    /**
+     * 异步创建html页面
+     * @param id
+     */
+    public void syncdeleteHtml(Long id){
+        ThreadUtils.execute(() -> {
+            try {
+                deleteHtml(id);
+            } catch (Exception e) {
+                e.printStackTrace();
+            }
+        });
+    }
+
 }

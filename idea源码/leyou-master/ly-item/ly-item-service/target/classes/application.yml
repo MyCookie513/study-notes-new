@@ -11,10 +11,10 @@ spring:
   application:
     name: item-service
   rabbitmq:
-    host: 192.168.82.100
+    virtual-host: leyou
     username: leyou
-    password: leyou
-    virtual-host: /leyou
+    password: 988513
+    host: 139.9.195.148
     template:
       retry:
         enabled: true

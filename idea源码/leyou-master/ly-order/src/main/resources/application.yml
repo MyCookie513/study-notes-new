@@ -4,19 +4,19 @@ spring:
   application:
     name: order-service
   datasource:
-    url: jdbc:mysql://127.0.0.1:3306/leyou?characterEncoding=UTF-8
-    username: root
-    password: root
     driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/leyou_copy?useUnicode=true&characterEncoding=utf-8
+    username: root
+    password: 988513
   jackson:
     default-property-inclusion: non_null
   redis:
-    host: 192.168.82.100
+    host:  139.9.195.148
   rabbitmq:
-    host: 192.168.82.100
+    virtual-host: leyou
     username: leyou
-    password: leyou
-    virtual-host: /leyou
+    password: 988513
+    host: 139.9.195.148
     template:
       retry:
         enabled: true

@@ -10,10 +10,10 @@ spring:
   jackson:
     default-property-inclusion: non_null
   rabbitmq:
-    virtual-host: /leyou
+    virtual-host: leyou
     username: leyou
-    password: leyou
-    host: 192.168.82.100
+    password: 988513
+    host: 139.9.195.148
 eureka:
   client:
     service-url:

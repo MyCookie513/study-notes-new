@@ -1,6 +1,6 @@
 
 package com.leyou.Service;
-
+/*
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.jason.Utills.JsonUtils;
 import com.jason.pojo.Sku;
@@ -29,8 +29,8 @@ import com.jason.Utills.JsonUtils;
 import com.leyou.pojo.Spu_specifications;
 
 import java.util.*;
-
 */
+
 /**
  * @Author: taft
  * @Date: 2018-8-29 16:56

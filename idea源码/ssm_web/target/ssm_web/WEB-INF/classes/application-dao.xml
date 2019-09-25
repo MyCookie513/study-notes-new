@@ -83,7 +83,11 @@
 		</property>
 	</bean>
 
-
+    //如果想使用的这个批量操作的sqlSession ，@Autowired 在dao层自动注入调用即可
+	<bean id="sqlSession" class="org.mybatis.spring.SqlSessionTemplate" >
+		<constructor-arg name="sqlSessionFactory" ref="sqlSessionFactoryid" />
+		<constructor-arg name="executorType" value="BATCH"/>
+	</bean>
 
 
 

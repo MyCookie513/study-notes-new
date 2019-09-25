@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: redis-lock-service
+  redis:
+    host:  139.9.195.148

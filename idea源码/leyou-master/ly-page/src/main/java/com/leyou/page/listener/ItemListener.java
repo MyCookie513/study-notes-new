@@ -1,7 +1,6 @@
 package com.leyou.page.listener;
 
-public class ItemListener{}
-/*
+
 
 import com.leyou.page.service.PageService;
 import org.springframework.amqp.core.ExchangeTypes;
@@ -12,11 +11,10 @@ import org.springframework.amqp.rabbit.annotation.RabbitListener;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
-*/
 /**
  * @author bystander
  * @date 2018/9/28
- *//*
+ */
 
 @Component
 public class ItemListener {
@@ -32,7 +30,7 @@ public class ItemListener {
     public void listenInsert(Long id) {
         if (id != null) {
             //新增或修改
-            pageService.createHtml(id);
+            pageService.syncCreateHtml(id);
         }
     }
 
@@ -48,4 +46,4 @@ public class ItemListener {
         }
     }
 }
-*/
+

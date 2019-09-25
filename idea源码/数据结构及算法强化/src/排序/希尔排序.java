@@ -23,6 +23,7 @@ public class 希尔排序 {
                 int i0=i;
                 while (i0-x>=0 && a[i0]<a[i0-x]){
                     change(a,i0,i0-x);
+                    i0=i0-x;
                 }
             }
         }

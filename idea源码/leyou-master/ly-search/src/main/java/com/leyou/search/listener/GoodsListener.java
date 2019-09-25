@@ -1,6 +1,5 @@
 package com.leyou.search.listener;
 
-/*
 import com.leyou.search.service.SearchService;
  import org.springframework.amqp.core.ExchangeTypes;
  import org.springframework.amqp.rabbit.annotation.Exchange;
@@ -9,16 +8,15 @@ import com.leyou.search.service.SearchService;
  import org.springframework.amqp.rabbit.annotation.RabbitListener;
  import org.springframework.beans.factory.annotation.Autowired;
  import org.springframework.stereotype.Component;
-*/
 
  /**
  * @author bystander
  * @date 2018/9/28
  */
-/*@Component*/
+@Component
 public class GoodsListener {
 
- /*   @Autowired
+    @Autowired
     private SearchService searchService;
 
     @RabbitListener(bindings = @QueueBinding(
@@ -48,5 +46,5 @@ public class GoodsListener {
         if (id != null) {
             searchService.delete(id);
         }
-    }*/
+    }
 }
