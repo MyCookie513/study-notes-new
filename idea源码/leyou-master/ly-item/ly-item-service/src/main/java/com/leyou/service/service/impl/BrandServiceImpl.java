@@ -57,6 +57,7 @@ public class BrandServiceImpl implements BrandService {
     @Override
     public void saveBrand(Brand brand, List<Long> cids) {
         brand.setId(null);
+
         int resultCount = brandMapper.insert(brand);
         if (resultCount == 0) {
             throw new LyException(ExceptionEnum.BRAND_CREATE_FAILED);

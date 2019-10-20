@@ -55,6 +55,7 @@ public class GoodsServiceImpl implements GoodsService {
         //分页
         PageHelper.startPage(page, rows);
 
+
         Example example = new Example(Spu.class);
         Example.Criteria criteria = example.createCriteria();
 

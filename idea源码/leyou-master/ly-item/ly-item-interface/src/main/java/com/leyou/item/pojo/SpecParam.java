@@ -21,6 +21,7 @@ public class SpecParam {
     private Long cid;
     private Long groupId;
     private String name;
+
     @Column(name = "`numeric`")
     private Boolean numeric;
     private String unit;

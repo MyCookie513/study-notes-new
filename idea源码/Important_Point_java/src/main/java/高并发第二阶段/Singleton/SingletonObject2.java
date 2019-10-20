@@ -2,15 +2,10 @@ package 高并发第二阶段.Singleton;
 
 public class SingletonObject2 {
 
-
     private SingletonObject2 instance;
-
-
     private SingletonObject2() {
 
     }
-
-
     /**
      * double check的算法
      *
@@ -37,7 +32,6 @@ public class SingletonObject2 {
             }
 
         }
-
         return instance;
     }
 }

@@ -8,13 +8,8 @@ public class SingletonObject3 {
      */
 
     private volatile SingletonObject3 instance;
-
-
     private SingletonObject3() {
-
     }
-
-
     private SingletonObject3 getInstance(){
         if(instance==null){
             synchronized (SingletonObject3.class){

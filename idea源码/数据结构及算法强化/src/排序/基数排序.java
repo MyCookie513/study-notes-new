@@ -26,13 +26,18 @@ public class 基数排序 {
            for (int t=1;t<10;t++){
                count[t]=count[t]+count[t-1];
            }
+
             for (int j=a.length-1;j>=0;j--){
                 int x=getDigit(a[j],i);
                 b[--count[x]]=a[j];
             }
+
+
             for (int j=0;j<a.length;j++){
                 a[j]=b[j];
             }
+
+
             System.out.println(Arrays.toString(b));
 
         }

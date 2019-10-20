@@ -14,6 +14,4 @@ public class SingletonObject1 {
                 );
         return  instance;
     }
-
-
 }

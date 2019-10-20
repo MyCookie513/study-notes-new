@@ -2,58 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="410c36d8-b9a7-4ee1-a950-4e6527eebd33" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Study Notes/Point/Cookie和Session/cookie和session机制.doc" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Study Notes/Point/Cookie和Session/cookie和session机制.doc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Study Notes/SQL/SQL优化方案/SQL优化.doc" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Study Notes/SQL/SQL优化方案/SQL优化.doc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Study Notes/SQL/SQL优化方案/~$SQL优化.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Study Notes/Spring/Spring开发.doc" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Study Notes/Spring/Spring开发.doc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Study Notes/商城项目Component/SpringMVC 接口的小知识点.doc" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Study Notes/商城项目Component/SpringMVC 接口的小知识点.doc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Study Notes/商城项目Component/基于redis实现分布式锁的秒杀/基于redis实现分布锁的秒杀.doc" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Study Notes/商城项目Component/基于redis实现分布式锁的秒杀/基于redis实现分布锁的秒杀.doc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Study Notes/商城项目Component/授权服务的设计/授权服务.doc" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Study Notes/商城项目Component/授权服务的设计/授权服务.doc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Study Notes/商城项目Component/搜索引擎_ElasticSearch/ElasticSearch.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Study Notes/商城项目Component/搜索引擎_ElasticSearch/~$asticSearch.doc" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Important_Point_java/src/main/java/java设计模式/装饰模式/hh.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../数据结构及算法强化/src/Leetcode/模拟/二test/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Important_Point_java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Important_Point_java/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/JavaEcharts-master.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/JavaEcharts-master.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../leyou-master/ly-cart/src/main/java/com/leyou/cart/service/CartService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../leyou-master/ly-cart/src/main/java/com/leyou/cart/service/CartService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../leyou-master/ly-cart/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../../leyou-master/ly-cart/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../leyou-master/ly-item/ly-item-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../../leyou-master/ly-item/ly-item-service/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../leyou-master/ly-item/ly-item-service/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../../leyou-master/ly-item/ly-item-service/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../leyou-master/ly-order/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../leyou-master/ly-order/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../leyou-master/ly-order/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../../leyou-master/ly-order/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../leyou-master/ly-page/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../leyou-master/ly-page/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../leyou-master/ly-page/src/main/java/com/leyou/page/listener/ItemListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../leyou-master/ly-page/src/main/java/com/leyou/page/listener/ItemListener.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../leyou-master/ly-page/src/main/java/com/leyou/page/service/PageService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../leyou-master/ly-page/src/main/java/com/leyou/page/service/PageService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../leyou-master/ly-page/src/main/java/com/leyou/page/web/LyPageController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../leyou-master/ly-page/src/main/java/com/leyou/page/web/LyPageController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../leyou-master/ly-page/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../../leyou-master/ly-page/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../leyou-master/ly-page/src/main/resources/templates/item.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../leyou-master/ly-page/src/main/resources/templates/item.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../leyou-master/ly-page/src/test/java/com/leyou/page/service/PageServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../leyou-master/ly-page/src/test/java/com/leyou/page/service/PageServiceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../leyou-master/ly-search/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../leyou-master/ly-search/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../leyou-master/ly-search/src/main/java/com/leyou/search/listener/GoodsListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../leyou-master/ly-search/src/main/java/com/leyou/search/listener/GoodsListener.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../leyou-master/ly-search/src/main/java/com/leyou/search/pojo/SearchRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../leyou-master/ly-search/src/main/java/com/leyou/search/pojo/SearchRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../leyou-master/ly-search/src/main/java/com/leyou/search/service/SearchService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../leyou-master/ly-search/src/main/java/com/leyou/search/service/SearchService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../leyou-master/ly-search/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../../leyou-master/ly-search/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../leyou/ly-search/src/main/java/com/leyou/Service/IndexService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../leyou/ly-search/src/main/java/com/leyou/Service/IndexService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../leyou_portal/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../leyou_portal/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../leyou_portal/cart.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../leyou_portal/cart.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../leyou_portal/getOrderInfo.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../leyou_portal/getOrderInfo.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../leyou_portal/js/pages/shortcut.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../leyou_portal/js/pages/shortcut.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../leyou_portal/pay.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../leyou_portal/pay.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Important_Point_java/src/main/java/java设计模式/工厂方法设计模式/静态方法工厂模式/SendFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Important_Point_java/src/main/java/java设计模式/工厂方法设计模式/静态方法工厂模式/SendFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Important_Point_java/src/main/java/java设计模式/装饰模式/Decorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Important_Point_java/src/main/java/java设计模式/装饰模式/Decorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Important_Point_java/src/main/java/java设计模式/装饰模式/Source.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Important_Point_java/src/main/java/java设计模式/装饰模式/Source.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Important_Point_java/src/main/java/java设计模式/装饰模式/Sourceable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Important_Point_java/src/main/java/java设计模式/装饰模式/Sourceable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Important_Point_java/src/main/java/高并发第二阶段/Singleton/SingletonObject1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Important_Point_java/src/main/java/高并发第二阶段/Singleton/SingletonObject1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Important_Point_java/src/main/java/高并发第二阶段/Singleton/SingletonObject2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Important_Point_java/src/main/java/高并发第二阶段/Singleton/SingletonObject2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Important_Point_java/src/main/java/高并发第二阶段/Singleton/SingletonObject3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Important_Point_java/src/main/java/高并发第二阶段/Singleton/SingletonObject3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Important_Point_java/src/main/java/高并发第二阶段/Singleton/SingletonObject6.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Important_Point_java/src/main/java/高并发第二阶段/Singleton/SingletonObject6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Important_Point_java/src/main/java/高并发第二阶段/Singleton/SingletonObject8.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Important_Point_java/src/main/java/高并发第二阶段/Singleton/SingletonObject8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Important_Point_java/src/main/java/高并发第二阶段/Singleton/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Important_Point_java/src/main/java/高并发第二阶段/Singleton/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Important_Point_java/target/classes/工具类/CyclicBarrier/理解屏障线程的意义.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Important_Point_java/target/classes/工具类/CyclicBarrier/理解屏障线程的意义.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Important_Point_java/target/classes/高并发第二阶段/Singleton/SingletonObject2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Important_Point_java/target/classes/高并发第二阶段/Singleton/SingletonObject2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Important_Point_java/target/classes/高并发第二阶段/Singleton/SingletonObject3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Important_Point_java/target/classes/高并发第二阶段/Singleton/SingletonObject3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Important_Point_java/target/classes/高并发第二阶段/Singleton/SingletonObject6$InstanceHolder.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Important_Point_java/target/classes/高并发第二阶段/Singleton/SingletonObject6$InstanceHolder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Important_Point_java/target/classes/高并发第二阶段/Singleton/SingletonObject6.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Important_Point_java/target/classes/高并发第二阶段/Singleton/SingletonObject6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Important_Point_java/target/classes/高并发第二阶段/Singleton/SingletonObject8$Singleton.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Important_Point_java/target/classes/高并发第二阶段/Singleton/SingletonObject8$Singleton.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Important_Point_java/target/classes/高并发第二阶段/Singleton/SingletonObject8.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Important_Point_java/target/classes/高并发第二阶段/Singleton/SingletonObject8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Important_Point_java/target/classes/高并发第二阶段/Singleton/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Important_Point_java/target/classes/高并发第二阶段/Singleton/Test.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../ssm_web/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ssm_web/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ssm_web/target/ssm_web.war" beforeDir="false" afterPath="$PROJECT_DIR$/../../ssm_web/target/ssm_web.war" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../数据结构及算法强化/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../数据结构及算法强化/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../数据结构及算法强化/out/production/数据结构及算法强化/字节跳动/世界杯开幕式$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../数据结构及算法强化/out/production/数据结构及算法强化/字节跳动/世界杯开幕式$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../数据结构及算法强化/out/production/数据结构及算法强化/字节跳动/世界杯开幕式.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../数据结构及算法强化/out/production/数据结构及算法强化/将题目进行分类/DFS/岛屿的最大面积.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../数据结构及算法强化/out/production/数据结构及算法强化/将题目进行分类/DFS/岛屿的最大面积.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../数据结构及算法强化/out/production/数据结构及算法强化/将题目进行分类/归并类操作/合并k个链表/Main$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../数据结构及算法强化/out/production/数据结构及算法强化/将题目进行分类/归并类操作/合并k个链表/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../数据结构及算法强化/src/字节跳动/世界杯开幕式.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../数据结构及算法强化/src/将题目进行分类/DFS/岛屿的最大面积.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../数据结构及算法强化/src/将题目进行分类/DFS/岛屿的最大面积.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../数据结构及算法强化/src/将题目进行分类/动态规划/合并石子之动态规划__keneng/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../数据结构及算法强化/src/将题目进行分类/动态规划/合并石子之动态规划__keneng/package-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../数据结构及算法强化/src/将题目进行分类/归并类操作/合并k个链表/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../数据结构及算法强化/src/总结一/归并/合并k个链表/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../新建文本文档.txt" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -65,7 +36,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
           <provider selected="true" editor-type-id="text-editor" />
@@ -75,12 +46,12 @@
         <entry file="file://$PROJECT_DIR$/src/main/webapp/PieCharts.jsp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="792">
-              <caret line="33" column="10" lean-forward="true" selection-start-line="33" selection-start-column="10" selection-end-line="33" selection-end-column="10" />
+              <caret line="33" column="10" selection-start-line="33" selection-start-column="10" selection-end-line="33" selection-end-column="10" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/koali/service/NewStudentInfoService.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
@@ -89,18 +60,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/Hello.jsp">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/koali/web/EchartsController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1206" />
+            <state relative-caret-position="-96">
+              <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+            </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/Hello.jsp">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/myecharts.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-576" />
-          </provider>
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -115,7 +91,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="10" />
     <option name="y" value="20" />
     <option name="width" value="1340" />
@@ -167,7 +143,34 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="koali" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaEcharts-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaEcharts-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="koali" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaEcharts-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaEcharts-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="koali" type="462c0819:PsiDirectoryNode" />
               <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaEcharts-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaEcharts-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="koali" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaEcharts-master" type="b2602c69:ProjectViewProjectNode" />
@@ -219,8 +222,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -258,26 +261,24 @@
       <workItem from="1559485680217" duration="132000" />
       <workItem from="1560996852313" duration="9000" />
       <workItem from="1568807992981" duration="1287000" />
+      <workItem from="1569548909041" duration="770000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1428000" />
+    <option name="totallyTimeSpent" value="2198000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1376" height="744" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info id="Web" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3662614" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25373134" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Spring" />
-      <window_info anchor="bottom" id="Java Enterprise" />
+      <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -290,6 +291,8 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Spring" order="12" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -305,30 +308,33 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/myecharts.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-576" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/Hello.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1206" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/PieCharts.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="792">
-          <caret line="33" column="10" lean-forward="true" selection-start-line="33" selection-start-column="10" selection-end-line="33" selection-end-column="10" />
+          <caret line="33" column="10" selection-start-line="33" selection-start-column="10" selection-end-line="33" selection-end-column="10" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/Hello.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/myecharts.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/koali/service/NewStudentInfoService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/koali/web/EchartsController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-96">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
         </state>
       </provider>
     </entry>

@@ -7,10 +7,7 @@ package 高并发第二阶段.Singleton;
 
 public class SingletonObject8 {
     private SingletonObject8(){
-
     }
-
-
     /**
      *  枚举类型的类和内部静态类相同具有lazy load 的效果，而且只加载一次；
      */

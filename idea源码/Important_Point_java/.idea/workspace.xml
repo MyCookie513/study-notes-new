@@ -2,76 +2,88 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="640bb68a-46e4-415a-b671-119397cc489c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/AQS/AbstractQueuedSynchronizer_new.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaEcharts-master/JavaEcharts-master/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Study Notes/Point/Cookie和Session/cookie和session机制.doc" beforeDir="false" afterPath="$PROJECT_DIR$/../../Study Notes/Point/Cookie和Session/cookie和session机制.doc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Study Notes/SQL/SQL优化方案/SQL优化.doc" beforeDir="false" afterPath="$PROJECT_DIR$/../../Study Notes/SQL/SQL优化方案/SQL优化.doc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Study Notes/Spring/Spring开发.doc" beforeDir="false" afterPath="$PROJECT_DIR$/../../Study Notes/Spring/Spring开发.doc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Study Notes/SpringMVC/SpringMVC.doc" beforeDir="false" afterPath="$PROJECT_DIR$/../../Study Notes/SpringMVC/SpringMVC.doc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Study Notes/商城项目Component/Not only sql redis/redis.doc" beforeDir="false" afterPath="$PROJECT_DIR$/../../Study Notes/商城项目Component/Not only sql redis/redis.doc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Study Notes/商城项目Component/Not only sql redis/redis集群的原理.doc" beforeDir="false" afterPath="$PROJECT_DIR$/../../Study Notes/商城项目Component/Not only sql redis/redis集群的原理.doc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Study Notes/商城项目Component/SpringMVC 接口的小知识点.doc" beforeDir="false" afterPath="$PROJECT_DIR$/../../Study Notes/商城项目Component/SpringMVC 接口的小知识点.doc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Study Notes/商城项目Component/基于redis实现分布式锁的秒杀/基于redis实现分布锁的秒杀.doc" beforeDir="false" afterPath="$PROJECT_DIR$/../../Study Notes/商城项目Component/基于redis实现分布式锁的秒杀/基于redis实现分布锁的秒杀.doc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Study Notes/商城项目Component/授权服务的设计/授权服务.doc" beforeDir="false" afterPath="$PROJECT_DIR$/../../Study Notes/商城项目Component/授权服务的设计/授权服务.doc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Study Notes/商城项目Component/搜索引擎_ElasticSearch/ElasticSearch.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Study Notes/商城项目Component/搜索引擎_ElasticSearch/~$asticSearch.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Study Notes/高并发/高并发笔记.doc" beforeDir="false" afterPath="$PROJECT_DIR$/../../Study Notes/高并发/高并发笔记.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java设计模式/命令模式/命令接口/AddRequirementCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java设计模式/命令模式/命令接口/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java设计模式/命令模式/命令接口/DeletePageCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java设计模式/命令模式/项目组分为三个功能组/CodeGroup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java设计模式/命令模式/项目组分为三个功能组/Group.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java设计模式/命令模式/项目组分为三个功能组/PageGroup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java设计模式/命令模式/项目组分为三个功能组/RequirementGroup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java设计模式/装饰模式/hh.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gpmall-master/.idea/gpmall-master.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gpmall-master/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gpmall-master/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gpmall-master/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gpmall-master/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../数据结构及算法强化/src/Leetcode/模拟/二test/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../数据结构及算法强化/src/总结一/递归_拆分/识别布尔表达式/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Study Notes/java/JAVA的设计模式.doc" beforeDir="false" afterPath="$PROJECT_DIR$/../../Study Notes/java/JAVA的设计模式.doc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Study Notes/商城项目Component/搜索引擎_ElasticSearch/ElasticSearch原理.doc" beforeDir="false" afterPath="$PROJECT_DIR$/../../Study Notes/商城项目Component/搜索引擎_ElasticSearch/ElasticSearch原理.doc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/工具类/CyclicBarrier/理解屏障线程的意义.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/工具类/CyclicBarrier/理解屏障线程的意义.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/java设计模式/装饰模式/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/java设计模式/装饰模式/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java设计模式/创建复杂对象之建造者模式/Builder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java设计模式/创建复杂对象之建造者模式/Builder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java设计模式/创建复杂对象之建造者模式/Director.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java设计模式/创建复杂对象之建造者模式/Director.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java设计模式/创建复杂对象之建造者模式/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java设计模式/创建复杂对象之建造者模式/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java设计模式/创建复杂对象之建造者模式/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java设计模式/创建复杂对象之建造者模式/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java设计模式/命令模式/Command.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java设计模式/命令模式/Invoker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java设计模式/命令模式/Invoker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java设计模式/命令模式/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java设计模式/命令模式/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java设计模式/命令模式/MyCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java设计模式/命令模式/Receiver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java设计模式/工厂方法设计模式/静态方法工厂模式/SendFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java设计模式/工厂方法设计模式/静态方法工厂模式/SendFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java设计模式/装饰模式/Decorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java设计模式/装饰模式/Decorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java设计模式/装饰模式/Source.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java设计模式/装饰模式/Source.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java设计模式/装饰模式/Sourceable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java设计模式/装饰模式/Sourceable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/高并发第二阶段/Singleton/SingletonObject1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/高并发第二阶段/Singleton/SingletonObject1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/高并发第二阶段/Singleton/SingletonObject2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/高并发第二阶段/Singleton/SingletonObject2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/高并发第二阶段/Singleton/SingletonObject3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/高并发第二阶段/Singleton/SingletonObject3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/高并发第二阶段/Singleton/SingletonObject6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/高并发第二阶段/Singleton/SingletonObject6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/高并发第二阶段/Singleton/SingletonObject8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/高并发第二阶段/Singleton/SingletonObject8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/高并发第二阶段/Singleton/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/高并发第二阶段/Singleton/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/高并发第二阶段/观察者设计模式/BinaryObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/高并发第二阶段/观察者设计模式/BinaryObserver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/高并发第二阶段/观察者设计模式/Observer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/高并发第二阶段/观察者设计模式/Observer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/高并发第二阶段/观察者设计模式/Subject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/高并发第二阶段/观察者设计模式/Subject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/高并发第二阶段/观察者设计模式/线程观察者模式/LifeCycleListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/高并发第二阶段/观察者设计模式/线程观察者模式/LifeCycleListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/高并发第二阶段/观察者设计模式/线程观察者模式/ObservableRunnable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/高并发第二阶段/观察者设计模式/线程观察者模式/ObservableRunnable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/高并发第二阶段/观察者设计模式/线程观察者模式/ThreadLifeCycleObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/高并发第二阶段/观察者设计模式/线程观察者模式/ThreadLifeCycleObserver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java设计模式/创建复杂对象之建造者模式/Director.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/java设计模式/创建复杂对象之建造者模式/Director.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java设计模式/创建复杂对象之建造者模式/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/java设计模式/创建复杂对象之建造者模式/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java设计模式/创建复杂对象之建造者模式/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/java设计模式/创建复杂对象之建造者模式/Product.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java设计模式/工厂方法设计模式/静态方法工厂模式/SendFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/java设计模式/工厂方法设计模式/静态方法工厂模式/SendFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java设计模式/装饰模式/Source.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/java设计模式/装饰模式/Source.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/工具类/CyclicBarrier/理解屏障线程的意义.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/工具类/CyclicBarrier/理解屏障线程的意义.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/高并发第一阶段/countdownlatch_闭锁/CountDownDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/高并发第一阶段/countdownlatch_闭锁/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/高并发第二阶段/Singleton/SingletonObject2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/高并发第二阶段/Singleton/SingletonObject2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/高并发第二阶段/Singleton/SingletonObject3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/高并发第二阶段/Singleton/SingletonObject3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/高并发第二阶段/Singleton/SingletonObject6$InstanceHolder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/高并发第二阶段/Singleton/SingletonObject6$InstanceHolder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/高并发第二阶段/Singleton/SingletonObject6.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/高并发第二阶段/Singleton/SingletonObject6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/高并发第二阶段/Singleton/SingletonObject8$Singleton.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/高并发第二阶段/Singleton/SingletonObject8$Singleton.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/高并发第二阶段/Singleton/SingletonObject8.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/高并发第二阶段/Singleton/SingletonObject8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/高并发第二阶段/Singleton/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/高并发第二阶段/Singleton/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/高并发第二阶段/观察者设计模式/BinaryObserver.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/高并发第二阶段/观察者设计模式/BinaryObserver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/高并发第二阶段/观察者设计模式/Observer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/高并发第二阶段/观察者设计模式/Observer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/高并发第二阶段/观察者设计模式/Subject.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/高并发第二阶段/观察者设计模式/Subject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/高并发第二阶段/观察者设计模式/线程观察者模式/ObservableRunnable$RunnableEvent.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/高并发第二阶段/观察者设计模式/线程观察者模式/ObservableRunnable$RunnableEvent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/高并发第二阶段/观察者设计模式/线程观察者模式/ObservableRunnable$RunnableState.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/高并发第二阶段/观察者设计模式/线程观察者模式/ObservableRunnable$RunnableState.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/高并发第二阶段/观察者设计模式/线程观察者模式/ObservableRunnable.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/高并发第二阶段/观察者设计模式/线程观察者模式/ObservableRunnable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/高并发第二阶段/观察者设计模式/线程观察者模式/ThreadLifeCycleObserver.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/高并发第二阶段/观察者设计模式/线程观察者模式/ThreadLifeCycleObserver.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JavaEcharts-master/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaEcharts-master/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaEcharts-master/JavaEcharts-master/.idea/JavaEcharts-master.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaEcharts-master/JavaEcharts-master/.idea/JavaEcharts-master.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaEcharts-master/JavaEcharts-master/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaEcharts-master/JavaEcharts-master/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaEcharts-master/JavaEcharts-master/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../JavaEcharts-master/JavaEcharts-master/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaEcharts-master/JavaEcharts-master/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leyou-master/ly-cart/src/main/java/com/leyou/cart/service/CartService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leyou-master/ly-cart/src/main/java/com/leyou/cart/service/CartService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leyou-master/ly-cart/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../leyou-master/ly-cart/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leyou-master/ly-item/ly-item-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../leyou-master/ly-item/ly-item-service/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leyou-master/ly-item/ly-item-service/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../leyou-master/ly-item/ly-item-service/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leyou-master/ly-order/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../leyou-master/ly-order/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leyou-master/ly-order/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../leyou-master/ly-order/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leyou-master/ly-page/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../leyou-master/ly-page/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leyou-master/ly-page/src/main/java/com/leyou/page/listener/ItemListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leyou-master/ly-page/src/main/java/com/leyou/page/listener/ItemListener.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leyou-master/ly-page/src/main/java/com/leyou/page/service/PageService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leyou-master/ly-page/src/main/java/com/leyou/page/service/PageService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leyou-master/ly-page/src/main/java/com/leyou/page/web/LyPageController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leyou-master/ly-page/src/main/java/com/leyou/page/web/LyPageController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leyou-master/ly-page/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../leyou-master/ly-page/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leyou-master/ly-page/src/main/resources/templates/item.html" beforeDir="false" afterPath="$PROJECT_DIR$/../leyou-master/ly-page/src/main/resources/templates/item.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leyou-master/ly-page/src/test/java/com/leyou/page/service/PageServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leyou-master/ly-page/src/test/java/com/leyou/page/service/PageServiceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leyou-master/ly-search/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../leyou-master/ly-search/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leyou-master/ly-search/src/main/java/com/leyou/search/listener/GoodsListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leyou-master/ly-search/src/main/java/com/leyou/search/listener/GoodsListener.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leyou-master/ly-search/src/main/java/com/leyou/search/pojo/SearchRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leyou-master/ly-search/src/main/java/com/leyou/search/pojo/SearchRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leyou-master/ly-search/src/main/java/com/leyou/search/service/SearchService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leyou-master/ly-search/src/main/java/com/leyou/search/service/SearchService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leyou-master/ly-search/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../leyou-master/ly-search/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leyou-master/ly-sms-service/src/main/java/com/leyou/sms/utils/SmsUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leyou-master/ly-sms-service/src/main/java/com/leyou/sms/utils/SmsUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leyou/ly-search/src/main/java/com/leyou/Service/IndexService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leyou/ly-search/src/main/java/com/leyou/Service/IndexService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leyou_portal/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../leyou_portal/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leyou_portal/cart.html" beforeDir="false" afterPath="$PROJECT_DIR$/../leyou_portal/cart.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leyou_portal/getOrderInfo.html" beforeDir="false" afterPath="$PROJECT_DIR$/../leyou_portal/getOrderInfo.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leyou_portal/js/pages/shortcut.js" beforeDir="false" afterPath="$PROJECT_DIR$/../leyou_portal/js/pages/shortcut.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leyou_portal/pay.html" beforeDir="false" afterPath="$PROJECT_DIR$/../leyou_portal/pay.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ssm_web.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../ssm_web.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leyou-master/ly-api-gateway/src/main/java/com/leyou/gateway/filter/LoginFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leyou-master/ly-api-gateway/src/main/java/com/leyou/gateway/filter/LoginFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leyou-master/ly-item/ly-item-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../leyou-master/ly-item/ly-item-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leyou-master/ly-registry/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../leyou-master/ly-registry/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leyou/leyoueurekaserver/src/main/java/com/jason/leyoueurekaserver/LeyoueurekaserverApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leyou/leyoueurekaserver/src/main/java/com/jason/leyoueurekaserver/LeyoueurekaserverApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leyou/leyoueurekaserver/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../leyou/leyoueurekaserver/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leyou/ly-common/src/main/java/com/jason/Utills/JsonUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leyou/ly-common/src/main/java/com/jason/Utills/JsonUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leyou/ly-common/src/main/java/com/jason/Utills/NumberUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leyou/ly-common/src/main/java/com/jason/Utills/NumberUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leyou/ly-item/ly-item-service/src/main/resources/Application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../leyou/ly-item/ly-item-service/src/main/resources/Application.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ssm_web.zip" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../ssm_web/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ssm_web/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ssm_web/target/classes/META-INF/ssm_web.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ssm_web/target/classes/application-dao.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ssm_web/target/classes/application-dao.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ssm_web/target/classes/com/controller/LoginController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ssm_web/target/classes/com/controller/LoginController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ssm_web/target/ssm_web.war" beforeDir="false" afterPath="$PROJECT_DIR$/../ssm_web/target/ssm_web.war" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ssm_web/target/ssm_web/WEB-INF/classes/application-dao.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ssm_web/target/ssm_web/WEB-INF/classes/application-dao.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ssm_web/target/ssm_web/WEB-INF/classes/com/controller/LoginController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ssm_web/target/ssm_web/WEB-INF/classes/com/controller/LoginController.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../数据结构及算法强化/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../数据结构及算法强化/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../数据结构及算法强化/out/production/数据结构及算法强化/字节跳动/世界杯开幕式$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../数据结构及算法强化/out/production/数据结构及算法强化/字节跳动/世界杯开幕式$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../数据结构及算法强化/out/production/数据结构及算法强化/字节跳动/世界杯开幕式.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../数据结构及算法强化/out/production/数据结构及算法强化/将题目进行分类/DFS/岛屿的最大面积.class" beforeDir="false" afterPath="$PROJECT_DIR$/../数据结构及算法强化/out/production/数据结构及算法强化/将题目进行分类/DFS/岛屿的最大面积.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../数据结构及算法强化/out/production/数据结构及算法强化/将题目进行分类/归并类操作/合并k个链表/Main$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../数据结构及算法强化/out/production/数据结构及算法强化/将题目进行分类/归并类操作/合并k个链表/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../数据结构及算法强化/src/字节跳动/世界杯开幕式.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../数据结构及算法强化/src/将题目进行分类/DFS/岛屿的最大面积.java" beforeDir="false" afterPath="$PROJECT_DIR$/../数据结构及算法强化/src/将题目进行分类/DFS/岛屿的最大面积.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../数据结构及算法强化/src/将题目进行分类/动态规划/合并石子之动态规划__keneng/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/../数据结构及算法强化/src/将题目进行分类/动态规划/合并石子之动态规划__keneng/package-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../数据结构及算法强化/src/将题目进行分类/归并类操作/合并k个链表/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../数据结构及算法强化/src/总结一/归并/合并k个链表/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../数据结构及算法强化/src/排序/希尔排序.java" beforeDir="false" afterPath="$PROJECT_DIR$/../数据结构及算法强化/src/排序/希尔排序.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../数据结构及算法强化/out/production/数据结构及算法强化/排序/冒泡排序.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../数据结构及算法强化/out/production/数据结构及算法强化/排序/基数排序.class" beforeDir="false" afterPath="$PROJECT_DIR$/../数据结构及算法强化/out/production/数据结构及算法强化/排序/基数排序.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../数据结构及算法强化/src/排序/冒泡排序.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../数据结构及算法强化/src/排序/基数排序.java" beforeDir="false" afterPath="$PROJECT_DIR$/../数据结构及算法强化/src/排序/基数排序.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../新建文本文档.txt" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -90,29 +102,56 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/util/concurrent/locks/ReentrantReadWriteLock.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/java设计模式/命令模式/命令接口/AddRequirementCommand.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="202">
-              <caret line="251" column="54" selection-start-line="251" selection-start-column="54" selection-end-line="251" selection-end-column="54" />
+            <state relative-caret-position="48">
+              <caret line="2" selection-start-line="2" selection-end-line="18" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/java设计模式/命令模式/Invoker.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="276" column="2" selection-end-line="2315" />
+            <state relative-caret-position="264">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#11804#21933#0" />
-                <element signature="e#20991#20992#0" expanded="true" />
-                <element signature="e#21042#21043#0" expanded="true" />
-                <element signature="e#44444#44445#0" expanded="true" />
-                <element signature="e#44501#44502#0" expanded="true" />
-                <element signature="e#45599#45600#0" expanded="true" />
-                <element signature="e#45656#45657#0" expanded="true" />
+                <element signature="e#193#194#0" expanded="true" />
+                <element signature="e#231#232#0" expanded="true" />
+                <element signature="e#259#260#0" expanded="true" />
+                <element signature="e#297#298#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/高并发第二阶段/CountDownLatch/CountDownDIY.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/util/concurrent/CountDownLatch.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-192">
+              <caret line="178" column="35" lean-forward="true" selection-start-line="178" selection-start-column="35" selection-end-line="178" selection-end-column="35" />
+              <folding>
+                <element signature="e#10139#10140#0" expanded="true" />
+                <element signature="e#10177#10178#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/高并发第二阶段/CountDownLatch/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -120,8 +159,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/AQS/AbstractQueuedSynchronizer_new.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="254" column="3" selection-start-line="254" selection-start-column="3" selection-end-line="254" selection-end-column="3" />
+            <state>
               <folding>
                 <element signature="e#0#78863#0" expanded="true" />
               </folding>
@@ -130,10 +168,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/高并发第一阶段/JUC_Lock_三个线程依次调用Condition/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/工具类/CyclicBarrier/CyclicBarrier1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="554">
-              <caret line="121" column="32" selection-start-line="121" selection-start-column="32" selection-end-line="121" selection-end-column="32" />
+            <state relative-caret-position="168">
+              <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -141,54 +179,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/util/concurrent/CyclicBarrier.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="536">
-              <caret line="447" column="16" selection-start-line="447" selection-start-column="13" selection-end-line="447" selection-end-column="17" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#9581#9582#0" expanded="true" />
-                <element signature="e#9616#9617#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/util/concurrent/CountDownLatch.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2560">
-              <caret line="174" selection-start-line="174" selection-end-line="174" />
-              <folding>
-                <element signature="e#5229#5230#0" expanded="true" />
-                <element signature="e#5268#5269#0" expanded="true" />
-                <element signature="e#5294#5295#0" expanded="true" />
-                <element signature="e#5335#5336#0" expanded="true" />
-                <element signature="e#5391#5392#0" expanded="true" />
-                <element signature="e#5448#5449#0" expanded="true" />
-                <element signature="e#9899#9900#0" expanded="true" />
-                <element signature="e#9936#9937#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="362">
+              <caret line="178" column="25" selection-start-line="178" selection-start-column="25" selection-end-line="178" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/util/concurrent/locks/ReentrantLock.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/java设计模式/命令模式/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="554">
-              <caret line="215" selection-start-line="215" selection-end-line="215" />
-              <folding>
-                <element signature="e#9117#9118#0" expanded="true" />
-                <element signature="e#9144#9145#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/工具类/CyclicBarrier/应用_归并的计算方式.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+            <state relative-caret-position="408">
+              <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -197,19 +198,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/工具类/CyclicBarrier/reset的使用.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/java设计模式/命令模式/命令接口/DeletePageCommand.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="584">
-              <caret line="56" column="25" selection-start-line="56" selection-start-column="25" selection-end-line="56" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/工具类/CyclicBarrier/理解屏障线程的意义.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+            <state relative-caret-position="240">
+              <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -247,36 +239,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/java设计模式/策略模式/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/java设计模式/策略模式/ICalculator.java" />
-        <option value="$PROJECT_DIR$/src/main/java/java设计模式/策略模式/AbstractCalculator.java" />
-        <option value="$PROJECT_DIR$/src/main/java/java设计模式/策略模式/Plus.java" />
-        <option value="$PROJECT_DIR$/src/main/java/java设计模式/策略模式/Minus.java" />
-        <option value="$PROJECT_DIR$/src/main/java/java设计模式/策略模式/Multiply.java" />
-        <option value="$PROJECT_DIR$/src/main/java/java基础知识/enum0/Color.java" />
-        <option value="$PROJECT_DIR$/src/main/java/java基础知识/enum0/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ClassLoader/spring.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ThreadPool/test_ScheduleThreadpool.java" />
-        <option value="$PROJECT_DIR$/src/main/java/工具类/ReentrantLock__condition_多个线程依次调用场景/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/高并发第一阶段/JUC_Lock_三个线程依次调用Condition/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/高并发第二阶段/Future设计模式的实现/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/高并发第二阶段/观察者设计模式/线程观察者模式/Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/高并发第二阶段/Balking_阻碍放弃设计模式/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/java设计模式/适配器模式/接口的适配器模式/Wrapper.java" />
-        <option value="$PROJECT_DIR$/src/main/java/java设计模式/适配器模式/类d的适配器模式/Targetable.java" />
-        <option value="$PROJECT_DIR$/src/main/java/java设计模式/适配器模式/类的适配器模式/Wrapper2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/java设计模式/适配器模式/对象的适配器模式/Wrapper.java" />
-        <option value="$PROJECT_DIR$/src/main/java/java设计模式/适配器模式/接口的适配器模式/Sourceable.java" />
-        <option value="$PROJECT_DIR$/src/main/java/工具类/CyclicBarrier/CyclicBarrier1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/工具类/CyclicBarrier/reset的使用.java" />
-        <option value="$PROJECT_DIR$/src/main/java/工具类/CyclicBarrier/broken状态的转变.java" />
-        <option value="$PROJECT_DIR$/src/main/java/工具类/CyclicBarrier/应用_归并的计算方式.java" />
-        <option value="$PROJECT_DIR$/src/main/java/工具类/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/java设计模式/装饰模式/Decorator.java" />
-        <option value="$PROJECT_DIR$/src/main/java/java设计模式/装饰模式/Sourceable.java" />
-        <option value="$PROJECT_DIR$/src/main/java/java设计模式/装饰模式/Source.java" />
-        <option value="$PROJECT_DIR$/src/main/java/java设计模式/装饰模式/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/java设计模式/模板方法模式/AbstractCalculator.java" />
         <option value="$PROJECT_DIR$/src/main/java/java设计模式/模板方法模式/Plus.java" />
         <option value="$PROJECT_DIR$/src/main/java/java设计模式/模板方法模式/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/java设计模式/迭代器模式/Iterator.java" />
@@ -292,12 +254,42 @@
         <option value="$PROJECT_DIR$/src/main/java/java设计模式/命令模式/Command.java" />
         <option value="$PROJECT_DIR$/src/main/java/java设计模式/命令模式/MyCommand.java" />
         <option value="$PROJECT_DIR$/src/main/java/java设计模式/命令模式/Receiver.java" />
-        <option value="$PROJECT_DIR$/src/main/java/java设计模式/命令模式/Invoker.java" />
-        <option value="$PROJECT_DIR$/src/main/java/java设计模式/命令模式/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/dddffjkkk.java" />
         <option value="$PROJECT_DIR$/src/main/java/AbstractQueuedSynchronizer.java" />
         <option value="$PROJECT_DIR$/src/main/java/AQS/AbstractQueuedSynchronizer_new.java" />
         <option value="$PROJECT_DIR$/src/main/java/工具类/CyclicBarrier/理解屏障线程的意义.java" />
+        <option value="$PROJECT_DIR$/src/main/java/高并发第二阶段/Singleton/SingletonObject1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/高并发第二阶段/Singleton/SingletonObject2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/高并发第二阶段/Singleton/SingletonObject3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/高并发第二阶段/Singleton/SingletonObject6.java" />
+        <option value="$PROJECT_DIR$/src/main/java/高并发第二阶段/Singleton/SingletonObject8.java" />
+        <option value="$PROJECT_DIR$/src/main/java/高并发第二阶段/Singleton/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/java设计模式/装饰模式/Sourceable.java" />
+        <option value="$PROJECT_DIR$/src/main/java/java设计模式/装饰模式/Source.java" />
+        <option value="$PROJECT_DIR$/src/main/java/java设计模式/装饰模式/Decorator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/java设计模式/装饰模式/hh.java" />
+        <option value="$PROJECT_DIR$/src/main/java/java设计模式/适配器模式/Source.java" />
+        <option value="$PROJECT_DIR$/src/main/java/java设计模式/工厂方法设计模式/静态方法工厂模式/SendFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/java设计模式/创建复杂对象之建造者模式/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/java设计模式/创建复杂对象之建造者模式/Builder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/java设计模式/创建复杂对象之建造者模式/Director.java" />
+        <option value="$PROJECT_DIR$/src/main/java/java设计模式/创建复杂对象之建造者模式/Product.java" />
+        <option value="$PROJECT_DIR$/src/main/java/高并发第二阶段/观察者设计模式/线程观察者模式/LifeCycleListener.java" />
+        <option value="$PROJECT_DIR$/src/main/java/高并发第二阶段/观察者设计模式/线程观察者模式/ThreadLifeCycleObserver.java" />
+        <option value="$PROJECT_DIR$/src/main/java/高并发第二阶段/观察者设计模式/BinaryObserver.java" />
+        <option value="$PROJECT_DIR$/src/main/java/高并发第二阶段/观察者设计模式/Observer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/高并发第二阶段/观察者设计模式/线程观察者模式/ObservableRunnable.java" />
+        <option value="$PROJECT_DIR$/src/main/java/高并发第二阶段/观察者设计模式/Subject.java" />
+        <option value="$PROJECT_DIR$/src/main/java/java设计模式/命令模式/项目组分为三个功能组/Group.java" />
+        <option value="$PROJECT_DIR$/src/main/java/java设计模式/命令模式/项目组分为三个功能组/RequirementGroup.java" />
+        <option value="$PROJECT_DIR$/src/main/java/java设计模式/命令模式/项目组分为三个功能组/PageGroup.java" />
+        <option value="$PROJECT_DIR$/src/main/java/java设计模式/命令模式/项目组分为三个功能组/CodeGrou.java" />
+        <option value="$PROJECT_DIR$/src/main/java/java设计模式/命令模式/项目组分为三个功能组/CodeGroup.java" />
+        <option value="$PROJECT_DIR$/src/main/java/java设计模式/命令模式/命令接口/Command.java" />
+        <option value="$PROJECT_DIR$/src/main/java/java设计模式/命令模式/命令接口/DeletePageCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/java设计模式/命令模式/命令接口/AddRequirementCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/java设计模式/命令模式/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/java设计模式/命令模式/Invoker.java" />
       </list>
     </option>
   </component>
@@ -365,85 +357,6 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Important_Point_java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Important_Point_java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="工具类" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Important_Point_java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Important_Point_java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="工具类" type="462c0819:PsiDirectoryNode" />
-              <item name="countdownlatch_闭锁" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Important_Point_java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Important_Point_java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="工具类" type="462c0819:PsiDirectoryNode" />
-              <item name="countdownlatch_闭锁" type="462c0819:PsiDirectoryNode" />
-              <item name="Main.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="Important_Point_java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Important_Point_java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="工具类" type="462c0819:PsiDirectoryNode" />
-              <item name="CyclicBarrier" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Important_Point_java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Important_Point_java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="高并发第一阶段" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Important_Point_java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Important_Point_java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="高并发第一阶段" type="462c0819:PsiDirectoryNode" />
-              <item name="JUC_Lock_三个线程依次调用Condition" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Important_Point_java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Important_Point_java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="高并发第一阶段" type="462c0819:PsiDirectoryNode" />
-              <item name="JUC_Lock_三个线程依次调用Condition" type="462c0819:PsiDirectoryNode" />
-              <item name="Main.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="Important_Point_java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Important_Point_java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="高并发第三阶段" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Important_Point_java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Important_Point_java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="高并发第二阶段" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -455,17 +368,21 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/工具类" />
+    <property name="last_opened_file_path" value="G:/JavaEcharts-master/JavaEcharts-master" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Jack.xue\Desktop\模式识别" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="java设计模式.创建复杂对象之建造者模式" />
+      <recent name="高并发第二阶段.ActiveObject__接受异步消息的主动方法" />
+      <recent name="高并发第二阶段.流水线设计模式" />
+      <recent name="高并发第二阶段.producerAndConsumer模式" />
+      <recent name="高并发第二阶段.观察者设计模式.线程观察者模式" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="G:\Study-Notes\idea源码\Important_Point_java\src\main\java\工具类" />
@@ -477,12 +394,8 @@
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="ClassLoader" />
     </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="java设计模式.创建复杂对象之建造者模式" />
-      <recent name="高并发第二阶段.ActiveObject__接受异步消息的主动方法" />
-      <recent name="高并发第二阶段.流水线设计模式" />
-      <recent name="高并发第二阶段.producerAndConsumer模式" />
-      <recent name="高并发第二阶段.观察者设计模式.线程观察者模式" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Jack.xue\Desktop\模式识别" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -497,7 +410,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.理解屏障线程的意义">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="理解屏障线程的意义" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="工具类.CyclicBarrier.理解屏障线程的意义" />
       <module name="Important_Point_java" />
@@ -511,12 +424,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CyclicBarrier1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="工具类.CyclicBarrier.CyclicBarrier1" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java设计模式.责任链模式.Main" />
       <module name="Important_Point_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="工具类.CyclicBarrier.*" />
+          <option name="PATTERN" value="java设计模式.责任链模式.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="高并发第二阶段.Singleton.Test" />
+      <module name="Important_Point_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="高并发第二阶段.Singleton.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -550,26 +476,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="reset的使用" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="工具类.CyclicBarrier.reset的使用" />
-      <module name="Important_Point_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="工具类.CyclicBarrier.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.理解屏障线程的意义" />
         <item itemvalue="Application.应用_归并的计算方式" />
         <item itemvalue="Application.broken状态的转变" />
-        <item itemvalue="Application.reset的使用" />
-        <item itemvalue="Application.CyclicBarrier1" />
       </list>
     </recent_temporary>
   </component>
@@ -614,11 +527,15 @@
       <workItem from="1567579549573" duration="3379000" />
       <workItem from="1567816628503" duration="777000" />
       <workItem from="1569211741466" duration="12203000" />
+      <workItem from="1569421031679" duration="25624000" />
+      <workItem from="1570247830421" duration="1817000" />
+      <workItem from="1570271197163" duration="560000" />
+      <workItem from="1570793418714" duration="1119000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="372593000" />
+    <option name="totallyTimeSpent" value="401713000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -630,10 +547,11 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.62255967" visible="true" weight="0.17750533" />
-      <window_info active="true" id="Structure" order="1" sideWeight="0.37744033" side_tool="true" visible="true" weight="0.17750533" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.61639345" visible="true" weight="0.3206687" />
+      <window_info active="true" id="Structure" order="1" sideWeight="0.38360655" side_tool="true" visible="true" weight="0.3206687" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -641,7 +559,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3295082" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.5043384" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.5032538" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39836067" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -675,219 +593,230 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/工具类/countdownlatch_闭锁/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/java设计模式/工厂方法设计模式/静态方法工厂模式/SendFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="888">
-          <caret line="37" column="23" selection-start-line="37" selection-start-column="23" selection-end-line="37" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/工具类/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/java设计模式/适配器模式/对象的适配器模式/Wrapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="21" column="25" lean-forward="true" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
+        <state relative-caret-position="336">
+          <caret line="16" lean-forward="true" selection-start-line="5" selection-end-line="16" />
           <folding>
-            <element signature="e#459#460#0" expanded="true" />
-            <element signature="e#491#492#0" expanded="true" />
+            <element signature="e#212#213#0" expanded="true" />
+            <element signature="e#251#252#0" expanded="true" />
+            <element signature="e#291#292#0" expanded="true" />
+            <element signature="e#329#330#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/java设计模式/适配器模式/类d的适配器模式/Targetable.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/java设计模式/工厂方法设计模式/多个工厂方法模式/SendFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        <state relative-caret-position="96">
+          <caret line="6" selection-start-line="6" selection-end-line="15" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/java设计模式/适配器模式/Source.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/java设计模式/工厂方法设计模式/Abstract_Factory_抽象工厂方法模式/Provider.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        <state relative-caret-position="96">
+          <caret line="4" selection-start-line="4" selection-end-line="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/java设计模式/适配器模式/类d的适配器模式/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/java设计模式/工厂方法设计模式/Abstract_Factory_抽象工厂方法模式/SendMailFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="5" selection-start-line="5" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/java设计模式/工厂方法设计模式/Abstract_Factory_抽象工厂方法模式/SendSmsFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" selection-start-line="4" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/java设计模式/创建复杂对象之建造者模式/ConcreateBuilder2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/java设计模式/适配器模式/类d的适配器模式/Adapter.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/java设计模式/创建复杂对象之建造者模式/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="288">
+          <caret line="12" column="31" lean-forward="true" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/io/Reader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="50" column="22" selection-start-line="50" selection-start-column="22" selection-end-line="50" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/io/InputStreamReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1080">
-          <caret line="70" column="11" selection-start-line="70" selection-start-column="11" selection-end-line="70" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/java设计模式/装饰模式/Source.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-          <folding>
-            <element signature="e#109#110#0" expanded="true" />
-            <element signature="e#167#168#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/java设计模式/装饰模式/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/io/BufferedInputStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="50" column="39" selection-start-line="50" selection-start-column="34" selection-end-line="50" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/io/FilterInputStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="45" column="39" selection-start-line="45" selection-start-column="39" selection-end-line="45" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/java设计模式/模板方法模式/AbstractCalculator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="552">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/java设计模式/模板方法模式/Plus.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/java设计模式/模板方法模式/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/高并发第二阶段/流水线设计模式/RequestQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1176">
-          <caret line="51" column="9" selection-start-line="51" selection-start-column="9" selection-end-line="51" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/java设计模式/迭代器模式/Collection.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/java设计模式/创建复杂对象之建造者模式/ConcreateBuilder1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
-          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+          <caret line="2" selection-start-line="2" selection-end-line="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/java设计模式/迭代器模式/MyCollection.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/java设计模式/创建复杂对象之建造者模式/Director.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-          <folding>
-            <element signature="e#173#174#0" expanded="true" />
-            <element signature="e#216#217#0" expanded="true" />
-            <element signature="e#262#263#0" expanded="true" />
-            <element signature="e#294#295#0" expanded="true" />
-            <element signature="e#333#334#0" expanded="true" />
-            <element signature="e#369#370#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="48">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="13" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/java设计模式/迭代器模式/MyIterator.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/java设计模式/创建复杂对象之建造者模式/Product.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="984">
-          <caret line="43" selection-start-line="43" selection-end-line="43" />
-          <folding>
-            <element signature="e#178#179#0" expanded="true" />
-            <element signature="e#222#223#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="384">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/java设计模式/迭代器模式/Iterator.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/lang/StringBuffer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+        <state relative-caret-position="-6936">
+          <caret line="97" column="33" selection-start-line="97" selection-start-column="12" selection-end-line="97" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/java设计模式/迭代器模式/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/java设计模式/创建复杂对象之建造者模式/Builder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="48">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/io/FileInputStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="48" column="37" lean-forward="true" selection-start-line="48" selection-start-column="37" selection-end-line="48" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/io/InputStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1726">
-          <caret line="160" column="15" selection-start-line="160" selection-start-column="15" selection-end-line="160" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/java设计模式/装饰模式/Sourceable.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/java设计模式/策略模式/ICalculator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
           <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/java设计模式/装饰模式/Decorator.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/java设计模式/策略模式/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="168">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/java设计模式/策略模式/AbstractCalculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/java设计模式/策略模式/Minus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/java设计模式/策略模式/Multiply.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/java设计模式/策略模式/Plus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/lang/Runnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="55" column="17" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/高并发第二阶段/观察者设计模式/线程观察者模式/LifeCycleListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/高并发第二阶段/观察者设计模式/线程观察者模式/ObservableRunnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="e#393#394#0" expanded="true" />
+            <element signature="e#441#442#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/高并发第二阶段/观察者设计模式/线程观察者模式/ThreadLifeCycleObserver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/高并发第二阶段/观察者设计模式/线程观察者模式/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="704">
+          <caret line="42" column="5" lean-forward="true" selection-start-line="18" selection-start-column="4" selection-end-line="42" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/高并发第二阶段/观察者设计模式/Observer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/高并发第二阶段/观察者设计模式/Subject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="33" selection-start-line="1" selection-end-line="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/高并发第二阶段/观察者设计模式/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/java设计模式/模板方法模式/AbstractCalculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/java设计模式/责任链模式/MyHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" selection-start-line="3" selection-end-line="18" selection-end-column="1" />
+          <folding>
+            <element signature="e#155#156#0" expanded="true" />
+            <element signature="e#187#188#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/java设计模式/责任链模式/Handler.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <caret line="2" selection-start-line="2" selection-end-line="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/java设计模式/责任链模式/AbstractHandler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="48">
+          <caret line="2" selection-start-line="2" selection-end-line="14" selection-end-column="1" />
           <folding>
             <element signature="e#128#129#0" expanded="true" />
             <element signature="e#158#159#0" expanded="true" />
@@ -897,214 +826,177 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/java设计模式/责任链模式/MyHandler.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/高并发第二阶段/观察者设计模式/OctalObserver.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+        <state relative-caret-position="48">
+          <caret line="2" selection-start-line="2" selection-end-line="12" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/高并发第二阶段/观察者设计模式/BinaryObserver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" selection-start-line="2" selection-end-line="13" />
+          <folding>
+            <element signature="e#189#190#0" expanded="true" />
+            <element signature="e#284#285#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/java设计模式/命令模式/Receiver.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/java设计模式/命令模式/MyCommand.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/java设计模式/命令模式/Command.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/java设计模式/责任链模式/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="240">
+          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/java设计模式/命令模式/Command.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/java设计模式/命令模式/项目组分为三个功能组/Group.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="1" selection-start-line="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/java设计模式/命令模式/项目组分为三个功能组/RequirementGroup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="e#147#148#0" expanded="true" />
+            <element signature="e#198#199#0" expanded="true" />
+            <element signature="e#240#241#0" expanded="true" />
+            <element signature="e#291#292#0" expanded="true" />
+            <element signature="e#333#334#0" expanded="true" />
+            <element signature="e#384#385#0" expanded="true" />
+            <element signature="e#424#425#0" expanded="true" />
+            <element signature="e#470#471#0" expanded="true" />
+            <element signature="e#510#511#0" expanded="true" />
+            <element signature="e#563#564#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/java设计模式/命令模式/项目组分为三个功能组/PageGroup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/java设计模式/命令模式/项目组分为三个功能组/CodeGroup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#140#141#0" expanded="true" />
+            <element signature="e#191#192#0" expanded="true" />
+            <element signature="e#233#234#0" expanded="true" />
+            <element signature="e#284#285#0" expanded="true" />
+            <element signature="e#326#327#0" expanded="true" />
+            <element signature="e#377#378#0" expanded="true" />
+            <element signature="e#417#418#0" expanded="true" />
+            <element signature="e#463#464#0" expanded="true" />
+            <element signature="e#503#504#0" expanded="true" />
+            <element signature="e#556#557#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/java设计模式/命令模式/命令接口/Command.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
-          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/java设计模式/命令模式/MyCommand.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <caret line="6" selection-start-line="6" selection-end-line="15" selection-end-column="1" />
           <folding>
-            <element signature="e#142#143#0" expanded="true" />
-            <element signature="e#182#183#0" expanded="true" />
-            <element signature="e#221#222#0" expanded="true" />
-            <element signature="e#254#255#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/java设计模式/命令模式/Receiver.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/java设计模式/命令模式/命令接口/AddRequirementCommand.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="e#72#73#0" expanded="true" />
-            <element signature="e#127#128#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/java设计模式/命令模式/Invoker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-          <folding>
-            <element signature="e#114#115#0" expanded="true" />
-            <element signature="e#152#153#0" expanded="true" />
-            <element signature="e#179#180#0" expanded="true" />
-            <element signature="e#208#209#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="48">
+          <caret line="2" selection-start-line="2" selection-end-line="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/java设计模式/命令模式/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/jre/lib/rt.jar!/sun/misc/Unsafe.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="449">
-          <caret line="382" column="5" lean-forward="true" selection-start-line="375" selection-start-column="4" selection-end-line="382" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/util/concurrent/atomic/AtomicInteger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="586">
-          <caret line="133" column="5" lean-forward="true" selection-start-line="131" selection-start-column="2" selection-end-line="133" selection-end-column="5" />
-          <folding>
-            <element signature="e#2671#2672#0" expanded="true" />
-            <element signature="e#2742#2743#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/高并发第三阶段/AtomicStampedReference/AtomicStampedReference___Integer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="11" column="31" lean-forward="true" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/高并发第三阶段/Aotmic/AtomicIntegerTest1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="6" column="40" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/高并发第三阶段/Aotmic/CAS创建一个Lock/CompareAndSetlock.java">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
-          <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/util/concurrent/locks/ReentrantReadWriteLock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="251" column="54" selection-start-line="251" selection-start-column="54" selection-end-line="251" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/AbstractQueuedSynchronizer.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="276" column="2" selection-end-line="2315" />
+          <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#11804#21933#0" />
-            <element signature="e#20991#20992#0" expanded="true" />
-            <element signature="e#21042#21043#0" expanded="true" />
-            <element signature="e#44444#44445#0" expanded="true" />
-            <element signature="e#44501#44502#0" expanded="true" />
-            <element signature="e#45599#45600#0" expanded="true" />
-            <element signature="e#45656#45657#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/高并发第一阶段/JUC_Lock_三个线程依次调用Condition/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/java设计模式/命令模式/命令接口/DeletePageCommand.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="554">
-          <caret line="121" column="32" selection-start-line="121" selection-start-column="32" selection-end-line="121" selection-end-column="32" />
+        <state relative-caret-position="240">
+          <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/工具类/CyclicBarrier/reset的使用.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/java设计模式/命令模式/Invoker.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="584">
-          <caret line="56" column="25" selection-start-line="56" selection-start-column="25" selection-end-line="56" selection-end-column="25" />
+        <state relative-caret-position="264">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#193#194#0" expanded="true" />
+            <element signature="e#231#232#0" expanded="true" />
+            <element signature="e#259#260#0" expanded="true" />
+            <element signature="e#297#298#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/高并发第二阶段/CountDownLatch/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/AQS/AbstractQueuedSynchronizer_new.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="254" column="3" selection-start-line="254" selection-start-column="3" selection-end-line="254" selection-end-column="3" />
+        <state>
           <folding>
             <element signature="e#0#78863#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/工具类/CyclicBarrier/理解屏障线程的意义.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/工具类/CyclicBarrier/CyclicBarrier1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/工具类/CyclicBarrier/应用_归并的计算方式.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/util/concurrent/locks/ReentrantLock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="554">
-          <caret line="215" selection-start-line="215" selection-end-line="215" />
-          <folding>
-            <element signature="e#9117#9118#0" expanded="true" />
-            <element signature="e#9144#9145#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="168">
+          <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/util/concurrent/CyclicBarrier.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="536">
-          <caret line="447" column="16" selection-start-line="447" selection-start-column="13" selection-end-line="447" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#9581#9582#0" expanded="true" />
-            <element signature="e#9616#9617#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="362">
+          <caret line="178" column="25" selection-start-line="178" selection-start-column="25" selection-end-line="178" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/高并发第二阶段/CountDownLatch/CountDownDIY.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/util/concurrent/CountDownLatch.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2560">
-          <caret line="174" selection-start-line="174" selection-end-line="174" />
+        <state relative-caret-position="-192">
+          <caret line="178" column="35" lean-forward="true" selection-start-line="178" selection-start-column="35" selection-end-line="178" selection-end-column="35" />
           <folding>
-            <element signature="e#5229#5230#0" expanded="true" />
-            <element signature="e#5268#5269#0" expanded="true" />
-            <element signature="e#5294#5295#0" expanded="true" />
-            <element signature="e#5335#5336#0" expanded="true" />
-            <element signature="e#5391#5392#0" expanded="true" />
-            <element signature="e#5448#5449#0" expanded="true" />
-            <element signature="e#9899#9900#0" expanded="true" />
-            <element signature="e#9936#9937#0" expanded="true" />
+            <element signature="e#10139#10140#0" expanded="true" />
+            <element signature="e#10177#10178#0" expanded="true" />
           </folding>
         </state>
       </provider>

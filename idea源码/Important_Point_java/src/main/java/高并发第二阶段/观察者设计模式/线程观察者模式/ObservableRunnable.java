@@ -1,9 +1,10 @@
 package 高并发第二阶段.观察者设计模式.线程观察者模式;
 
 
-/**
- * 对 Runnable 接口的扩充，
- */
+//todo 对Runnable 接口的扩充
+// 扩充了甚麽呢？
+//  1. Runnable 在运行过程中的运行时可能发生的事件；
+
 
 public abstract class ObservableRunnable implements Runnable {
 
@@ -17,14 +18,11 @@ public abstract class ObservableRunnable implements Runnable {
     //通知我的状态已经改变；
     protected void notifyChange(final RunnableEvent event){
         lifeCycleListener.onEvent(event);
-
     }
 
 
 
-    /**
-     * 下面 线程运行过程中，发生改变的话对这个事件的诠释；
-     */
+   //todo
     public enum     RunnableState{
         RUNNING,ERROR,DONE
     }
@@ -51,11 +49,7 @@ public abstract class ObservableRunnable implements Runnable {
             return throwable;
         }
 
-        public void setThrowable(Throwable throwable) {
-            this.throwable = throwable;
-        }
+
     }
-
-
 
 }

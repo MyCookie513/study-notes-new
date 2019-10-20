@@ -5,9 +5,6 @@ import java设计模式.工厂方法设计模式.Sender;
 import java设计模式.工厂方法设计模式.SmsSender;
 
 public class SendFactory {
-
-
-
     public static Sender produceMail(){
         return new MailSender();
     }

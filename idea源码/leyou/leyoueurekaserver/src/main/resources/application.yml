@@ -2,10 +2,14 @@ server:
   port: 10087
 spring:
   application:
-    name: LeyouEurekaServer
+    name: Leyou-Eureka-Server
 eureka:
   client:
     service-url:
       defaultZone: http://127.0.0.1:10086/eureka
   server:
-    enable-self-preservation: false
+      enable-self-preservation: false     #关闭自我保护机制；
+      eviction-interval-timer-in-ms: 1000 # 扫描失效服务的间隔时间（缺省为60*1000ms）
+  instance:
+    lease-expiration-duration-in-seconds: 10  #失联时间
+    lease-renewal-interval-in-seconds: 5      #间断联系时间

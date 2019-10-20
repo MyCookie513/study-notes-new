@@ -4,7 +4,6 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Product {
-
     List parts = new ArrayList();
 
     public void add(String part){
@@ -17,5 +16,4 @@ public class Product {
             System.out.println(part);
         }
     }
-
 }

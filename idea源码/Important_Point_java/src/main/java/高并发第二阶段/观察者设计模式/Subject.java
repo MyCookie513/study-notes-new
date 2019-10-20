@@ -5,6 +5,7 @@ import java.util.List;
 
 public class Subject {
 
+    // todo 中心处 维护着自己的 一个粉丝 队列；
     private List<Observer> observers =new ArrayList<>();
     private int state;
 
@@ -25,11 +26,8 @@ public class Subject {
     }
 
     private void notifyAllObserver(){
-
         observers.stream().forEach(Observer::update);
     }
-
-
 
 
 }

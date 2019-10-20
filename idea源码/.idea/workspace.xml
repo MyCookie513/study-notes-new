@@ -2,10 +2,79 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf93c125-36bd-4056-90b3-e2d82da53cf0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Spring_Cloud_Demo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Spring_Cloud_Demo/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Important_Point_java/src/main/java/java设计模式/命令模式/命令接口/AddRequirementCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Important_Point_java/src/main/java/java设计模式/命令模式/命令接口/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Important_Point_java/src/main/java/java设计模式/命令模式/命令接口/DeletePageCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Important_Point_java/src/main/java/java设计模式/命令模式/项目组分为三个功能组/CodeGroup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Important_Point_java/src/main/java/java设计模式/命令模式/项目组分为三个功能组/Group.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Important_Point_java/src/main/java/java设计模式/命令模式/项目组分为三个功能组/PageGroup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Important_Point_java/src/main/java/java设计模式/命令模式/项目组分为三个功能组/RequirementGroup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Important_Point_java/src/main/java/java设计模式/装饰模式/hh.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpmall-master/.idea/gpmall-master.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpmall-master/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpmall-master/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpmall-master/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpmall-master/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构及算法强化/src/Leetcode/模拟/二test/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构及算法强化/src/总结一/递归_拆分/识别布尔表达式/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Study Notes/java/JAVA的设计模式.doc" beforeDir="false" afterPath="$PROJECT_DIR$/../Study Notes/java/JAVA的设计模式.doc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Study Notes/商城项目Component/搜索引擎_ElasticSearch/ElasticSearch原理.doc" beforeDir="false" afterPath="$PROJECT_DIR$/../Study Notes/商城项目Component/搜索引擎_ElasticSearch/ElasticSearch原理.doc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Important_Point_java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Important_Point_java/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Important_Point_java/src/main/java/java设计模式/创建复杂对象之建造者模式/Builder.java" beforeDir="false" afterPath="$PROJECT_DIR$/Important_Point_java/src/main/java/java设计模式/创建复杂对象之建造者模式/Builder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Important_Point_java/src/main/java/java设计模式/创建复杂对象之建造者模式/Director.java" beforeDir="false" afterPath="$PROJECT_DIR$/Important_Point_java/src/main/java/java设计模式/创建复杂对象之建造者模式/Director.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Important_Point_java/src/main/java/java设计模式/创建复杂对象之建造者模式/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Important_Point_java/src/main/java/java设计模式/创建复杂对象之建造者模式/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Important_Point_java/src/main/java/java设计模式/创建复杂对象之建造者模式/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/Important_Point_java/src/main/java/java设计模式/创建复杂对象之建造者模式/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Important_Point_java/src/main/java/java设计模式/命令模式/Command.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Important_Point_java/src/main/java/java设计模式/命令模式/Invoker.java" beforeDir="false" afterPath="$PROJECT_DIR$/Important_Point_java/src/main/java/java设计模式/命令模式/Invoker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Important_Point_java/src/main/java/java设计模式/命令模式/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Important_Point_java/src/main/java/java设计模式/命令模式/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Important_Point_java/src/main/java/java设计模式/命令模式/MyCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Important_Point_java/src/main/java/java设计模式/命令模式/Receiver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Important_Point_java/src/main/java/java设计模式/工厂方法设计模式/静态方法工厂模式/SendFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/Important_Point_java/src/main/java/java设计模式/工厂方法设计模式/静态方法工厂模式/SendFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Important_Point_java/src/main/java/java设计模式/装饰模式/Decorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/Important_Point_java/src/main/java/java设计模式/装饰模式/Decorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Important_Point_java/src/main/java/java设计模式/装饰模式/Source.java" beforeDir="false" afterPath="$PROJECT_DIR$/Important_Point_java/src/main/java/java设计模式/装饰模式/Source.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Important_Point_java/src/main/java/java设计模式/装饰模式/Sourceable.java" beforeDir="false" afterPath="$PROJECT_DIR$/Important_Point_java/src/main/java/java设计模式/装饰模式/Sourceable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Important_Point_java/src/main/java/高并发第二阶段/Singleton/SingletonObject1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Important_Point_java/src/main/java/高并发第二阶段/Singleton/SingletonObject1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Important_Point_java/src/main/java/高并发第二阶段/Singleton/SingletonObject2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Important_Point_java/src/main/java/高并发第二阶段/Singleton/SingletonObject2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Important_Point_java/src/main/java/高并发第二阶段/Singleton/SingletonObject3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Important_Point_java/src/main/java/高并发第二阶段/Singleton/SingletonObject3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Important_Point_java/src/main/java/高并发第二阶段/Singleton/SingletonObject6.java" beforeDir="false" afterPath="$PROJECT_DIR$/Important_Point_java/src/main/java/高并发第二阶段/Singleton/SingletonObject6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Important_Point_java/src/main/java/高并发第二阶段/Singleton/SingletonObject8.java" beforeDir="false" afterPath="$PROJECT_DIR$/Important_Point_java/src/main/java/高并发第二阶段/Singleton/SingletonObject8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Important_Point_java/src/main/java/高并发第二阶段/Singleton/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/Important_Point_java/src/main/java/高并发第二阶段/Singleton/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Important_Point_java/src/main/java/高并发第二阶段/观察者设计模式/BinaryObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/Important_Point_java/src/main/java/高并发第二阶段/观察者设计模式/BinaryObserver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Important_Point_java/src/main/java/高并发第二阶段/观察者设计模式/Observer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Important_Point_java/src/main/java/高并发第二阶段/观察者设计模式/Observer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Important_Point_java/src/main/java/高并发第二阶段/观察者设计模式/Subject.java" beforeDir="false" afterPath="$PROJECT_DIR$/Important_Point_java/src/main/java/高并发第二阶段/观察者设计模式/Subject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Important_Point_java/src/main/java/高并发第二阶段/观察者设计模式/线程观察者模式/LifeCycleListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/Important_Point_java/src/main/java/高并发第二阶段/观察者设计模式/线程观察者模式/LifeCycleListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Important_Point_java/src/main/java/高并发第二阶段/观察者设计模式/线程观察者模式/ObservableRunnable.java" beforeDir="false" afterPath="$PROJECT_DIR$/Important_Point_java/src/main/java/高并发第二阶段/观察者设计模式/线程观察者模式/ObservableRunnable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Important_Point_java/src/main/java/高并发第二阶段/观察者设计模式/线程观察者模式/ThreadLifeCycleObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/Important_Point_java/src/main/java/高并发第二阶段/观察者设计模式/线程观察者模式/ThreadLifeCycleObserver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Important_Point_java/target/classes/java设计模式/创建复杂对象之建造者模式/Director.class" beforeDir="false" afterPath="$PROJECT_DIR$/Important_Point_java/target/classes/java设计模式/创建复杂对象之建造者模式/Director.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Important_Point_java/target/classes/java设计模式/创建复杂对象之建造者模式/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Important_Point_java/target/classes/java设计模式/创建复杂对象之建造者模式/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Important_Point_java/target/classes/java设计模式/创建复杂对象之建造者模式/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/Important_Point_java/target/classes/java设计模式/创建复杂对象之建造者模式/Product.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Important_Point_java/target/classes/java设计模式/工厂方法设计模式/静态方法工厂模式/SendFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/Important_Point_java/target/classes/java设计模式/工厂方法设计模式/静态方法工厂模式/SendFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Important_Point_java/target/classes/java设计模式/装饰模式/Source.class" beforeDir="false" afterPath="$PROJECT_DIR$/Important_Point_java/target/classes/java设计模式/装饰模式/Source.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Important_Point_java/target/classes/工具类/CyclicBarrier/理解屏障线程的意义.class" beforeDir="false" afterPath="$PROJECT_DIR$/Important_Point_java/target/classes/工具类/CyclicBarrier/理解屏障线程的意义.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Important_Point_java/target/classes/高并发第二阶段/Singleton/SingletonObject2.class" beforeDir="false" afterPath="$PROJECT_DIR$/Important_Point_java/target/classes/高并发第二阶段/Singleton/SingletonObject2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Important_Point_java/target/classes/高并发第二阶段/Singleton/SingletonObject3.class" beforeDir="false" afterPath="$PROJECT_DIR$/Important_Point_java/target/classes/高并发第二阶段/Singleton/SingletonObject3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Important_Point_java/target/classes/高并发第二阶段/Singleton/SingletonObject6$InstanceHolder.class" beforeDir="false" afterPath="$PROJECT_DIR$/Important_Point_java/target/classes/高并发第二阶段/Singleton/SingletonObject6$InstanceHolder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Important_Point_java/target/classes/高并发第二阶段/Singleton/SingletonObject6.class" beforeDir="false" afterPath="$PROJECT_DIR$/Important_Point_java/target/classes/高并发第二阶段/Singleton/SingletonObject6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Important_Point_java/target/classes/高并发第二阶段/Singleton/SingletonObject8$Singleton.class" beforeDir="false" afterPath="$PROJECT_DIR$/Important_Point_java/target/classes/高并发第二阶段/Singleton/SingletonObject8$Singleton.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Important_Point_java/target/classes/高并发第二阶段/Singleton/SingletonObject8.class" beforeDir="false" afterPath="$PROJECT_DIR$/Important_Point_java/target/classes/高并发第二阶段/Singleton/SingletonObject8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Important_Point_java/target/classes/高并发第二阶段/Singleton/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/Important_Point_java/target/classes/高并发第二阶段/Singleton/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Important_Point_java/target/classes/高并发第二阶段/观察者设计模式/BinaryObserver.class" beforeDir="false" afterPath="$PROJECT_DIR$/Important_Point_java/target/classes/高并发第二阶段/观察者设计模式/BinaryObserver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Important_Point_java/target/classes/高并发第二阶段/观察者设计模式/Observer.class" beforeDir="false" afterPath="$PROJECT_DIR$/Important_Point_java/target/classes/高并发第二阶段/观察者设计模式/Observer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Important_Point_java/target/classes/高并发第二阶段/观察者设计模式/Subject.class" beforeDir="false" afterPath="$PROJECT_DIR$/Important_Point_java/target/classes/高并发第二阶段/观察者设计模式/Subject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Important_Point_java/target/classes/高并发第二阶段/观察者设计模式/线程观察者模式/ObservableRunnable$RunnableEvent.class" beforeDir="false" afterPath="$PROJECT_DIR$/Important_Point_java/target/classes/高并发第二阶段/观察者设计模式/线程观察者模式/ObservableRunnable$RunnableEvent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Important_Point_java/target/classes/高并发第二阶段/观察者设计模式/线程观察者模式/ObservableRunnable$RunnableState.class" beforeDir="false" afterPath="$PROJECT_DIR$/Important_Point_java/target/classes/高并发第二阶段/观察者设计模式/线程观察者模式/ObservableRunnable$RunnableState.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Important_Point_java/target/classes/高并发第二阶段/观察者设计模式/线程观察者模式/ObservableRunnable.class" beforeDir="false" afterPath="$PROJECT_DIR$/Important_Point_java/target/classes/高并发第二阶段/观察者设计模式/线程观察者模式/ObservableRunnable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Important_Point_java/target/classes/高并发第二阶段/观察者设计模式/线程观察者模式/ThreadLifeCycleObserver.class" beforeDir="false" afterPath="$PROJECT_DIR$/Important_Point_java/target/classes/高并发第二阶段/观察者设计模式/线程观察者模式/ThreadLifeCycleObserver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaEcharts-master/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaEcharts-master/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaEcharts-master/JavaEcharts-master/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaEcharts-master/JavaEcharts-master/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leyou/ly-common/src/main/java/com/jason/Utills/JsonUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/leyou/ly-common/src/main/java/com/jason/Utills/JsonUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leyou/ly-common/src/main/java/com/jason/Utills/NumberUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/leyou/ly-common/src/main/java/com/jason/Utills/NumberUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssm_web.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssm_web/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ssm_web/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/数据结构及算法强化/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/数据结构及算法强化/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/数据结构及算法强化/out/production/数据结构及算法强化/KMP/Kmp.class" beforeDir="false" afterPath="$PROJECT_DIR$/数据结构及算法强化/out/production/数据结构及算法强化/KMP/Kmp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/数据结构及算法强化/src/KMP/kmp.java" beforeDir="false" afterPath="$PROJECT_DIR$/数据结构及算法强化/src/KMP/kmp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据结构及算法强化/src/排序/冒泡排序.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/数据结构及算法强化/src/排序/基数排序.java" beforeDir="false" afterPath="$PROJECT_DIR$/数据结构及算法强化/src/排序/基数排序.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../新建文本文档.txt" beforeDir="false" />
     </list>
@@ -16,8 +85,111 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springBootdemo/src/main/java/com/jason/Config/jdbcConfig3最优雅的方式注入.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="312">
+              <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springBootdemo/src/main/java/com/jason/Config/jdbcConfig2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="504">
+              <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springBootdemo/src/main/java/com/jason/interceptor/MyInterceptor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="384">
+              <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springBootdemo/src/main/java/com/jason/pojo/User.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springBootdemo/src/main/java/com/jason/Web/HelloControler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springBootdemo/src/main/resources/application.yaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="384">
+              <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/springBootdemo/src/test/java/com/jason/mapper/userMapperTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springBootdemo/src/main/java/com/jason/Web/UserController.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springBootdemo/src/main/java/com/jason/Config/jdbcProperties.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springBootdemo/src/main/java/com/jason/Config/yaml_Inject.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="8" column="24" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/springBootdemo/src/main/resources/application.yaml" />
+      </list>
+    </option>
   </component>
   <component name="ProjectConfigurationFiles">
     <option name="files">
@@ -27,8 +199,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="10" />
-    <option name="y" value="20" />
+    <option name="x" value="398" />
+    <option name="y" value="54" />
     <option name="width" value="1340" />
     <option name="height" value="688" />
   </component>
@@ -38,7 +210,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -79,12 +250,119 @@
               <item name="springBootdemo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="idea源码" type="462c0819:PsiDirectoryNode" />
+              <item name="springBootdemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="jason" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="idea源码" type="462c0819:PsiDirectoryNode" />
+              <item name="springBootdemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="jason" type="462c0819:PsiDirectoryNode" />
+              <item name="pojo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="idea源码" type="462c0819:PsiDirectoryNode" />
+              <item name="springBootdemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="jason" type="462c0819:PsiDirectoryNode" />
+              <item name="Service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="idea源码" type="462c0819:PsiDirectoryNode" />
+              <item name="springBootdemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="jason" type="462c0819:PsiDirectoryNode" />
+              <item name="Web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="idea源码" type="462c0819:PsiDirectoryNode" />
+              <item name="springBootdemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="idea源码" type="462c0819:PsiDirectoryNode" />
+              <item name="springBootdemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="idea源码" type="462c0819:PsiDirectoryNode" />
+              <item name="springBootdemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="idea源码" type="462c0819:PsiDirectoryNode" />
+              <item name="springBootdemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="idea源码" type="462c0819:PsiDirectoryNode" />
+              <item name="springBootdemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="idea源码" type="462c0819:PsiDirectoryNode" />
+              <item name="springBootdemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="jason" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="idea源码" type="462c0819:PsiDirectoryNode" />
+              <item name="springBootdemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="jason" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -121,16 +399,18 @@
       <updated>1563980642665</updated>
       <workItem from="1563980649091" duration="128000" />
       <workItem from="1564990044159" duration="57000" />
+      <workItem from="1570529371584" duration="1778000" />
+      <workItem from="1570595999666" duration="2469000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="185000" />
+    <option name="totallyTimeSpent" value="4432000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25379938" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26139817" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -162,6 +442,86 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/springBootdemo/src/main/java/com/jason/Config/MvcConfig.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springBootdemo/src/main/java/com/jason/Config/jdbcConfig.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springBootdemo/src/main/java/com/jason/Config/jdbcConfig3最优雅的方式注入.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springBootdemo/src/main/java/com/jason/Config/jdbcConfig2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springBootdemo/src/main/java/com/jason/interceptor/MyInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springBootdemo/src/main/java/com/jason/pojo/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springBootdemo/src/main/java/com/jason/Web/HelloControler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springBootdemo/src/main/java/com/jason/Web/UserController.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springBootdemo/src/main/java/com/jason/Config/jdbcProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springBootdemo/src/main/java/com/jason/Config/yaml_Inject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springBootdemo/src/main/resources/application.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springBootdemo/src/test/java/com/jason/mapper/userMapperTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
