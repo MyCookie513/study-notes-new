@@ -24,9 +24,9 @@ hystrix: #熔断超时机制超时设定
           thread:
             timeoutInMilliseconds: 10000
   circuitBreaker:
-    sleepWindowInMilliseconds: 20
-    requestVolumeThreshold: 5
-    errorThresholdPercentage: 10
+    sleepWindowInMilliseconds: 20 #短路多久后进行尝试连接
+    requestVolumeThreshold: 3 #请求失败阈值
+    errorThresholdPercentage: 10 #请求失败的百分比为多少时开始熔断；
 
 #路由配置： 转发配置
 zuul:

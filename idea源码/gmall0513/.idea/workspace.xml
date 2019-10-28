@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="591b5f85-3e19-4b32-87d7-98106693ded8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java设计模式/命令模式/命令接口/AddRequirementCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java设计模式/命令模式/命令接口/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java设计模式/命令模式/命令接口/DeletePageCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java设计模式/命令模式/项目组分为三个功能组/CodeGroup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java设计模式/命令模式/项目组分为三个功能组/Group.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java设计模式/命令模式/项目组分为三个功能组/PageGroup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java设计模式/命令模式/项目组分为三个功能组/RequirementGroup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java设计模式/装饰模式/hh.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gmall0513.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gpmall-master/.idea/gpmall-master.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gpmall-master/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gpmall-master/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gpmall-master/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gpmall-master/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../数据结构及算法强化/src/Leetcode/模拟/二test/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../数据结构及算法强化/src/总结一/递归_拆分/识别布尔表达式/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Study Notes/java/JAVA的设计模式.doc" beforeDir="false" afterPath="$PROJECT_DIR$/../../Study Notes/java/JAVA的设计模式.doc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Study Notes/商城项目Component/Not only sql redis/redis.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Study Notes/商城项目Component/Not only sql redis/redis的哨兵机制.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Study Notes/商城项目Component/Not only sql redis/redis集群的原理.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Study Notes/商城项目Component/搜索引擎_ElasticSearch/ElasticSearch原理.doc" beforeDir="false" afterPath="$PROJECT_DIR$/../../Study Notes/商城项目Component/搜索引擎_ElasticSearch/ElasticSearch原理.doc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Important_Point_java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Important_Point_java/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java设计模式/创建复杂对象之建造者模式/Builder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java设计模式/创建复杂对象之建造者模式/Builder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java设计模式/创建复杂对象之建造者模式/Director.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java设计模式/创建复杂对象之建造者模式/Director.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java设计模式/创建复杂对象之建造者模式/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java设计模式/创建复杂对象之建造者模式/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java设计模式/创建复杂对象之建造者模式/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java设计模式/创建复杂对象之建造者模式/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java设计模式/命令模式/Command.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java设计模式/命令模式/Invoker.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java设计模式/命令模式/Invoker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java设计模式/命令模式/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java设计模式/命令模式/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java设计模式/命令模式/MyCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java设计模式/命令模式/Receiver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java设计模式/工厂方法设计模式/静态方法工厂模式/SendFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java设计模式/工厂方法设计模式/静态方法工厂模式/SendFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java设计模式/装饰模式/Decorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java设计模式/装饰模式/Decorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java设计模式/装饰模式/Source.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java设计模式/装饰模式/Source.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java设计模式/装饰模式/Sourceable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/java设计模式/装饰模式/Sourceable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/Singleton/SingletonObject1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/Singleton/SingletonObject1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/Singleton/SingletonObject2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/Singleton/SingletonObject2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/Singleton/SingletonObject3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/Singleton/SingletonObject3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/Singleton/SingletonObject6.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/Singleton/SingletonObject6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/Singleton/SingletonObject8.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/Singleton/SingletonObject8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/Singleton/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/Singleton/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/观察者设计模式/BinaryObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/观察者设计模式/BinaryObserver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/观察者设计模式/Observer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/观察者设计模式/Observer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/观察者设计模式/Subject.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/观察者设计模式/Subject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/观察者设计模式/线程观察者模式/LifeCycleListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/观察者设计模式/线程观察者模式/LifeCycleListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/观察者设计模式/线程观察者模式/ObservableRunnable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/观察者设计模式/线程观察者模式/ObservableRunnable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/观察者设计模式/线程观察者模式/ThreadLifeCycleObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/观察者设计模式/线程观察者模式/ThreadLifeCycleObserver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Important_Point_java/target/classes/java设计模式/创建复杂对象之建造者模式/Director.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/java设计模式/创建复杂对象之建造者模式/Director.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Important_Point_java/target/classes/java设计模式/创建复杂对象之建造者模式/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/java设计模式/创建复杂对象之建造者模式/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Important_Point_java/target/classes/java设计模式/创建复杂对象之建造者模式/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/java设计模式/创建复杂对象之建造者模式/Product.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Important_Point_java/target/classes/java设计模式/工厂方法设计模式/静态方法工厂模式/SendFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/java设计模式/工厂方法设计模式/静态方法工厂模式/SendFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Important_Point_java/target/classes/java设计模式/装饰模式/Source.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/java设计模式/装饰模式/Source.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Important_Point_java/target/classes/工具类/CyclicBarrier/理解屏障线程的意义.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/工具类/CyclicBarrier/理解屏障线程的意义.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第二阶段/Singleton/SingletonObject2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第二阶段/Singleton/SingletonObject2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第二阶段/Singleton/SingletonObject3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第二阶段/Singleton/SingletonObject3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第二阶段/Singleton/SingletonObject6$InstanceHolder.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第二阶段/Singleton/SingletonObject6$InstanceHolder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第二阶段/Singleton/SingletonObject6.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第二阶段/Singleton/SingletonObject6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第二阶段/Singleton/SingletonObject8$Singleton.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第二阶段/Singleton/SingletonObject8$Singleton.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第二阶段/Singleton/SingletonObject8.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第二阶段/Singleton/SingletonObject8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第二阶段/Singleton/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第二阶段/Singleton/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第二阶段/观察者设计模式/BinaryObserver.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第二阶段/观察者设计模式/BinaryObserver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第二阶段/观察者设计模式/Observer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第二阶段/观察者设计模式/Observer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第二阶段/观察者设计模式/Subject.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第二阶段/观察者设计模式/Subject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第二阶段/观察者设计模式/线程观察者模式/ObservableRunnable$RunnableEvent.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第二阶段/观察者设计模式/线程观察者模式/ObservableRunnable$RunnableEvent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第二阶段/观察者设计模式/线程观察者模式/ObservableRunnable$RunnableState.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第二阶段/观察者设计模式/线程观察者模式/ObservableRunnable$RunnableState.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第二阶段/观察者设计模式/线程观察者模式/ObservableRunnable.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第二阶段/观察者设计模式/线程观察者模式/ObservableRunnable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第二阶段/观察者设计模式/线程观察者模式/ThreadLifeCycleObserver.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第二阶段/观察者设计模式/线程观察者模式/ThreadLifeCycleObserver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEcharts-master/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaEcharts-master/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEcharts-master/JavaEcharts-master/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaEcharts-master/JavaEcharts-master/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leyou-master/ly-api-gateway/src/main/java/com/leyou/gateway/filter/LoginFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leyou-master/ly-api-gateway/src/main/java/com/leyou/gateway/filter/LoginFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leyou-master/ly-item/ly-item-interface/src/main/java/com/leyou/item/pojo/SpecParam.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leyou-master/ly-item/ly-item-interface/src/main/java/com/leyou/item/pojo/SpecParam.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leyou-master/ly-item/ly-item-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../leyou-master/ly-item/ly-item-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leyou-master/ly-item/ly-item-service/src/main/java/com/leyou/service/service/impl/BrandServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leyou-master/ly-item/ly-item-service/src/main/java/com/leyou/service/service/impl/BrandServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leyou-master/ly-item/ly-item-service/src/main/java/com/leyou/service/service/impl/GoodsServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leyou-master/ly-item/ly-item-service/src/main/java/com/leyou/service/service/impl/GoodsServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leyou-master/ly-registry/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../leyou-master/ly-registry/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leyou/leyoueurekaserver/src/main/java/com/jason/leyoueurekaserver/LeyoueurekaserverApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leyou/leyoueurekaserver/src/main/java/com/jason/leyoueurekaserver/LeyoueurekaserverApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leyou/leyoueurekaserver/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../leyou/leyoueurekaserver/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leyou/ly-common/src/main/java/com/jason/Utills/JsonUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leyou/ly-common/src/main/java/com/jason/Utills/JsonUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leyou/ly-common/src/main/java/com/jason/Utills/NumberUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leyou/ly-common/src/main/java/com/jason/Utills/NumberUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leyou/ly-item/ly-item-service/src/main/resources/Application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../leyou/ly-item/ly-item-service/src/main/resources/Application.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ssm_web.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ssm_web/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ssm_web/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../数据结构及算法强化/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../数据结构及算法强化/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../数据结构及算法强化/out/production/数据结构及算法强化/排序/冒泡排序.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../数据结构及算法强化/out/production/数据结构及算法强化/排序/基数排序.class" beforeDir="false" afterPath="$PROJECT_DIR$/../数据结构及算法强化/out/production/数据结构及算法强化/排序/基数排序.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../数据结构及算法强化/src/排序/冒泡排序.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../数据结构及算法强化/src/排序/基数排序.java" beforeDir="false" afterPath="$PROJECT_DIR$/../数据结构及算法强化/src/排序/基数排序.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../新建文本文档.txt" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/gmall/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1" />
+    <option name="y" value="1" />
+    <option name="width" value="1364" />
+    <option name="height" value="726" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="gmall0513" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gmall0513" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="G:/" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="GmallApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gmall" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jason.gmall.gmall.GmallApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="591b5f85-3e19-4b32-87d7-98106693ded8" name="Default Changelist" comment="" />
+      <created>1570548817731</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570548817731</updated>
+      <workItem from="1570548829716" duration="1798000" />
+      <workItem from="1571226457509" duration="4374000" />
+    </task>
+    <task id="LOCAL-00001" summary="提交测试">
+      <created>1570549650470</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1570549650471</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="6172000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25379938" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="提交测试" />
+    <option name="LAST_COMMIT_MESSAGE" value="提交测试" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8.0_172</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
